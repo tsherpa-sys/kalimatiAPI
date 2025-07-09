@@ -1,0 +1,453 @@
+[
+    {
+      "id": "1",
+      "lable": "Tomato Big(Nepali)",
+      "price": { "min": 65, "max": 75, "avg": 68 }
+    },
+    {
+      "id": "2",
+      "lable": "Tomato Small(Local)",
+      "price": { "min": 34, "max": 42, "avg": 37 }
+    },
+    {
+      "id": "3",
+      "lable": "Tomato Small(Tunnel)",
+      "price": { "min": 47, "max": 58, "avg": 53 }
+    },
+    {
+      "id": "4",
+      "lable": "Potato Red",
+      "price": { "min": 40, "max": 45, "avg": 42 }
+    },
+    {
+      "id": "5",
+      "lable": "Potato Red(Indian)",
+      "price": { "min": 36, "max": 38, "avg": 37 }
+    },
+    {
+      "id": "6",
+      "lable": "Potato Red(Mude)",
+      "price": { "min": 35, "max": 37, "avg": 36 }
+    },
+    {
+      "id": "7",
+      "lable": "Onion Dry (Indian)",
+      "price": { "min": 43, "max": 45, "avg": 44 }
+    },
+    {
+      "id": "8",
+      "lable": "Carrot(Local)",
+      "price": { "min": 70, "max": 85, "avg": 79 }
+    },
+    {
+      "id": "9",
+      "lable": "Carrot(Terai)",
+      "price": { "min": 55, "max": 65, "avg": 60 }
+    },
+    {
+      "id": "10",
+      "lable": "Cabbage(Local)",
+      "price": { "min": 25, "max": 30, "avg": 28 }
+    },
+    {
+      "id": "11",
+      "lable": "Cauli Local",
+      "price": { "min": 60, "max": 70, "avg": 67 }
+    },
+    {
+      "id": "12",
+      "lable": "Cauli Terai",
+      "price": { "min": 40, "max": 55, "avg": 47 }
+    },
+    {
+      "id": "13",
+      "lable": "Raddish Red",
+      "price": { "min": 35, "max": 50, "avg": 43 }
+    },
+    {
+      "id": "14",
+      "lable": "Raddish White(Hybrid)",
+      "price": { "min": 20, "max": 25, "avg": 23 }
+    },
+    {
+      "id": "15",
+      "lable": "Brinjal Long",
+      "price": { "min": 25, "max": 30, "avg": 27 }
+    },
+    {
+      "id": "16",
+      "lable": "Brinjal Round",
+      "price": { "min": 40, "max": 50, "avg": 45 }
+    },
+    {
+      "id": "17",
+      "lable": "Cow pea(Long)",
+      "price": { "min": 25, "max": 40, "avg": 33 }
+    },
+    {
+      "id": "18",
+      "lable": "Cowpea(Short)",
+      "price": { "min": 55, "max": 65, "avg": 61 }
+    },
+    {
+      "id": "19",
+      "lable": "Green Peas",
+      "price": { "min": 180, "max": 200, "avg": 190 }
+    },
+    {
+      "id": "20",
+      "lable": "French Bean(Local)",
+      "price": { "min": 55, "max": 65, "avg": 61 }
+    },
+    {
+      "id": "21",
+      "lable": "French Bean(Hybrid)",
+      "price": { "min": 40, "max": 50, "avg": 45 }
+    },
+    {
+      "id": "22",
+      "lable": "French Bean(Rajma)",
+      "price": { "min": 80, "max": 100, "avg": 90 }
+    },
+    {
+      "id": "23",
+      "lable": "Sword Bean",
+      "price": { "min": 80, "max": 90, "avg": 85 }
+    },
+    {
+      "id": "24",
+      "lable": "Soyabean Green",
+      "price": { "min": 130, "max": 150, "avg": 136 }
+    },
+    {
+      "id": "25",
+      "lable": "Bitter Gourd",
+      "price": { "min": 30, "max": 40, "avg": 36 }
+    },
+    {
+      "id": "26",
+      "lable": "Bottle Gourd",
+      "price": { "min": 20, "max": 30, "avg": 26 }
+    },
+    {
+      "id": "27",
+      "lable": "Pointed Gourd(Terai)",
+      "price": { "min": 30, "max": 40, "avg": 35 }
+    },
+    {
+      "id": "28",
+      "lable": "Snake Gourd",
+      "price": { "min": 25, "max": 30, "avg": 28 }
+    },
+    {
+      "id": "29",
+      "lable": "Smooth Gourd",
+      "price": { "min": 50, "max": 60, "avg": 56 }
+    },
+    {
+      "id": "30",
+      "lable": "Sponge Gourd",
+      "price": { "min": 50, "max": 60, "avg": 55 }
+    },
+    {
+      "id": "31",
+      "lable": "Pumpkin",
+      "price": { "min": 40, "max": 50, "avg": 44 }
+    },
+    {
+      "id": "32",
+      "lable": "Squash(Long)",
+      "price": { "min": 40, "max": 50, "avg": 45 }
+    },
+    {
+      "id": "33",
+      "lable": "Squash(Round)",
+      "price": { "min": 35, "max": 45, "avg": 40 }
+    },
+    {
+      "id": "34",
+      "lable": "Okara",
+      "price": { "min": 50, "max": 60, "avg": 55 }
+    },
+    {
+      "id": "35",
+      "lable": "Sweet Potato",
+      "price": { "min": 70, "max": 80, "avg": 74 }
+    },
+    {
+      "id": "36",
+      "lable": "Arum",
+      "price": { "min": 60, "max": 70, "avg": 65 }
+    },
+    {
+      "id": "37",
+      "lable": "Christophine",
+      "price": { "min": 40, "max": 50, "avg": 45 }
+    },
+    {
+      "id": "38",
+      "lable": "Brd Leaf Mustard",
+      "price": { "min": 120, "max": 140, "avg": 130 }
+    },
+    {
+      "id": "39",
+      "lable": "Spinach Leaf",
+      "price": { "min": 140, "max": 160, "avg": 150 }
+    },
+    {
+      "id": "40",
+      "lable": "Mustard Leaf",
+      "price": { "min": 70, "max": 80, "avg": 76 }
+    },
+    {
+      "id": "41",
+      "lable": "Onion Green",
+      "price": { "min": 180, "max": 200, "avg": 190 }
+    },
+    {
+      "id": "42",
+      "lable": "Mushroom(Kanya)",
+      "price": { "min": 130, "max": 160, "avg": 148 }
+    },
+    {
+      "id": "43",
+      "lable": "Mushroom(Button)",
+      "price": { "min": 310, "max": 360, "avg": 338 }
+    },
+    {
+      "id": "44",
+      "lable": "Asparagus",
+      "price": { "min": 200, "max": 275, "avg": 240 }
+    },
+    {
+      "id": "45",
+      "lable": "Neuro",
+      "price": { "min": 80, "max": 100, "avg": 92 }
+    },
+    {
+      "id": "46",
+      "lable": "Brocauli",
+      "price": { "min": 70, "max": 80, "avg": 75 }
+    },
+    {
+      "id": "47",
+      "lable": "Sugarbeet",
+      "price": { "min": 60, "max": 70, "avg": 65 }
+    },
+    {
+      "id": "48",
+      "lable": "Drumstick",
+      "price": { "min": 150, "max": 170, "avg": 160 }
+    },
+    {
+      "id": "49",
+      "lable": "Red Cabbbage",
+      "price": { "min": 200, "max": 250, "avg": 225 }
+    },
+    {
+      "id": "50",
+      "lable": "Lettuce",
+      "price": { "min": 80, "max": 100, "avg": 90 }
+    },
+    {
+      "id": "51",
+      "lable": "Knolkhol",
+      "price": { "min": 60, "max": 70, "avg": 65 }
+    },
+    {
+      "id": "52",
+      "lable": "Celery",
+      "price": { "min": 100, "max": 150, "avg": 130 }
+    },
+    {
+      "id": "53",
+      "lable": "Parseley",
+      "price": { "min": 800, "max": 1000, "avg": 880 }
+    },
+    {
+      "id": "54",
+      "lable": "Mint",
+      "price": { "min": 150, "max": 170, "avg": 158 }
+    },
+    {
+      "id": "55",
+      "lable": "Tamarind",
+      "price": { "min": 190, "max": 200, "avg": 195 }
+    },
+    {
+      "id": "56",
+      "lable": "Bamboo Shoot",
+      "price": { "min": 140, "max": 150, "avg": 145 }
+    },
+    {
+      "id": "57",
+      "lable": "Tofu",
+      "price": { "min": 100, "max": 120, "avg": 110 }
+    },
+    {
+      "id": "58",
+      "lable": "Gundruk",
+      "price": { "min": 300, "max": 350, "avg": 325 }
+    },
+    {
+      "id": "59",
+      "lable": "Apple(Jholey)",
+      "price": { "min": 230, "max": 250, "avg": 240 }
+    },
+    {
+      "id": "60",
+      "lable": "Apple(Fuji)",
+      "price": { "min": 280, "max": 340, "avg": 313 }
+    },
+    {
+      "id": "61",
+      "lable": "Banana",
+      "price": { "min": 134, "max": 145, "avg": 140 }
+    },
+    {
+      "id": "62",
+      "lable": "Lime",
+      "price": { "min": 100, "max": 130, "avg": 118 }
+    },
+    {
+      "id": "63",
+      "lable": "Pomegranate",
+      "price": { "min": 300, "max": 350, "avg": 325 }
+    },
+    {
+      "id": "64",
+      "lable": "Mango(Maldah)",
+      "price": { "min": 95, "max": 110, "avg": 101 }
+    },
+    {
+      "id": "65",
+      "lable": "Mango(Dushari)",
+      "price": { "min": 100, "max": 110, "avg": 104 }
+    },
+    {
+      "id": "66",
+      "lable": "Grapes(Green)",
+      "price": { "min": 200, "max": 250, "avg": 225 }
+    },
+    {
+      "id": "67",
+      "lable": "Sweet Orange",
+      "price": { "min": 180, "max": 200, "avg": 190 }
+    },
+    {
+      "id": "68",
+      "lable": "Mandarin",
+      "price": { "min": 200, "max": 250, "avg": 228 }
+    },
+    {
+      "id": "69",
+      "lable": "Pineapple",
+      "price": { "min": 150, "max": 170, "avg": 160 }
+    },
+    {
+      "id": "70",
+      "lable": "Cucumber(Local)",
+      "price": { "min": 55, "max": 70, "avg": 62 }
+    },
+    {
+      "id": "71",
+      "lable": "Jack Fruit",
+      "price": { "min": 50, "max": 60, "avg": 55 }
+    },
+    {
+      "id": "72",
+      "lable": "Pear(Local)",
+      "price": { "min": 50, "max": 60, "avg": 55 }
+    },
+    {
+      "id": "73",
+      "lable": "Pear(Chinese)",
+      "price": { "min": 200, "max": 230, "avg": 215 }
+    },
+    {
+      "id": "74",
+      "lable": "Papaya(Indian)",
+      "price": { "min": 85, "max": 100, "avg": 92 }
+    },
+    {
+      "id": "75",
+      "lable": "Ginger",
+      "price": { "min": 90, "max": 110, "avg": 100 }
+    },
+    {
+      "id": "76",
+      "lable": "Chilli Dry",
+      "price": { "min": 250, "max": 350, "avg": 290 }
+    },
+    {
+      "id": "77",
+      "lable": "Chilli Green",
+      "price": { "min": 30, "max": 35, "avg": 33 }
+    },
+    {
+      "id": "78",
+      "lable": "Chilli Green(Bullet)",
+      "price": { "min": 20, "max": 30, "avg": 26 }
+    },
+    {
+      "id": "79",
+      "lable": "Chilli Green(Machhe)",
+      "price": { "min": 60, "max": 70, "avg": 65 }
+    },
+    {
+      "id": "80",
+      "lable": "Chilli Green(Akbare)",
+      "price": { "min": 200, "max": 230, "avg": 216 }
+    },
+    {
+      "id": "81",
+      "lable": "Capsicum",
+      "price": { "min": 90, "max": 100, "avg": 96 }
+    },
+    {
+      "id": "82",
+      "lable": "Garlic Green",
+      "price": { "min": 100, "max": 120, "avg": 110 }
+    },
+    {
+      "id": "83",
+      "lable": "Coriander Green",
+      "price": { "min": 180, "max": 280, "avg": 232 }
+    },
+    {
+      "id": "84",
+      "lable": "Garlic Dry Chinese",
+      "price": { "min": 180, "max": 200, "avg": 190 }
+    },
+    {
+      "id": "85",
+      "lable": "Garlic Dry Nepali",
+      "price": { "min": 140, "max": 170, "avg": 155 }
+    },
+    {
+      "id": "86",
+      "lable": "Clive Dry",
+      "price": { "min": 180, "max": 200, "avg": 190 }
+    },
+    {
+      "id": "87",
+      "lable": "Clive Green",
+      "price": { "min": 100, "max": 120, "avg": 110 }
+    },
+    {
+      "id": "88",
+      "lable": "Fish Fresh(Rahu)",
+      "price": { "min": 310, "max": 330, "avg": 320 }
+    },
+    {
+      "id": "89",
+      "lable": "Fish Fresh(Bachuwa)",
+      "price": { "min": 300, "max": 320, "avg": 310 }
+    },
+    {
+      "id": "90",
+      "lable": "Fish Fresh(Chhadi)",
+      "price": { "min": 220, "max": 240, "avg": 230 }
+    }
+  ]
+  
