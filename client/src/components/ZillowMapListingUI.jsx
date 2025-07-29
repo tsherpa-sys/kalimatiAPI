@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useContext, useState } from "react";
 
 import { Card, CardContent } from "@mui/material"
 
@@ -7,25 +7,30 @@ import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 import CardActionArea from '@mui/material/CardActionArea';
 import MapComponent from "./map"
-import {data} from '../data/data'
-function DropDown(props) {
+import { data } from '../data/data'
 
-    const { options } = props;
+import {ListingContext, ListingsProvider} from '../context/listingsContext'
+function DropDown({options, onChange}) {
 
-    const [age, setAge] = useState((options[0]).value);
+    const { listings, setListings, fetchListings, allListings } = useContext(ListingContext);
+
+
+    const [listingType, setListingType] = useState((options[0]).value);
 
     const handleChange = (event) => {
-
-        setAge(event.target.value);
+        onChange(event)
+        setListingType(event.target.value);
+        const filteredData = allListings.filter(item=> item.listingType.toLowerCase() == event.target.value.toLowerCase())
+        setListings(filteredData)
     };
-
 
     return (
 
         <Select
-            value={age}
+            value={listingType}
             onChange={handleChange}
             label="Age"
+            name={listingType}
             inputProps={{ 'aria-label': 'Without label' }}
         >
 
@@ -40,7 +45,7 @@ function CardItem(props) {
     const { details } = props
     const { image, price, address, beds, baths, size } = details;
     return (
-        <Card sx={{ maxWidth: 345 }}>
+        <Card sx={{ maxWidth: 345, marginBottom: '1rem' }}>
             <CardActionArea>
 
                 <CardMedia
@@ -48,6 +53,7 @@ function CardItem(props) {
                     height="140"
                     image={image}
                     alt="green iguana"
+
                 />
                 <CardContent style={{ textAlign: 'left' }}>
                     <Typography gutterBottom variant="h5" component="div">
@@ -65,49 +71,75 @@ function CardItem(props) {
 }
 
 export default function ZillowMapListingUI() {
-    // const [filters, setFilters] = useState({ price: "", beds: "", type: "" });
+    
+ const {listings} = useContext(ListingContext)
+
 
     const filters = [
         {
-            type: "sale",
+            type: "listingType",
             options: [
-                { label: "For Sale", value: "forSale" },
-                { label: "For Rent", value: "forRent" },
+                { label: "For Sale", value: "sale" },
+                { label: "For Rent", value: "rent" },
                 { label: "Sold", value: "sold" }]
 
         },
         {
-            type: "homes",
+            type: "propertyType",
             options: [
-                { label: "houses", value: "Houses" },
-                { label: "townhomes", value: "Townhomes" },
-                { label: "condos", value: "Condos/Co-ops" }]
+                { label: "House", value: "house" },
+                { label: "Room", value: "room" },
+                { label: "Condos", value: "condo" },
+                { label: "Apartment", value: "apartment" },
+            ]
         }
     ]
 
-    const listings = data.splice(0,5);
-
+    const filterChangedHandler =(event)=>{
+        console.log("filter changed event, target:",event.target.value)
+    }
 
     return (
         <div className="mainContainer" style={{ display: "flex", flexDirection: "column", alignContent: "center", margin: '1rem' }}>
             {/* filter Section */}
+          
             <div className="filters" style={{ display: 'flex', gap: '1rem', padding: '1rem' }}>
-                {filters.map(item => <DropDown options={item.options} />)}
+                {filters.map(item => <DropDown options={item.options} onChange={filterChangedHandler}/>)}
             </div>
-            <div className="dataContainer" style={{ display: "flex", gap: '1rem' }}>
+           
+            <div
+                className="dataContainer"
+                style={{
+                    display: "flex",
+                    gap: "1rem",
+                    height: "100vh", // This is key so the child knows how tall to be
+                    overflow: "hidden", // Optional to prevent unwanted scrollbars
+                }}
+            >
                 {/* Map Section */}
-                <div style={{ width: '70%' }}>
-
-                    <MapComponent listings={listings} />
-
+                <div style={{ width: "70%" }}>
+                    <MapComponent />
                 </div>
 
                 {/* Listings Section */}
-                <div className="listings" style={{ display: "flex", gap: '1rem', flexDirection: "column" , overflowY:"scroll" , height:'100%'}}>
-                    {listings.map((listing) => <CardItem details={listing} />)}
+                <div
+                    className="listings"
+                    style={{
+                        display: "block",
+                        flexDirection: "column",
+                        gap: "1rem",
+                        overflowY: "auto",
+                        height: "100%", // Fill the full height of parent
+                        width: "30%", // Optional if needed
+                    }}
+                >
+                    <p>{listings.length}</p>
+                    {listings.map((listing, idx) => (
+                        <CardItem key={idx} details={listing} />
+                    ))}
                 </div>
             </div>
-
+    
         </div>
     );
 }
