@@ -6,7 +6,7 @@ import {data} from '../data/data'
 export const ListingContext = createContext();
 
 export function ListingsProvider({ children }) {
-  const [listings, setListings] = useState([]);
+  const [listings, setListings] = useState(data);
   const [allListings, setAllListings] = useState(data);
 
 

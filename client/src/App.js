@@ -1,13 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
-import ZillowMapListingUI from './components/ZillowMapListingUI'
+import MainContainer from './components/MainContainer.jsx';
 import { ListingsProvider } from './context/listingsContext';
 
 function App() {
   return (
     <div className="App">
       <ListingsProvider>
-        <ZillowMapListingUI/>
+        <MainContainer/>
       </ListingsProvider>
    
     </div>

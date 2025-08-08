@@ -61,6 +61,7 @@ function MapEventHandler({ onBoundsChange }) {
 }
 
 export default function MapComponent() {
+  return <></>
 
   const { listings, setListings, fetchListings, allListings } = useContext(ListingContext);
   const center = [27.7103, 85.3222]; // Kathmandu center
@@ -82,7 +83,7 @@ export default function MapComponent() {
             lat >= south && lat <= north && lng >= west && lng <= east
           );
 
-          setListings(filtered);
+          setListings(allListings);
           console.log("📍 Filtered Listings:", filtered.length, "Zoom:", zoomDirection);
           if (zoomDirection === 'out') {
             const shouldFetch = !allListings.some(({ lat, lng }) =>
