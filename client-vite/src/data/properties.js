@@ -1,323 +1,107 @@
-export const properties = [
-  // --- Lazimpat Cluster ---
-  {
-    id: 1,
-    price: 4825,
-    beds: 3,
-    baths: 3,
-    sqft: 929,
-    location: "Lazimpat, Kathmandu",
-    type: "apartment",
-    image: "https://source.unsplash.com/random/400x300?house",
-    lat: 27.7172,
-    lng: 85.3240,
-  },
-  {
-    id: 2,
-    price: 5100,
-    beds: 2,
-    baths: 2,
-    sqft: 780,
-    location: "Lazimpat, Kathmandu",
-    type: "apartment",
-    image: "https://source.unsplash.com/random/400x300?apartment",
-    lat: 27.7181,
-    lng: 85.3231,
-  },
-  {
-    id: 3,
-    price: 6900,
-    beds: 4,
-    baths: 3,
-    sqft: 1100,
-    location: "Lazimpat, Kathmandu",
-    type: "villa",
-    image: "https://source.unsplash.com/random/400x300?villa",
-    lat: 27.7165,
-    lng: 85.3255,
-  },
-  {
-    id: 4,
-    price: 3500,
-    beds: 2,
-    baths: 1,
-    sqft: 640,
-    location: "Lazimpat, Kathmandu",
-    type: "studio",
-    image: "https://source.unsplash.com/random/400x300?studio",
-    lat: 27.7178,
-    lng: 85.3262,
-  },
+// generate formatted Nepali rental or sale prices
+const formatRent = (amount, period) => {
+  // Rental price formatting
+  if (amount >= 100000) {
+    return `₹ ${(amount / 100000).toFixed(1)} lakh /${period}`;
+  }
+  return `₹ ${amount.toLocaleString()} /${period}`;
+};
 
-  // --- Baneshwor Cluster ---
-  {
-    id: 5,
-    price: 5450,
-    beds: 2,
-    baths: 3,
-    sqft: 640,
-    location: "Baneshwor, Kathmandu",
-    type: "apartment",
-    image: "https://source.unsplash.com/random/400x300?modern-home",
-    lat: 27.7000,
-    lng: 85.3500,
-  },
-  {
-    id: 6,
-    price: 6200,
-    beds: 3,
-    baths: 2,
-    sqft: 900,
-    location: "Baneshwor, Kathmandu",
-    type: "apartment",
-    image: "https://source.unsplash.com/random/400x300?interior",
-    lat: 27.7008,
-    lng: 85.3491,
-  },
-  {
-    id: 7,
-    price: 7200,
-    beds: 4,
-    baths: 3,
-    sqft: 1250,
-    location: "Baneshwor, Kathmandu",
-    type: "house",
-    image: "https://source.unsplash.com/random/400x300?neoclassical-house",
-    lat: 27.6991,
-    lng: 85.3508,
-  },
-  {
-    id: 8,
-    price: 3100,
-    beds: 1,
-    baths: 1,
-    sqft: 500,
-    location: "Baneshwor, Kathmandu",
-    type: "studio",
-    image: "https://source.unsplash.com/random/400x300?small-apartment",
-    lat: 27.7012,
-    lng: 85.3515,
-  },
+const formatSale = (amount) => {
+  // Sale price formatting (NO /mo or /year)
+  if (amount >= 10000000) {
+    return `₹ ${(amount / 10000000).toFixed(1)} crore`;
+  }
+  if (amount >= 100000) {
+    return `₹ ${(amount / 100000).toFixed(1)} lakh`;
+  }
+  return `₹ ${amount.toLocaleString()}`;
+};
 
-  // --- Kupondole Cluster ---
-  {
-    id: 9,
-    price: 3246,
-    beds: 3,
-    baths: 2,
-    sqft: 712,
-    location: "Kupondole, Lalitpur",
-    type: "apartment",
-    image: "https://source.unsplash.com/random/400x300?property",
-    lat: 27.6850,
-    lng: 85.3170,
-  },
-  {
-    id: 10,
-    price: 4500,
-    beds: 2,
-    baths: 2,
-    sqft: 780,
-    location: "Kupondole, Lalitpur",
-    type: "apartment",
-    image: "https://source.unsplash.com/random/400x300?condo",
-    lat: 27.6842,
-    lng: 85.3181,
-  },
-  {
-    id: 11,
-    price: 7600,
-    beds: 4,
-    baths: 3,
-    sqft: 1300,
-    location: "Kupondole, Lalitpur",
-    type: "house",
-    image: "https://source.unsplash.com/random/400x300?mansion",
-    lat: 27.6838,
-    lng: 85.3168,
-  },
-  {
-    id: 12,
-    price: 2800,
-    beds: 1,
-    baths: 1,
-    sqft: 480,
-    location: "Kupondole, Lalitpur",
-    type: "studio",
-    image: "https://source.unsplash.com/random/400x300?minimalist",
-    lat: 27.6859,
-    lng: 85.3175,
-  },
+// Rental price ranges (per month)
+const rentRange = {
+  studio: [15000, 35000],
+  apartment: [30000, 70000],
+  house: [60000, 150000],
+  villa: [150000, 400000], // 1.5–4 lakh per month
+};
 
-  // --- Patan Cluster (Jawalakhel, Pulchowk) ---
-  {
-    id: 13,
-    price: 5200,
-    beds: 3,
-    baths: 2,
-    sqft: 860,
-    location: "Jawalakhel, Lalitpur",
-    type: "apartment",
-    image: "https://source.unsplash.com/random/400x300?city-house",
-    lat: 27.6715,
-    lng: 85.3171,
-  },
-  {
-    id: 14,
-    price: 8900,
-    beds: 5,
-    baths: 4,
-    sqft: 1500,
-    location: "Jawalakhel, Lalitpur",
-    type: "villa",
-    image: "https://source.unsplash.com/random/400x300?villa-luxury",
-    lat: 27.6708,
-    lng: 85.3164,
-  },
-  {
-    id: 15,
-    price: 3800,
-    beds: 2,
-    baths: 1,
-    sqft: 620,
-    location: "Pulchowk, Lalitpur",
-    type: "apartment",
-    image: "https://source.unsplash.com/random/400x300?apartment-building",
-    lat: 27.6731,
-    lng: 85.3142,
-  },
-  {
-    id: 16,
-    price: 2600,
-    beds: 1,
-    baths: 1,
-    sqft: 430,
-    location: "Pulchowk, Lalitpur",
-    type: "studio",
-    image: "https://source.unsplash.com/random/400x300?micro-apartment",
-    lat: 27.6744,
-    lng: 85.3135,
-  },
+// Sale price ranges (total cost)
+const saleRange = {
+  studio: [2500000, 4500000], // 25–45 lakh
+  apartment: [4000000, 12000000], // 40 lakh – 1.2 crore
+  house: [12000000, 30000000], // 1.2–3 crore
+  villa: [30000000, 80000000], // 3–8 crore
+};
 
-  // --- Boudha Cluster ---
-  {
-    id: 17,
-    price: 3400,
-    beds: 1,
-    baths: 1,
-    sqft: 520,
-    location: "Boudha, Kathmandu",
-    type: "studio",
-    image: "https://source.unsplash.com/random/400x300?buddhist-house",
-    lat: 27.7210,
-    lng: 85.3620,
-  },
-  {
-    id: 18,
-    price: 6000,
-    beds: 3,
-    baths: 2,
-    sqft: 900,
-    location: "Boudha, Kathmandu",
-    type: "apartment",
-    image: "https://source.unsplash.com/random/400x300?modern-apartment",
-    lat: 27.7202,
-    lng: 85.3604,
-  },
-  {
-    id: 19,
-    price: 7200,
-    beds: 4,
-    baths: 3,
-    sqft: 1200,
-    location: "Boudha, Kathmandu",
-    type: "house",
-    image: "https://source.unsplash.com/random/400x300?new-house",
-    lat: 27.7218,
-    lng: 85.3615,
-  },
-  {
-    id: 20,
-    price: 9200,
-    beds: 5,
-    baths: 4,
-    sqft: 1600,
-    location: "Boudha, Kathmandu",
-    type: "villa",
-    image: "https://source.unsplash.com/random/400x300?villa-modern",
-    lat: 27.7226,
-    lng: 85.3628,
-  },
+// Random type
+const randomType = () =>
+  ["studio", "apartment", "house", "villa"][Math.floor(Math.random() * 4)];
 
-  // --- Bhaktapur Cluster ---
-  {
-    id: 21,
-    price: 2500,
-    beds: 1,
-    baths: 1,
-    sqft: 400,
-    location: "Bhaktapur Durbar Area",
-    type: "studio",
-    image: "https://source.unsplash.com/random/400x300?heritage",
-    lat: 27.6710,
-    lng: 85.4290,
-  },
-  {
-    id: 22,
-    price: 3100,
-    beds: 2,
-    baths: 1,
-    sqft: 650,
-    location: "Bhaktapur Durbar Area",
-    type: "apartment",
-    image: "https://source.unsplash.com/random/400x300?brick-house",
-    lat: 27.6721,
-    lng: 85.4304,
-  },
-  {
-    id: 23,
-    price: 4800,
-    beds: 3,
-    baths: 2,
-    sqft: 880,
-    location: "Bhaktapur, Naya Thimi",
-    type: "house",
-    image: "https://source.unsplash.com/random/400x300?cottage",
-    lat: 27.6772,
-    lng: 85.3990,
-  },
-  {
-    id: 24,
-    price: 7500,
-    beds: 4,
-    baths: 3,
-    sqft: 1350,
-    location: "Bhaktapur, Naya Thimi",
-    type: "villa",
-    image: "https://source.unsplash.com/random/400x300?villa-house",
-    lat: 27.6781,
-    lng: 85.3981,
-  },
+// Random rent period
+const randomPeriod = () =>
+  Math.random() < 0.7 ? "mo" : "year"; // 70% monthly, 30% yearly
 
-  // --- Add 26 more algorithmically (randomized) ---
-  ...Array.from({ length: 26 }).map((_, i) => {
-    const randomBeds = [1, 2, 3, 4][Math.floor(Math.random() * 4)];
-    const randomType = ["apartment", "house", "studio", "villa"][Math.floor(Math.random() * 4)];
-    const locations = ["Lazimpat", "Baneshwor", "Kupondole", "Jawalakhel", "Pulchowk", "Boudha", "Bhaktapur"];
+const randomLocation = () => {
+  const locations = [
+    "Lazimpat",
+    "Baneshwor",
+    "Kupondole",
+    "Jawalakhel",
+    "Pulchowk",
+    "Boudha",
+    "Bhaktapur",
+    "Maharajgunj",
+    "Kalanki",
+    "Chabahil",
+  ];
+  return locations[Math.floor(Math.random() * locations.length)];
+};
 
-    const randomLocation = locations[Math.floor(Math.random() * locations.length)];
+const randomImage = () => {
+  const seed = Math.floor(Math.random() * 10000); // unique per property
+  return `https://picsum.photos/seed/${seed}/400/300`;
+};
 
-    return {
-      id: 25 + i,
-      price: Math.floor(Math.random() * 6000) + 2500,
-      beds: randomBeds,
-      baths: Math.floor(Math.random() * 3) + 1,
-      sqft: Math.floor(Math.random() * 900) + 400,
-      location: `${randomLocation}, Kathmandu`,
-      type: randomType,
-      image: "https://source.unsplash.com/random/400x300?home-" + (i + 10),
-      lat: 27.70 + Math.random() * 0.04,
-      lng: 85.30 + Math.random() * 0.04,
-    };
-  })
-];
+// 👇 Generate 50 mixed properties (rent + sale)
+export const properties = Array.from({ length: 50 }).map((_, i) => {
+  const type = randomType();
+  const listingType = Math.random() < 0.7 ? "rent" : "sale"; // 70% rentals, 30% sale
+
+  let rawPrice, priceText, rentPeriod = null;
+
+  if (listingType === "rent") {
+    rentPeriod = randomPeriod(); // "mo" or "year"
+
+    const [min, max] = rentRange[type];
+    rawPrice = Math.floor(Math.random() * (max - min) + min);
+
+    // If yearly rent → multiply monthly by 12
+    if (rentPeriod === "year") {
+      rawPrice *= 12;
+    }
+
+    priceText = formatRent(rawPrice, rentPeriod);
+  } else {
+    // SALE pricing
+    const [min, max] = saleRange[type];
+    rawPrice = Math.floor(Math.random() * (max - min) + min);
+    priceText = formatSale(rawPrice);
+  }
+
+  return {
+    id: i + 1,
+    type,
+    listingType,    // "rent" or "sale"
+    rentPeriod,     // "mo" | "year" | null
+    rawPrice,
+    price: priceText,
+    beds: [1, 2, 3, 4][Math.floor(Math.random() * 4)],
+    baths: Math.floor(Math.random() * 3) + 1,
+    sqft: Math.floor(Math.random() * 900) + 400,
+    location: `${randomLocation()}, Kathmandu`,
+    image: randomImage(),
+    lat: 27.65 + Math.random() * 0.12,
+    lng: 85.28 + Math.random() * 0.12,
+  };
+});

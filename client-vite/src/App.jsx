@@ -10,9 +10,9 @@ import { useState, useMemo } from "react";
 
 export default function App() {
 
-   const [activeId, setActiveId] = useState(null);
+  const [activeId, setActiveId] = useState(null);
 
-     // 🎯 FILTER STATE
+  // 🎯 FILTER STATE
   const [filters, setFilters] = useState({
     search: "",
     price: null,   // { min: 3000, max: 6000 }
@@ -21,10 +21,10 @@ export default function App() {
   });
 
 
-    // 🧠 APPLY FILTERS
+  // 🧠 APPLY FILTERS
   const filteredProperties = useMemo(() => {
     return properties.filter((p) => {
-      
+
       // Search
       if (filters.search) {
         const text = filters.search.toLowerCase();
@@ -56,30 +56,26 @@ export default function App() {
       <Navbar />
 
       <div className="max-w-7xl mx-auto px-6">
-         <SearchBar setFilters={setFilters} />
+        <SearchBar setFilters={setFilters} />
 
-        <FilterBar 
-          filters={filters} 
-          setFilters={setFilters} 
+        <FilterBar
+          filters={filters}
+          setFilters={setFilters}
         />
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mt-6">
-         {/* Map */}
-        <div className="lg:col-span-2">
-          <MapBox 
-            properties={filteredProperties}
-            activeId={activeId}
-            setActiveId={setActiveId}
-          />
-        </div>
+          {/* Map */}
+          <div className="lg:col-span-2">
+            <MapBox
+              properties={filteredProperties}
+              activeId={activeId}
+              setActiveId={setActiveId}
+            />
+          </div>
 
-        {/* Cards */}
-        <div>
-          <PropertyGrid 
-            properties={filteredProperties}
-            activeId={activeId}
-            setActiveId={setActiveId}
-          />
-        </div>
+          {/* Cards */}
+          <div className="h-[80vh] overflow-y-auto pr-2">
+            <PropertyGrid properties={filteredProperties} activeId={activeId} setActiveId={setActiveId} />
+          </div>
         </div>
       </div>
     </div>
