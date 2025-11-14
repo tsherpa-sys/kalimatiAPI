@@ -62,7 +62,7 @@ export default function App() {
           filters={filters}
           setFilters={setFilters}
         />
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mt-6">
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-2 mt-6">
           {/* Map */}
           <div className="lg:col-span-2">
             <MapBox

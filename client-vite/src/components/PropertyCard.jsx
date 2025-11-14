@@ -3,7 +3,7 @@ export default function PropertyCardOld({ p, active }) {
     <div
       id={`property-${p.id}`}
       className={`
-        bg-white rounded-xl shadow-sm border p-4 cursor-pointer transition
+        bg-white rounded-xl shadow-sm border p-1.5 cursor-pointer transition
         ${active ? "border-blue-500 shadow-md" : "border-gray-200"}
       `}
     >
