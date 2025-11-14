@@ -9,3 +9,28 @@
 .leaflet-bottom {
   z-index: 1 !important;
 }
+
+
+.leaflet-popup-content-wrapper.property-popup,
+.leaflet-popup-content.property-popup {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.leaflet-popup-content-wrapper.property-popup {
+  background: transparent !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
+
+.leaflet-popup-tip-container {
+  display: none !important; /* hide arrow */
+}
+
+.leaflet-popup.property-popup {
+  margin: 0 !important;
+}
+
+.leaflet-popup-content {
+    margin: 1px !important;
+}
