@@ -1,6 +1,8 @@
 import { MapContainer, TileLayer, useMap } from "react-leaflet";
 import { useEffect } from "react";
 import PriceMarker from "./PriceMarker";
+import LandAreaMap from "../LandAreaMap";
+
 
 export default function MapBox({ properties, activeId, setActiveId }) {
   
@@ -33,7 +35,8 @@ export default function MapBox({ properties, activeId, setActiveId }) {
       }}
       onHover={() => setActiveId(p.id)}
     />
-  ))}
+   
+  ))} <LandAreaMap/>
       </MapContainer>
     </div>
   );
