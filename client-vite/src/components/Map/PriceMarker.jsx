@@ -12,7 +12,6 @@ const mountainIcon = L.icon({
 export default function PriceMarker({
     property,
     position,
-    active,
     onClick,
     onHover,
     onHoverEnd
@@ -21,19 +20,19 @@ export default function PriceMarker({
         <Marker
             position={position}
             icon={mountainIcon}
-            eventHandlers={{
-                click: onClick,
-                mouseover: onHover,
-                mouseout: onHoverEnd,
-            }}
+            // eventHandlers={{
+            //     click: onClick,
+            //     mouseover: onHover,
+            //     mouseout: onHoverEnd,
+            // }}
         >
-            {active && (
+            {property && (
                 <Popup
                     closeButton={false}
                     offset={[0, -10]}
                     className="property-popup"
                 >
-                    <PropertyCard property={property} />
+                    <PropertyCard p={property} onClick={onClick} />
                 </Popup>
             )}
         </Marker>

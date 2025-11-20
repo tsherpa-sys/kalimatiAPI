@@ -1,4 +1,7 @@
 // generate formatted Nepali rental or sale prices
+
+
+import listings from './data'
 const formatRent = (amount, period) => {
   // Rental price formatting
   if (amount >= 100000) {
@@ -63,8 +66,8 @@ const randomImage = () => {
   return `https://picsum.photos/seed/${seed}/400/300`;
 };
 
-// 👇 Generate 50 mixed properties (rent + sale)
-export const properties = Array.from({ length: 50 }).map((_, i) => {
+
+export const properties = listings.splice(0,50).map((_, i) => {
   const type = randomType();
   const listingType = Math.random() < 0.7 ? "rent" : "sale"; // 70% rentals, 30% sale
 
@@ -91,17 +94,20 @@ export const properties = Array.from({ length: 50 }).map((_, i) => {
 
   return {
     id: i + 1,
-    type,
-    listingType,    // "rent" or "sale"
-    rentPeriod,     // "mo" | "year" | null
-    rawPrice,
+    title:_.Title,
+    type : randomType(),
+    listingType,  
+    rentPeriod,   
+    rawPrice: _.Price,
     price: priceText,
-    beds: [1, 2, 3, 4][Math.floor(Math.random() * 4)],
-    baths: Math.floor(Math.random() * 3) + 1,
-    sqft: Math.floor(Math.random() * 900) + 400,
+    beds: _.Bedroom,
+    baths: _.Bathroom,
+    sqft: _['Build Area'],
     location: `${randomLocation()}, Kathmandu`,
-    image: randomImage(),
-    lat: 27.65 + Math.random() * 0.12,
+    images:[randomImage(),randomImage(),randomImage(),randomImage()],
+    lat: 27.65 + Math.random() * 0.16,
     lng: 85.28 + Math.random() * 0.12,
   };
 });
+
+

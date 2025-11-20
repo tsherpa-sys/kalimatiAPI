@@ -1,6 +1,6 @@
-import PropertyCard from "./PropertyCard";
+import {PropertyCard} from "./PropertyCard";
 
-export default function PropertyGrid({ properties, activeId, setActiveId }) {
+export default function PropertyGrid({ properties,  onClick }) {
   if (!properties || properties.length === 0) {
     return (
       <div className="text-gray-600 p-6 text-center">
@@ -12,12 +12,8 @@ export default function PropertyGrid({ properties, activeId, setActiveId }) {
   return (
     <div className="grid grid-cols-1 gap-5">
       {properties.map((p) => (
-        <div
-          key={p.id}
-          onMouseEnter={() => setActiveId(p.id)}
-          onMouseLeave={() => setActiveId(null)}
-        >
-          <PropertyCard p={p} active={activeId === p.id} />
+        <div key={p.id}>
+          <PropertyCard p={p} onClick={onClick}/>
         </div>
       ))}
     </div>

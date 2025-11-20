@@ -7,8 +7,9 @@ import LandAreaMap from "../LandAreaMap";
 import { useState } from "react";
 
 import { PropertyCard } from "../PropertyCard";
+import MoveHandler from "./MoveHandler"
 
-export default function MapBox({ properties, activeId, setActiveId }) {
+export default function MapBox({ properties, activeId, setActiveId, onMapBoundsChange, properTySelected}) {
    
 
     return (
@@ -23,7 +24,8 @@ export default function MapBox({ properties, activeId, setActiveId }) {
                 <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
 
                 <AutoBounds properties={properties} />
-
+                {/* Listen for map move + zoom */}
+                {/* <MoveHandler onChange={onMapBoundsChange} /> */}
                 {properties.length > 0 &&
                     properties.map((p) => (
                         <PriceMarker
@@ -31,19 +33,12 @@ export default function MapBox({ properties, activeId, setActiveId }) {
                             property={p}
                             position={[p.lat, p.lng]}
                             active={activeId === p.id}
-                            onClick={() => setActiveId(p.id)}     // click selects the property
+                            onClick={properTySelected}     // click selects the property
                             onHover={() => setActiveId(p.id)}     // hover activates popup
                             onHoverEnd={() => { }}                 // don’t auto close (Zillow!)
                         />
                     ))}
             </MapContainer>
-
-            {/* FLOATING CARD — FIXED ON SCREEN */}
-            {/* {hoveredProperty && (
-        <div className="absolute top-4 right-4 z-[999]">
-          <PropertyCard property={hoveredProperty} />
-        </div>
-      )} */}
         </div>
     );
 }

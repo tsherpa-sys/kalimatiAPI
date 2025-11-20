@@ -19,6 +19,31 @@ export default function FilterBar({ filters, setFilters }) {
   return (
     <div className="flex gap-4 mt-4 relative" ref={ref}>
 
+  {/* LISTING TYPE FILTER */}
+      <div className="relative">
+        <button
+          onClick={() => setOpen(open === "listingType" ? null : "listingType")}
+          className="flex items-center justify-between px-4 py-2 bg-white border border-gray-300 rounded-lg min-w-[120px]"
+        >
+          <span>{filters.listingType ? filters.listingType : "Listing Type"}</span>
+          <Chevron />
+        </button>
+
+        {open === "listingType" && (
+          <div className="absolute mt-2 w-40 bg-white border rounded-lg shadow p-3 z-50">
+            {["Sale", "Rent", "Lease"].map((t) => (
+              <Option key={t}
+                label={t}
+                onClick={() => {
+                  setFilters((f) => ({ ...f, listingType: t }));
+                  setOpen(null);
+                }}
+              />
+            ))}
+          </div>
+        )}
+      </div>
+
       {/* PRICE FILTER */}
       <div className="relative">
         <button
@@ -90,7 +115,7 @@ export default function FilterBar({ filters, setFilters }) {
 
         {open === "type" && (
           <div className="absolute mt-2 w-40 bg-white border rounded-lg shadow p-3 z-50">
-            {["apartment", "house", "studio", "villa"].map((t) => (
+            {["Apartment", "House", "Studio", "Villa"].map((t) => (
               <Option key={t}
                 label={t}
                 onClick={() => {
@@ -102,6 +127,7 @@ export default function FilterBar({ filters, setFilters }) {
           </div>
         )}
       </div>
+
 
     </div>
   );

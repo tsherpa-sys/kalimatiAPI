@@ -1,36 +1,11 @@
-export default function PropertyCardOld({ p, active }) {
+import ImageCarousel from './ImageCrousel'
+export  function PropertyCard({ p,  onClick }) {
+ 
+  const property = p;
+
   return (
     <div
-      id={`property-${p.id}`}
-      className={`
-        bg-white rounded-xl shadow-sm border p-1.5 cursor-pointer transition
-        ${active ? "border-blue-500 shadow-md" : "border-gray-200"}
-      `}
-    >
-      <img
-        src={p.image}
-        className="w-full h-40 object-cover rounded-lg"
-        alt=""
-      />
-
-      <div className="mt-3">
-        <div className="text-xl font-semibold">
-          ${p.price}/mo
-        </div>
-        <div className="text-sm text-gray-600 mt-1">
-          {p.beds} bds • {p.baths} ba • {p.sqft} sqft
-        </div>
-        <div className="mt-1 text-gray-700 text-sm">
-          {p.location}
-        </div>
-      </div>
-    </div>
-  );
-}
-
-export  function PropertyCard({ property }) {
-  return (
-    <div
+      onClick={()=>onClick(p)}
       style={{
         width: "280px",
         background: "white",
@@ -38,10 +13,12 @@ export  function PropertyCard({ property }) {
         boxShadow: "0 4px 15px rgba(0,0,0,0.15)",
         overflow: "hidden",
         cursor: "pointer",
+        
       }}
     >
+     
       <img
-        src={property.image}
+        src={property.images[0]}
         alt=""
         style={{
           width: "100%",
@@ -72,3 +49,38 @@ export  function PropertyCard({ property }) {
     </div>
   );
 }
+
+export function PropertyModal({ property, onClose }) {
+  return (
+    <div 
+      className="fixed inset-0 bg-black bg-opacity-40 flex justify-center items-center z-50"
+      onClick={onClose}
+    >
+      <div 
+        className="bg-white rounded-lg shadow-lg w-11/12 max-w-5xl p-5"
+        onClick={(e) => e.stopPropagation()}
+      >
+        <ImageCarousel images={property.images}/>
+
+        <div className="p-5">
+          <h2 className="text-2xl font-bold">{property.price}</h2>
+
+          <p className="text-gray-700 mt-2">
+            {property.beds} beds • {property.baths} baths • {property.sqft} sqft
+          </p>
+
+          <p className="text-gray-600 mt-2">{property.address}</p>
+
+          <button
+            className="mt-4 bg-blue-500 text-white px-4 py-2 rounded"
+            onClick={onClose}
+          >
+            Close
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+
