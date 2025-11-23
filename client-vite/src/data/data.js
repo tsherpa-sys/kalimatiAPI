@@ -17,7 +17,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "18-0-0-0 Aana",
    "Posted": "11 hours ago",
-   "Amenities": "['Parking', 'Lawn', 'Garage', 'Frontyard', 'Fencing', 'Balcony', 'Backyard', 'Modular Kitchen', 'Garden', 'Water Supply', 'Drainage', 'Water Tank', 'Wifi', 'Water Well', 'Solar Water', 'TV Cable']"
+   "Amenities": ['Parking',, 'Lawn', 'Garage', 'Frontyard', 'Fencing', 'Balcony', 'Backyard', 'Modular Kitchen', 'Garden', 'Water Supply', 'Drainage', 'Water Tank', 'Wifi', 'Water Well', 'Solar Water', 'TV Cable'],
  },
  {
    "Title": "21 Aana Beautiful House : House For Sale In Budhanilkantha, Kathmandu",
@@ -37,7 +37,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-14-0-0 Aana",
    "Posted": "12 hours ago",
-   "Amenities": "['Parking', 'Garage', 'Fencing', 'Frontyard', 'Balcony', 'Backyard', 'Garden', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Wifi', 'Water Tank', 'Water Well', 'Solar Water', 'TV Cable']"
+   "Amenities": ['Parking',, 'Garage', 'Fencing', 'Frontyard', 'Balcony', 'Backyard', 'Garden', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Wifi', 'Water Tank', 'Water Well', 'Solar Water', 'TV Cable'],
  },
  {
    "Title": "Beautiful To Floor House : House For Sale In Dhapasi, Kathmandu",
@@ -57,7 +57,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "10-1-0-0 Aana",
    "Posted": "2 days ago",
-   "Amenities": "['Parking', 'Lawn', 'Garage', 'Frontyard', 'Fencing', 'Balcony', 'Backyard', 'Garden', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Wifi', 'Water Tank', 'Water Well', 'Solar Water', 'TV Cable']"
+   "Amenities": ['Parking',, 'Lawn', 'Garage', 'Frontyard', 'Fencing', 'Balcony', 'Backyard', 'Garden', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Wifi', 'Water Tank', 'Water Well', 'Solar Water', 'TV Cable'],
  },
  {
    "Title": "Modern Architecture Bungalow House : House For Sale In Baluwatar, Kathmandu",
@@ -77,7 +77,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-7-1-0 Aana",
    "Posted": "1 day ago",
-   "Amenities": "['Parking', 'Lawn', 'Garage', 'Frontyard', 'Fencing', 'Balcony', 'Backyard', 'Garden', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Wifi', 'TV Cable']"
+   "Amenities": ['Parking',, 'Lawn', 'Garage', 'Frontyard', 'Fencing', 'Balcony', 'Backyard', 'Garden', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Wifi', 'TV Cable'],
  },
  {
    "Title": "Modern Bungalow House : House For Sale In Golfutar, Kathmandu",
@@ -97,7 +97,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-14-2-0 Aana",
    "Posted": "2 days ago",
-   "Amenities": "['Parking', 'Lawn', 'Garage', 'Balcony', 'Backyard', 'Frontyard', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Solar Water', 'Water Well']"
+   "Amenities": ['Parking', 'Lawn', 'Garage', 'Balcony', 'Backyard', 'Frontyard', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Solar Water', 'Water Well']
  },
  {
    "Title": "Beautiful Bungalow House : House For Sale In Banasthali, Kathmandu",
@@ -117,7 +117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-8-3-1 Aana",
    "Posted": "3 days ago",
-   "Amenities": "['Parking', 'Lawn', 'Garage', 'Balcony', 'Backyard', 'Frontyard', 'Fencing', 'Modular Kitchen', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Solar Water']"
+   "Amenities": ['Parking',, 'Lawn', 'Garage', 'Balcony', 'Backyard', 'Frontyard', 'Fencing', 'Modular Kitchen', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Solar Water'],
  },
  {
    "Title": "House For Sale @ Dadathok Lubhu Lalitpur : House For Sale In Lubhu, Lalitpur",
@@ -137,7 +137,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 days ago",
-   "Amenities": "['Parking', 'Balcony']"
+   "Amenities": ['Parking',, 'Balcony'],
  },
  {
    "Title": "Modern House : House For Sale In Budhanilkantha, Kathmandu",
@@ -157,7 +157,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-6-5-0 Aana",
    "Posted": "3 days ago",
-   "Amenities": "['Parking', 'Lawn', 'Garage', 'Frontyard', 'Fencing', 'Balcony', 'Backyard', 'Garden', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Wifi', 'TV Cable', 'Solar Water', 'Water Tank', 'Water Well']"
+   "Amenities": ['Parking',, 'Lawn', 'Garage', 'Frontyard', 'Fencing', 'Balcony', 'Backyard', 'Garden', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Wifi', 'TV Cable', 'Solar Water', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "Flat System House : House For Sale In Baluwatar, Kathmandu",
@@ -177,7 +177,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-9-3-2 Aana",
    "Posted": "4 days ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Parking']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Parking'],
  },
  {
    "Title": "Residential House Sale : House For Sale In Sukedhara, Kathmandu",
@@ -197,7 +197,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "2394 Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Balcony', 'Fencing', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Beautiful House For Sale : House For Sale In Lekhnath, Pokhara",
@@ -217,7 +217,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "7 Aana",
    "Posted": "3 weeks ago",
-   "Amenities": "['Parking', 'Backyard']"
+   "Amenities": ['Parking',, 'Backyard'],
  },
  {
    "Title": "House Sale In Budhanilkantha : House For Sale In Chapali, Kathmandu",
@@ -237,7 +237,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "2500 Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Internet']"
+   "Amenities": ['Parking',, 'Balcony', 'Internet'],
  },
  {
    "Title": "Budhanilkantha Mandir 1 Floor Home : House For Sale In Budhanilkantha, Kathmandu",
@@ -257,7 +257,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "House For Sale , Hepali Height : House For Sale In Budhanilkantha, Kathmandu",
@@ -277,7 +277,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garage', 'Modular Kitchen', 'Microwave', 'Garden', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well']"
+   "Amenities": ['Parking',, 'Garage', 'Modular Kitchen', 'Microwave', 'Garden', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well'],
  },
  {
    "Title": "Tokha Grandy Height Home : House For Sale In Budhanilkantha, Kathmandu",
@@ -297,7 +297,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Sitapaila Modern Semi Bungalow : House For Sale In Sitapaila, Kathmandu",
@@ -317,7 +317,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2700 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "2.5 Storey : House For Sale In Narephate, Kathmandu",
@@ -337,7 +337,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Lawn', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Parking', 'Store Room']"
+   "Amenities": ['Lawn', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Parking', 'Store Room'],
  },
  {
    "Title": "2.5 Storey House On Sale At Daura Dipo , Checkpost : House For Sale In Thankot, Kathmandu",
@@ -357,7 +357,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "House For Sale At Kalanki : House For Sale In Kalanki, Kathmandu",
@@ -377,7 +377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House Sale In Lolang Height : House For Sale In Kavresthali, Kathmandu",
@@ -397,7 +397,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sipadol, Bhaktapur",
@@ -417,7 +417,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2100 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Lawn', 'Balcony', 'Fencing', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'CCTV', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Lawn', 'Balcony', 'Fencing', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'CCTV', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "House For Sale In Radhe Radhe, Bhaktapur",
@@ -437,7 +437,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Balaju Commercial Building For Sale : House For Sale In Balaju, Kathmandu",
@@ -457,7 +457,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garage']"
+   "Amenities": ['Parking',, 'Garage'],
  },
  {
    "Title": "Budhanilkantha Taulung Home : House For Sale In Budhanilkantha, Kathmandu",
@@ -477,7 +477,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garden']"
+   "Amenities": ['Parking',, 'Garden'],
  },
  {
    "Title": "Semi-Furnished House : House For Sale In Sitapaila, Kathmandu",
@@ -497,7 +497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2100 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking'],
  },
  {
    "Title": "Dhapasi Deurali Janata Najik Ghar : House For Sale In Dhapasi, Kathmandu",
@@ -517,7 +517,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garage']"
+   "Amenities": ['Parking',, 'Garage'],
  },
  {
    "Title": "Golfutar Height 19 Ana Bungalow : House For Sale In Golfutar, Kathmandu",
@@ -537,7 +537,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garage', 'Backyard', 'Balcony', 'Air Condition', 'Frontyard', 'Fencing', 'Garden', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Solar Water', 'Water Well']"
+   "Amenities": ['Parking',, 'Garage', 'Backyard', 'Balcony', 'Air Condition', 'Frontyard', 'Fencing', 'Garden', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Solar Water', 'Water Well'],
  },
  {
    "Title": "Newly Constructed : House For Sale In Imadol, Lalitpur",
@@ -557,7 +557,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2700 Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "House For Sale In Pepsicola, Kathmandu",
@@ -577,7 +577,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garage']"
+   "Amenities": ['Parking',, 'Garage'],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -597,7 +597,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Lawn', 'Balcony', 'Fencing', 'Drainage', 'Water Supply', 'Water Tank', 'Store Room']"
+   "Amenities": ['Lawn', 'Balcony', 'Fencing', 'Drainage', 'Water Supply', 'Water Tank', 'Store Room'],
  },
  {
    "Title": "Newly Built House : House For Sale In Imadol, Lalitpur",
@@ -617,7 +617,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "112 Sq. Meter",
    "Posted": "1 month ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Imadol, Swastik Tole House On Sell : House For Sale In Imadol, Lalitpur",
@@ -637,7 +637,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3-0-2 Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Water Tank', 'Water Well', 'Drainage', 'Internet', 'Wifi', 'TV Cable']"
+   "Amenities": ['Parking',, 'Balcony', 'Water Tank', 'Water Well', 'Drainage', 'Internet', 'Wifi', 'TV Cable'],
  },
  {
    "Title": "Baluwatar New Home : House For Sale In Baluwatar, Kathmandu",
@@ -657,7 +657,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garage', 'Air Condition', 'Balcony', 'Frontyard', 'Fencing', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank']"
+   "Amenities": ['Parking',, 'Garage', 'Air Condition', 'Balcony', 'Frontyard', 'Fencing', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank'],
  },
  {
    "Title": "Budhanilkantha Underconstruction : House For Sale In Budhanilkantha, Kathmandu",
@@ -677,7 +677,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garage']"
+   "Amenities": ['Parking',, 'Garage'],
  },
  {
    "Title": "4 Ropani Farm House Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -697,7 +697,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garage', 'Balcony', 'Backyard', 'Deck', 'Frontyard', 'Fencing', 'Garden', 'Microwave', 'Modular Kitchen', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank', 'CCTV', 'Kids Playground', 'Store Room']"
+   "Amenities": ['Parking',, 'Garage', 'Balcony', 'Backyard', 'Deck', 'Frontyard', 'Fencing', 'Garden', 'Microwave', 'Modular Kitchen', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank', 'CCTV', 'Kids Playground', 'Store Room'],
  },
  {
    "Title": "Kapan Khariboth Home : House For Sale In Kapan, Kathmandu",
@@ -717,7 +717,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Dhumbarahi Home For Sale : House For Sale In Mandikatar, Kathmandu",
@@ -737,7 +737,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Hattigaudama 5 Anako Ghar Bikrima : House For Sale In Hattigauda, Kathmandu",
@@ -757,7 +757,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Office Space For Rent In Radhe Radhe, Bhaktapur",
@@ -777,7 +777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "['Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking']"
+   "Amenities": ['Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking'],
  },
  {
    "Title": "Grandy Gate Home : House For Sale In Budhanilkantha, Kathmandu",
@@ -797,7 +797,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "11 Ana Bungalow For Sale : House For Sale In Budhanilkantha, Kathmandu",
@@ -817,7 +817,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Baluwatar 30 Ana Bungalow For Sale : House For Sale In Baluwatar, Kathmandu",
@@ -837,7 +837,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garage', 'Balcony', 'Garden', 'Water Supply', 'Drainage', 'Water Tank', 'Solar Water']"
+   "Amenities": ['Parking',, 'Garage', 'Balcony', 'Garden', 'Water Supply', 'Drainage', 'Water Tank', 'Solar Water'],
  },
  {
    "Title": "Grandy House For Sale : House For Sale In Tokha, Kathmandu",
@@ -857,7 +857,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Sukedhara Brand New Home For Sale : House For Sale In Sukedhara, Kathmandu",
@@ -877,7 +877,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garage', 'Balcony', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Water Well', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Parking',, 'Garage', 'Balcony', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Water Well', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Naksal Maligau Home For Sale : House For Sale In Maligaon, Kathmandu",
@@ -897,7 +897,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garage', 'Air Condition', 'Microwave', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Water Well', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Parking',, 'Garage', 'Air Condition', 'Microwave', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Water Well', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Hattigauda 5 Ana Home : House For Sale In Budhanilkantha, Kathmandu",
@@ -917,7 +917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garden']"
+   "Amenities": ['Parking',, 'Garden'],
  },
  {
    "Title": "Golfutar Height Home : House For Sale In Budhanilkantha, Kathmandu",
@@ -937,7 +937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Mandikatar 1 Floor Home : House For Sale In Mandikatar, Kathmandu",
@@ -957,7 +957,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Jyotinagar Home For Sale : House For Sale In Budhanilkantha, Kathmandu",
@@ -977,7 +977,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Dhapasi Height Commercil Building : House For Sale In Tokha, Kathmandu",
@@ -997,7 +997,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Sundar Basti Brand New Home 2 Homes : House For Sale In Budhanilkantha, Kathmandu",
@@ -1017,7 +1017,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garage']"
+   "Amenities": ['Parking',, 'Garage'],
  },
  {
    "Title": "Tokha Near Venas Housing Home : House For Sale In Tokha, Kathmandu",
@@ -1037,7 +1037,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "8 Ana Home Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -1057,7 +1057,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garage', 'Frontyard', 'Water Supply', 'Drainage', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Parking',, 'Garage', 'Frontyard', 'Water Supply', 'Drainage', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Baluwatar, Kathmandu",
@@ -1077,7 +1077,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Sale Of Attractive House And Land : House For Sale In Naikap, Kathmandu",
@@ -1097,7 +1097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "4 Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Water Well', 'Store Room', 'Frontyard', 'Garden', 'Water Supply', 'Solar Water', 'TV Cable']"
+   "Amenities": ['Parking',, 'Balcony', 'Water Well', 'Store Room', 'Frontyard', 'Garden', 'Water Supply', 'Solar Water', 'TV Cable'],
  },
  {
    "Title": "Brand New Never Used House For Sale At Rose Village Balkot : House For Sale In Balkot, Bhaktapur",
@@ -1117,7 +1117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2200 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garage', 'Air Condition', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Microwave', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet']"
+   "Amenities": ['Parking',, 'Garage', 'Air Condition', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Microwave', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet'],
  },
  {
    "Title": "House On Sale : House For Sale In Naya Bazar, Kathmandu",
@@ -1137,7 +1137,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2000 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Fencing', 'Modular Kitchen', 'Frontyard', 'Backyard']"
+   "Amenities": ['Fencing', 'Modular Kitchen', 'Frontyard', 'Backyard'],
  },
  {
    "Title": "Commercial House Sale In Satungal : House For Sale In Satungal, Kathmandu",
@@ -1157,7 +1157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat House On Sale, 500 Meter Far From Main Road. : House For Sale In Budhanilkantha, Kathmandu",
@@ -1177,7 +1177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3 Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Solar Water', 'Internet', 'Store Room', 'Wifi']"
+   "Amenities": ['Parking',, 'Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Solar Water', 'Internet', 'Store Room', 'Wifi'],
  },
  {
    "Title": "House For Sale In Tarkeshwor, Kathmandu",
@@ -1197,7 +1197,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "House With 4 Ropani, Only Land Cost -Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -1217,7 +1217,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Parking',, 'Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Modern House For Sale -Baluwatar : House For Sale In Baluwatar, Kathmandu",
@@ -1237,7 +1237,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "4000 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garage', 'Air Condition', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank']"
+   "Amenities": ['Parking',, 'Garage', 'Air Condition', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank'],
  },
  {
    "Title": "House For Sale -Nakkhudol Bhaisepati : House For Sale In Nakhundol, Lalitpur",
@@ -1257,7 +1257,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Modular Kitchen', 'Fencing', 'Water Tank', 'Water Supply', 'Drainage']"
+   "Amenities": ['Parking',, 'Balcony', 'Modular Kitchen', 'Fencing', 'Water Tank', 'Water Supply', 'Drainage'],
  },
  {
    "Title": "Bungalow : House For Sale In Bhaktapur, Bhaktapur",
@@ -1277,7 +1277,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "2200 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Electricity Backup', 'Internet', 'Store Room']"
+   "Amenities": ['Parking',, 'Balcony', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Electricity Backup', 'Internet', 'Store Room'],
  },
  {
    "Title": "जोरपाटी माकलबारी सानो पुल नजिक : House For Sale In Jorpati, Kathmandu",
@@ -1297,7 +1297,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-3-1-2 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Water Well', 'Solar Water', 'Garage', 'TV Cable', 'Parking', 'Electricity Backup', 'Store Room']"
+   "Amenities": ['Water Well', 'Solar Water', 'Garage', 'TV Cable', 'Parking', 'Electricity Backup', 'Store Room'],
  },
  {
    "Title": "Bungalow At Aananda Colony, Aastha Chowk : House For Sale In Bharatpur, Chitwan",
@@ -1317,7 +1317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "1736 Dhur",
    "Posted": "1 month ago",
-   "Amenities": "['Air Condition', 'Balcony', 'Deck', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Water Tank', 'Electricity Backup', 'Internet', 'Parking']"
+   "Amenities": ['Air Condition', 'Balcony', 'Deck', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Water Tank', 'Electricity Backup', 'Internet', 'Parking'],
  },
  {
    "Title": "House Sale In Raniban : House For Sale In Raniban, Kathmandu",
@@ -1337,7 +1337,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Attractive House For Sale In Ratnanagar, Chitwan : House For Sale In Ratnanagar, Chitwan",
@@ -1357,7 +1357,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "4 Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Water Tank', 'Parking']"
+   "Amenities": ['Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Water Tank', 'Parking'],
  },
  {
    "Title": "Residential House : House For Sale In Makalbari, Kathmandu",
@@ -1377,7 +1377,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Balcony', 'Fencing', 'Frontyard', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Frontyard', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "3.5 Storey : House For Sale In Sipadol, Bhaktapur",
@@ -1397,7 +1397,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "3500 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking'],
  },
  {
    "Title": "Fully Furnished New House On Sale At Hepali, Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -1417,7 +1417,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Microwave', 'Drainage', 'Electricity Backup', 'Water Supply', 'Modular Kitchen', 'Fencing', 'Intercom', 'Internet', 'Frontyard', 'TV Cable', 'Garage', 'Garden', 'Washing Machine', 'Water Tank', 'Kids Playground', 'CCTV', 'Wifi']"
+   "Amenities": ['Parking',, 'Balcony', 'Microwave', 'Drainage', 'Electricity Backup', 'Water Supply', 'Modular Kitchen', 'Fencing', 'Intercom', 'Internet', 'Frontyard', 'TV Cable', 'Garage', 'Garden', 'Washing Machine', 'Water Tank', 'Kids Playground', 'CCTV', 'Wifi'],
  },
  {
    "Title": "House Sale In Mhepi : House For Sale In Mhepi, Kathmandu",
@@ -1437,7 +1437,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House Sale In Chaysingdol : House For Sale In Pasikot, Kathmandu",
@@ -1457,7 +1457,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House On Sell @Dhapasi, Near By Grandi International Hospital. : House For Sale In Dhapasi, Kathmandu",
@@ -1477,7 +1477,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "0-4-0-0 Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Water Supply', 'Solar Water', 'Water Tank', 'Store Room', 'Garden', 'Lawn', 'Balcony', 'TV Cable', 'Internet', 'Wifi', 'Modular Kitchen']"
+   "Amenities": ['Parking',, 'Water Supply', 'Solar Water', 'Water Tank', 'Store Room', 'Garden', 'Lawn', 'Balcony', 'TV Cable', 'Internet', 'Wifi', 'Modular Kitchen'],
  },
  {
    "Title": "One And Half Storied : House For Sale In Imadol, Lalitpur",
@@ -1497,7 +1497,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Lawn', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Parking']"
+   "Amenities": ['Lawn', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Parking'],
  },
  {
    "Title": "Modern Designed : House For Sale In Imadol, Lalitpur",
@@ -1517,7 +1517,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "1900 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -1537,7 +1537,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2100 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Electricity Backup', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Electricity Backup', 'Parking', 'Store Room'],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -1557,7 +1557,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2500 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Parking', 'Store Room'],
  },
  {
    "Title": "Newly Built : House For Sale In Imadol, Lalitpur",
@@ -1577,7 +1577,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "750 Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Parking', 'Store Room'],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -1597,7 +1597,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "650 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Parking', 'Store Room'],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -1617,7 +1617,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "650 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Brand New House For Sale In Swoyambhu/Swayambhu : House For Sale In Swayambhu, Kathmandu",
@@ -1637,7 +1637,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "990 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Drainage', 'Garden']"
+   "Amenities": ['Parking',, 'Balcony', 'Drainage', 'Garden'],
  },
  {
    "Title": "Brand New House For Sale In Swoyambhu/Swayambhu Near Bhagwan Pau : House For Sale In Swayambhu, Kathmandu",
@@ -1657,7 +1657,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "950 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Water Well', 'Water Tank', 'Drainage']"
+   "Amenities": ['Parking',, 'Balcony', 'Water Well', 'Water Tank', 'Drainage'],
  },
  {
    "Title": "Vbn : House For Sale In Butwal, Butwal",
@@ -1677,7 +1677,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "6.25 Dhur",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Somaney : House For Sale In Imadol, Lalitpur",
@@ -1697,7 +1697,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "0-4.0.0 Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Drainage', 'Garage', 'Frontyard', 'TV Cable', 'Wifi', 'Modular Kitchen', 'Water Well', 'Water Tank', 'Internet']"
+   "Amenities": ['Parking',, 'Balcony', 'Drainage', 'Garage', 'Frontyard', 'TV Cable', 'Wifi', 'Modular Kitchen', 'Water Well', 'Water Tank', 'Internet'],
  },
  {
    "Title": "House On Sell @Tarkeshwar-09, Manamaiju, Basukinagtole : House For Sale In Manamaiju, Kathmandu",
@@ -1717,7 +1717,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "0-3-2-0 Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Deck', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank', 'Electricity Backup', 'Internet']"
+   "Amenities": ['Parking',, 'Balcony', 'Deck', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank', 'Electricity Backup', 'Internet'],
  },
  {
    "Title": "House Sale In Syuchatar : House For Sale In Syuchatar, Kathmandu",
@@ -1737,7 +1737,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Drainage', 'Water Supply']"
+   "Amenities": ['Parking',, 'Balcony', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "House Sale In Phutung Tushal : House For Sale In Kavresthali, Kathmandu",
@@ -1757,7 +1757,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "House Sale In Thulo Bharyang : House For Sale In Thulo Bharyang, Kathmandu",
@@ -1777,7 +1777,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Drainage', 'Water Well']"
+   "Amenities": ['Drainage', 'Water Well'],
  },
  {
    "Title": "House For Sale In Goldhunga, Kathmandu",
@@ -1797,7 +1797,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "2 And Half Floor House Is On Sale In Imadole : House For Sale In Imadol, Lalitpur",
@@ -1817,7 +1817,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Modular Kitchen', 'TV Cable', 'Water Well', 'Water Supply', 'Water Tank', 'Solar Water', 'Drainage']"
+   "Amenities": ['Parking',, 'Modular Kitchen', 'TV Cable', 'Water Well', 'Water Supply', 'Water Tank', 'Solar Water', 'Drainage'],
  },
  {
    "Title": "House For Sale In Maharajgunj, Kathmandu",
@@ -1837,7 +1837,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House Sale In Baluwatar : House For Sale In Baluwatar, Kathmandu",
@@ -1857,7 +1857,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony', 'Garden', 'Drainage', 'Water Supply', 'Solar Water', 'Electricity Backup']"
+   "Amenities": ['Parking',, 'Balcony', 'Garden', 'Drainage', 'Water Supply', 'Solar Water', 'Electricity Backup'],
  },
  {
    "Title": "House For Sale In Kalanki, Kathmandu",
@@ -1877,7 +1877,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1650 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "1.5 Storied House : House For Sale In Imadol, Lalitpur",
@@ -1897,7 +1897,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['TV Cable', 'Drainage', 'Water Supply', 'Water Well', 'Internet', 'Parking']"
+   "Amenities": ['TV Cable', 'Drainage', 'Water Supply', 'Water Well', 'Internet', 'Parking'],
  },
  {
    "Title": "Plotted Land : Land For Sale In Sirutar, Bhaktapur",
@@ -1917,7 +1917,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Drainage', 'Water Supply']"
+   "Amenities": ['Drainage', 'Water Supply'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -1937,7 +1937,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Balcony', 'Garden', 'Water Supply', 'TV Cable', 'Lawn', 'Frontyard', 'Modular Kitchen', 'Backyard', 'Deck', 'Drainage', 'Wifi', 'Fencing']"
+   "Amenities": ['Garage', 'Balcony', 'Garden', 'Water Supply', 'TV Cable', 'Lawn', 'Frontyard', 'Modular Kitchen', 'Backyard', 'Deck', 'Drainage', 'Wifi', 'Fencing'],
  },
  {
    "Title": "1.5 Storey House : House For Sale In Tikathali, Lalitpur",
@@ -1957,7 +1957,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Drainage', 'Water Supply', 'Parking']"
+   "Amenities": ['Drainage', 'Water Supply', 'Parking'],
  },
  {
    "Title": "Residential : House For Sale In Imadol, Lalitpur",
@@ -1977,7 +1977,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "1195 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "House For Sale In Pasikot, Kathmandu",
@@ -1997,7 +1997,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "One And Half Storied : House For Sale In Kadaghari, Kathmandu",
@@ -2017,7 +2017,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Attractive Residential Land On Sale : Land For Sale In Budhanilkantha, Kathmandu",
@@ -2037,7 +2037,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "1 day ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "18 Aana Land For Sale At Shamkhamul : Land For Sale In Sankhamul, Kathmandu",
@@ -2057,7 +2057,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 day ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land On Sale At Beautiful Location : Land For Sale In Thankot, Kathmandu",
@@ -2077,7 +2077,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 days ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "4 Aana Land For Sale At Golfutar : Land For Sale In Golfutar, Kathmandu",
@@ -2097,7 +2097,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "1 day ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Commercial Estate Land For Business : Land For Lease In Simara, Bara",
@@ -2117,7 +2117,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 week ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Commercial Estate Land For Business : Land For Lease In Dhapasi, Kathmandu",
@@ -2137,7 +2137,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "10 Aana",
    "Posted": "3 weeks ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Gaurighat, Kathmandu",
@@ -2157,7 +2157,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "3 weeks ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat At Rent : Flat For Rent In Budhanilkantha, Kathmandu",
@@ -2177,7 +2177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "4 Aana",
    "Posted": "3 weeks ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "18 Ana Budhanilkantha Taulung : Land For Sale In Budhanilkantha, Kathmandu",
@@ -2197,7 +2197,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Budhanilkantha 18 Ana Taulung : Land For Sale In Budhanilkantha, Kathmandu",
@@ -2217,7 +2217,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land Sale At Jhor, Tokha : Land For Sale In Tokha, Kathmandu",
@@ -2237,7 +2237,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land : Land For Sale In Birtamod, Birtamod",
@@ -2257,7 +2257,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land Sale In Phutung : Land For Sale In Kavresthali, Kathmandu",
@@ -2277,7 +2277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land Sale In Chabahil : Land For Sale In Chabahil, Kathmandu",
@@ -2297,7 +2297,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land Sale In Jarankhu : Land For Sale In Kavresthali, Kathmandu",
@@ -2317,7 +2317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land Sale In Dharmasthali : Land For Sale In Dharmasthali, Kathmandu",
@@ -2337,7 +2337,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Budhanilkantha Land : Land For Sale In Budhanilkantha, Kathmandu",
@@ -2357,7 +2357,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Deuba Chokma 1 Ropani : Land For Sale In Budhanilkantha, Kathmandu",
@@ -2377,7 +2377,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Deuba Biwas 10 Ana : Land For Sale In Budhanilkantha, Kathmandu",
@@ -2397,7 +2397,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Consultancy : Office Space For Sale In Dillibazar, Kathmandu",
@@ -2417,7 +2417,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Budhanilkanthama 8 Ropani 10 Ana : Land For Sale In Budhanilkantha, Kathmandu",
@@ -2437,7 +2437,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Bansbarima 8 Ana Jagga : Land For Sale In Golfutar, Kathmandu",
@@ -2457,7 +2457,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Budhanilkanyha 8 Ropani : Land For Sale In Budhanilkantha, Kathmandu",
@@ -2477,7 +2477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Spacious Flat Bear Grande Hospital : Flat For Rent In Tokha, Kathmandu",
@@ -2497,7 +2497,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "1100 Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Water Supply', 'Frontyard', 'Fencing']"
+   "Amenities": ['Parking',, 'Water Supply', 'Frontyard', 'Fencing'],
  },
  {
    "Title": "Land Sale : Land For Sale In Bhaktapur, Bhaktapur",
@@ -2517,7 +2517,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For RENT : Flat For Rent In Maharajgunj, Kathmandu",
@@ -2537,7 +2537,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Commercial / Residential Land : Land For Sale In Imadol, Lalitpur",
@@ -2557,7 +2557,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Hattigauda 9 Ana Home On Rent : House For Rent In Hattigauda, Kathmandu",
@@ -2577,7 +2577,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking'],
  },
  {
    "Title": "Flat On Rent At Lazimpat : Flat For Rent In Lazimpat, Kathmandu",
@@ -2597,7 +2597,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Modular Kitchen', 'Water Supply']"
+   "Amenities": ['Parking',, 'Balcony', 'Modular Kitchen', 'Water Supply'],
  },
  {
    "Title": "Bishalnagar 29 Ana For Sale : Land For Sale In Bishal Nagar, Kathmandu",
@@ -2617,7 +2617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Bhangal, Kathmandu",
@@ -2637,7 +2637,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Tallo Baluwatar 1 Ropani : Land For Sale In Baluwatar, Kathmandu",
@@ -2657,7 +2657,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat/Godown Space Available For Rent : Flat For Rent In Newroad, Kathmandu",
@@ -2677,7 +2677,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Maligaon Commercial 12 Ana : Land For Sale In Maligaon, Kathmandu",
@@ -2697,7 +2697,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Office Space Available For Rent : Office Space For Rent In Newroad, Kathmandu",
@@ -2717,7 +2717,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Hattigauda Height 9 Ana Land : Land For Sale In Hattigauda, Kathmandu",
@@ -2737,7 +2737,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Office Space For Rent At Imadol Prime Area : Flat For Rent In Mahalaxmi Nagarpalika, Lalitpur",
@@ -2757,7 +2757,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "5 Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Garage', 'Fencing', 'Drainage', 'Water Supply', 'Water Well', 'Water Tank', 'CCTV', 'Electricity Backup']"
+   "Amenities": ['Parking',, 'Balcony', 'Garage', 'Fencing', 'Drainage', 'Water Supply', 'Water Well', 'Water Tank', 'CCTV', 'Electricity Backup'],
  },
  {
    "Title": "Rudreswor 4 Ropani , Budhanilkantha : Land For Sale In Budhanilkantha, Kathmandu",
@@ -2777,7 +2777,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Budhanilkantha 21 Ana Bungalow On Rent : House For Rent In Budhanilkantha, Kathmandu",
@@ -2797,7 +2797,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garage', 'Air Condition', 'Backyard', 'Deck', 'Balcony', 'Frontyard', 'Fencing', 'Garden', 'Modular Kitchen', 'Microwave', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank']"
+   "Amenities": ['Parking',, 'Garage', 'Air Condition', 'Backyard', 'Deck', 'Balcony', 'Frontyard', 'Fencing', 'Garden', 'Modular Kitchen', 'Microwave', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank'],
  },
  {
    "Title": "Ranibari 4 Land : Land For Sale In Ranibari, Kathmandu",
@@ -2817,7 +2817,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Golfutar Hepali Pipalbot : Land For Sale In Golfutar, Kathmandu",
@@ -2837,7 +2837,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Commercial Space For Rent : Office Space For Rent In Sorakhutte, Kathmandu",
@@ -2857,7 +2857,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "850 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Lawn', 'Drainage', 'Parking']"
+   "Amenities": ['Lawn', 'Drainage', 'Parking'],
  },
  {
    "Title": "12 Aana Land For Sale At Lazimpat : Land For Sale In Lazimpat, Kathmandu",
@@ -2877,7 +2877,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "7 Aana Commercial Land For Sale At Anamnagar : Land For Sale In Anamnagar, Kathmandu",
@@ -2897,7 +2897,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Imadol, Lalitpur",
@@ -2917,7 +2917,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Lawn', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Lawn', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Office For Rent At New Baneshwor : Flat For Rent In Baneshwor, Kathmandu",
@@ -2937,7 +2937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Flat For Rent In Zero Km, Pokhara",
@@ -2957,7 +2957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0.5.3.0 Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Water Well', 'Internet']"
+   "Amenities": ['Water Well', 'Internet'],
  },
  {
    "Title": "Urgent Land Sale : Land For Sale In Chitapol, Bhaktapur",
@@ -2977,7 +2977,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Apartment Rent In Sanepa : Apartment For Sale In Sanepa, Lalitpur",
@@ -2997,7 +2997,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Apartment Sale In Sanepa : Apartment For Sale In Sanepa, Lalitpur",
@@ -3017,7 +3017,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land Sale In Kirtipur : Land For Sale In Kirtipur, Kathmandu",
@@ -3037,7 +3037,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Villa On Rent At Maharajgunj : House For Rent In Maharajgunj, Kathmandu",
@@ -3057,7 +3057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Modular Kitchen', 'Solar Water', 'Garage', 'Garden']"
+   "Amenities": ['Parking',, 'Balcony', 'Modular Kitchen', 'Solar Water', 'Garage', 'Garden'],
  },
  {
    "Title": "Sasto Jaggha : Land For Sale In Bhangal, Kathmandu",
@@ -3077,7 +3077,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "5 Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "3 Biga 5 Khatra 12 Dur : Land For Sale In Birendranagar, Chitwan",
@@ -3097,7 +3097,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Furnished Apartment Flat Near Japanese Embassy : Apartment For Sale In Panipokhari, Kathmandu",
@@ -3117,7 +3117,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "1583 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Air Condition', 'Balcony', 'Fencing', 'Garden', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'Wifi', 'Drainage', 'Water Supply', 'Electricity Backup', 'Internet', 'Lift']"
+   "Amenities": ['Parking',, 'Air Condition', 'Balcony', 'Fencing', 'Garden', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'Wifi', 'Drainage', 'Water Supply', 'Electricity Backup', 'Internet', 'Lift'],
  },
  {
    "Title": "Fully-Furnished 3BHK At Grande Tower : Apartment For Rent In Tokha, Kathmandu",
@@ -3137,7 +3137,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1280 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Lawn', 'Balcony', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Lift', 'Parking', 'Security Staff', 'Store Room']"
+   "Amenities": ['Lawn', 'Balcony', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Lift', 'Parking', 'Security Staff', 'Store Room'],
  },
  {
    "Title": "Beautiful Land Is In Sale 13 Dhur Dhur : Land For Sale In Dharan, Dharan",
@@ -3157,7 +3157,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Jhamsikhel, Lalitpur",
@@ -3177,7 +3177,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "4 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Water Supply', 'Garden', 'Solar Water', 'Balcony']"
+   "Amenities": ['Parking',, 'Water Supply', 'Garden', 'Solar Water', 'Balcony'],
  },
  {
    "Title": "Full Furnished Office On Sale : Office Space For Sale In Thapathali, Kathmandu",
@@ -3197,7 +3197,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'TV Cable', 'Wifi', 'Internet', 'Security Staff']"
+   "Amenities": ['Parking',, 'TV Cable', 'Wifi', 'Internet', 'Security Staff'],
  },
  {
    "Title": "Bansbari - House For Rent : House For Rent In Basbari, Kathmandu",
@@ -3217,7 +3217,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Garage', 'Balcony', 'Frontyard', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank']"
+   "Amenities": ['Parking',, 'Garage', 'Balcony', 'Frontyard', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank'],
  },
  {
    "Title": "Commercial Land Sale In Sano Gaucharan : Land For Sale In Sano Gaucharan, Kathmandu",
@@ -3237,7 +3237,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Godown Space Rent In Kushlechaur : Business For Rent In Chhauni, Kathmandu",
@@ -3257,7 +3257,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Gaushala, Kathmandu",
@@ -3277,7 +3277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Commerial Land Sale In Nayabazar : Land For Sale In Naya Bazar, Kathmandu",
@@ -3297,7 +3297,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Rental @ Bharatpur : Flat For Rent In Bharatpur, Chitwan",
@@ -3317,7 +3317,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "4 Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rental : Flat For Rent In Jorpati, Kathmandu",
@@ -3337,7 +3337,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Hattiban Town Planing : Land For Sale In Hattiban, Lalitpur",
@@ -3357,7 +3357,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Brand New Apartment For Sale At Janta Awash Bhaisepati : Flat For Sale In Bhaisepati, Lalitpur",
@@ -3377,7 +3377,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1200 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Air Condition', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Water Supply', 'Water Tank', 'Kids Playground', 'Internet', 'Intercom', 'Electricity Backup']"
+   "Amenities": ['Parking',, 'Air Condition', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Water Supply', 'Water Tank', 'Kids Playground', 'Internet', 'Intercom', 'Electricity Backup'],
  },
  {
    "Title": "House For Rent At Hattiban : House For Rent In Hattiban, Lalitpur",
@@ -3397,7 +3397,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Modular Kitchen', 'Water Supply', 'Garden']"
+   "Amenities": ['Parking',, 'Balcony', 'Modular Kitchen', 'Water Supply', 'Garden'],
  },
  {
    "Title": "House For Rent At Sallaghari : House For Rent In Sallaghari, Bhaktapur",
@@ -3417,7 +3417,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Microwave', 'Modular Kitchen', 'Water Supply', 'Air Condition']"
+   "Amenities": ['Parking',, 'Balcony', 'Microwave', 'Modular Kitchen', 'Water Supply', 'Air Condition'],
  },
  {
    "Title": "House For Rent Near Manbhawan : House For Rent In Kumaripati, Lalitpur",
@@ -3437,7 +3437,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Super Commercial Land For Sale At Mid Baneshwor Main Road : Land For Sale In Mid Baneshwor, Kathmandu",
@@ -3457,7 +3457,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale : Land For Sale In Kapan, Kathmandu",
@@ -3477,7 +3477,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land On Sale @ Manamaiju : Land For Sale In Manamaiju, Kathmandu",
@@ -3497,7 +3497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Bode, Bhaktapur",
@@ -3517,7 +3517,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Ropani",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House On Rent At Maharajgunj : House For Rent In Maharajgunj, Kathmandu",
@@ -3537,7 +3537,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Garden']"
+   "Amenities": ['Parking',, 'Balcony', 'Garden'],
  },
  {
    "Title": "Land For Sale In Imadol, Lalitpur",
@@ -3557,7 +3557,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Drainage', 'Water Supply', 'Parking', 'Store Room']"
+   "Amenities": ['Drainage', 'Water Supply', 'Parking', 'Store Room'],
  },
  {
    "Title": "Commercial Building Booking Open : Office Space For Rent In Dhapasi, Kathmandu",
@@ -3577,7 +3577,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1350 Sq. Feet",
    "Posted": "1 month ago",
-   "Amenities": "['Fencing', 'Frontyard', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking']"
+   "Amenities": ['Fencing', 'Frontyard', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking'],
  },
  {
    "Title": "Fancy Shop Sale In Nayabazar : Business For Sale In Naya Bazar, Kathmandu",
@@ -3597,7 +3597,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Fancy Shop Sale In Shankhamul : Business For Sale In Sankhamul, Kathmandu",
@@ -3617,7 +3617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land Sale In Nayabazar : Land For Sale In Naya Bazar, Kathmandu",
@@ -3637,7 +3637,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Ramkot, Kathmandu",
@@ -3657,7 +3657,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land Sale In Bijeshori : Land For Sale In Swayambhu, Kathmandu",
@@ -3677,7 +3677,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Samakhusi Inside Ring Road In High End Colony : Flat For Sale In Samakhusi, Kathmandu",
@@ -3697,7 +3697,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Drainage', 'Electricity Backup', 'Water Supply', 'Modular Kitchen', 'Fencing', 'Intercom', 'Internet', 'Frontyard', 'Garage', 'Air Condition', 'Garden', 'Water Tank', 'Kids Playground', 'Backyard', 'Wifi', 'CCTV']"
+   "Amenities": ['Parking',, 'Balcony', 'Drainage', 'Electricity Backup', 'Water Supply', 'Modular Kitchen', 'Fencing', 'Intercom', 'Internet', 'Frontyard', 'Garage', 'Air Condition', 'Garden', 'Water Tank', 'Kids Playground', 'Backyard', 'Wifi', 'CCTV'],
  },
  {
    "Title": "Land Sale In Narayanthan : Land For Sale In Budhanilkantha, Kathmandu",
@@ -3717,7 +3717,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land Sale In Taukhel : Land For Sale In Nagarjun, Kathmandu",
@@ -3737,7 +3737,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land Rent In Bohoratar : Land For Rent In Manamaiju, Kathmandu",
@@ -3757,7 +3757,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent : House For Rent In Lekhnath, Pokhara",
@@ -3777,7 +3777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'Garden', 'Washing Machine', 'Water Tank', 'Store Room', 'Internet']"
+   "Amenities": ['Parking',, 'Balcony', 'Garden', 'Washing Machine', 'Water Tank', 'Store Room', 'Internet'],
  },
  {
    "Title": "Land Sale In Budhanilkantha : Land For Sale In Budhanilkantha, Kathmandu",
@@ -3797,7 +3797,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House On Sell @Tarkeshwar-09, Manamaiju, Basukinagtole : Flat For Sale In Manamaiju, Kathmandu",
@@ -3817,7 +3817,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "0-2-2-1 Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking', 'Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank', 'Solar Water', 'Internet', 'Store Room']"
+   "Amenities": ['Parking',, 'Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank', 'Solar Water', 'Internet', 'Store Room'],
  },
  {
    "Title": "Flat For Rent In Pokhara : Flat For Rent In Raam Bazar, Pokhara",
@@ -3837,7 +3837,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "5 Aana",
    "Posted": "1 month ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Land Sale In Raniban : Land For Sale In Raniban, Kathmandu",
@@ -3857,7 +3857,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land Sale In Thulobharyang : Land For Sale In Thulo Bharyang, Kathmandu",
@@ -3877,7 +3877,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "10 Dhur, Land Sale At Dharan, Panbari : Land For Sale In Tarahara, Sunsari",
@@ -3897,7 +3897,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Commercial Land : Land For Sale In Hattisar, Kathmandu",
@@ -3917,7 +3917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "13 Dhur, Land Sale At Dharan, Panbari : Land For Sale In Tarahara, Sunsari",
@@ -3937,7 +3937,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "1 month ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "HOUSE ON RENT AT SITAPAILA/RAMKOT AROUND CIVIL HOME HOUSING : House For Rent In Sitapaila, Kathmandu",
@@ -3957,7 +3957,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Garage', 'Fencing', 'Balcony', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Parking',, 'Garage', 'Fencing', 'Balcony', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Chabahil, Kathmandu",
@@ -3977,7 +3977,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Bungalow On Rent At Basbari : House For Rent In Basbari, Kathmandu",
@@ -3997,7 +3997,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land Is Very Suitable For Residental Purpose : Land For Sale In Swayambhu, Kathmandu",
@@ -4017,7 +4017,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flats And Room On Rent : Flat For Rent In Baghbazaar, Kathmandu",
@@ -4037,7 +4037,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1-1-0 Ropani",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Office Space For Rent At Soaltee Mood : Office Space For Rent In Soltimode, Kathmandu",
@@ -4057,7 +4057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Villa On Rent At Budhanilkantha : House For Rent In Budhanilkantha, Kathmandu",
@@ -4077,7 +4077,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Lands Suitable For All Purposes : Land For Sale In Thaha Nagarpalika, Makwanpur",
@@ -4097,7 +4097,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "95/16/11/7 Ropani",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Sitapaila, Kathmandu",
@@ -4117,7 +4117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Patan, Lalitpur",
@@ -4137,7 +4137,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Apartment For Sale In Jhamsikhel, Lalitpur",
@@ -4157,7 +4157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Air Condition', 'TV Cable', 'Swimming Pool']"
+   "Amenities": ['Air Condition', 'TV Cable', 'Swimming Pool'],
  },
  {
    "Title": "House For Sale In Pasikot, Kathmandu",
@@ -4177,7 +4177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House Sale In TIkathali : House For Sale In Tikathali, Lalitpur",
@@ -4197,7 +4197,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Flat For Rent In Dhumbarahi, Kathmandu",
@@ -4217,7 +4217,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale At Kapan Paiyatar : Land For Sale In Kapan, Kathmandu",
@@ -4237,7 +4237,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Godawari_Badikhel Pitched Road Touching House For Sell_ 5 Anna Land : House For Sale In Godawari, Lalitpur",
@@ -4257,7 +4257,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Water Well', 'Water Tank', 'Backyard']"
+   "Amenities": ['Parking',, 'Water Well', 'Water Tank', 'Backyard'],
  },
  {
    "Title": "Commercial House On Sale At Bafal : House For Sale In Bafal, Kathmandu",
@@ -4277,7 +4277,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -4297,7 +4297,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Drainage', 'Water Supply', 'Water Tank', 'Parking']"
+   "Amenities": ['Balcony', 'Fencing', 'Drainage', 'Water Supply', 'Water Tank', 'Parking'],
  },
  {
    "Title": "New Beautiful House Is On Sale At Gaidakot, Nawalpur : House For Sale In Gaidakot, Nawalpur",
@@ -4317,7 +4317,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "4 Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony', 'Fencing']"
+   "Amenities": ['Parking',, 'Balcony', 'Fencing'],
  },
  {
    "Title": "Beautiful House Is On Sale At Tarkeshwor, Kathmndu : House For Sale In Tarkeshwor, Kathmandu",
@@ -4337,7 +4337,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "3.2 Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "4 Aana 1 Paisa Land : Land For Sale In Sallaghari, Bhaktapur",
@@ -4357,7 +4357,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Drainage', 'Water Supply']"
+   "Amenities": ['Drainage', 'Water Supply'],
  },
  {
    "Title": "1.5 Storey House : House For Sale In Tikathali, Lalitpur",
@@ -4377,7 +4377,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "646 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Fencing', 'Drainage', 'Water Supply', 'Parking']"
+   "Amenities": ['Fencing', 'Drainage', 'Water Supply', 'Parking'],
  },
  {
    "Title": "लुभु लामाटार बुढाथोकी टोलमा ५ आना सस्तो जग्गा तु. बिक्रिमा : Land For Sale In Lubhu, Lalitpur",
@@ -4397,7 +4397,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Highly Commercial Land For Sale At Maitidevi Main Road : Land For Sale In Maitidevi, Kathmandu",
@@ -4417,7 +4417,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "1.5 Storey House : House For Sale In Imadol, Lalitpur",
@@ -4437,7 +4437,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "750 Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Drainage', 'Water Supply', 'Water Tank', 'Parking']"
+   "Amenities": ['Drainage', 'Water Supply', 'Water Tank', 'Parking'],
  },
  {
    "Title": "Commercial House Sale At Satungal Near By APF Hospital ,घर वा जमिनको साथ साटासाट गर्न सकिन्छ : House For Sale In Satungal, Kathmandu",
@@ -4457,7 +4457,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "0-5-1 Aana",
    "Posted": "2 months ago",
-   "Amenities": "['TV Cable', 'Drainage', 'Balcony', 'Water Supply', 'Electricity Backup']"
+   "Amenities": ['TV Cable', 'Drainage', 'Balcony', 'Water Supply', 'Electricity Backup'],
  },
  {
    "Title": "Attractive Land For Sale At Shankharapur , Kathmandu : Land For Sale In Gokarneshwor, Kathmandu",
@@ -4477,7 +4477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "14 Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Machhegaun, Kirtipur",
@@ -4497,7 +4497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House On Rent At Pulchowk : House For Rent In Pulchowk, Lalitpur",
@@ -4517,7 +4517,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony']"
+   "Amenities": ['Parking',, 'Balcony'],
  },
  {
    "Title": "Commercial LAnd : Land For Sale In Balkhu, Kathmandu",
@@ -4537,7 +4537,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Naksal Apartment : Apartment For Sale In Hattisar, Kathmandu",
@@ -4557,7 +4557,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1500 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "House Sale At Pokhara Buspark, Chitwan : House For Sale In Bharatpur, Chitwan",
@@ -4577,7 +4577,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "4 Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Water Supply', 'Drainage', 'Water Tank']"
+   "Amenities": ['Water Supply', 'Drainage', 'Water Tank'],
  },
  {
    "Title": "New Residental House For Sale Near Grande Hospital : House For Sale In Tokha, Kathmandu",
@@ -4597,7 +4597,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "3922.08 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Water Tank', 'Solar Water', 'Water Supply', 'Drainage', 'Balcony']"
+   "Amenities": ['Parking',, 'Water Tank', 'Solar Water', 'Water Supply', 'Drainage', 'Balcony'],
  },
  {
    "Title": "Banglow For Sale : House For Sale In Bhaisepati, Lalitpur",
@@ -4617,7 +4617,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Garage', 'Garden', 'Balcony', 'Solar Water', 'Water Supply', 'Store Room', 'Electricity Backup']"
+   "Amenities": ['Garage', 'Garden', 'Balcony', 'Solar Water', 'Water Supply', 'Store Room', 'Electricity Backup'],
  },
  {
    "Title": "House For Sale : House For Sale In Harisiddhi, Lalitpur",
@@ -4637,7 +4637,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'TV Cable', 'Water Tank', 'Deck', 'Balcony', 'Modular Kitchen', 'Drainage', 'Water Supply']"
+   "Amenities": ['Parking',, 'TV Cable', 'Water Tank', 'Deck', 'Balcony', 'Modular Kitchen', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Land For Sale In Bhandara, Chitwan",
@@ -4657,7 +4657,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Fabulous Bungalow , Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -4677,7 +4677,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Garage', 'Balcony', 'Garden', 'Water Supply', 'Drainage', 'Water Well', 'Solar Water', 'Water Tank', 'Security Staff', 'Maintenance']"
+   "Amenities": ['Parking',, 'Garage', 'Balcony', 'Garden', 'Water Supply', 'Drainage', 'Water Well', 'Solar Water', 'Water Tank', 'Security Staff', 'Maintenance'],
  },
  {
    "Title": "House For Sale At Lampokhari, Chabahil Main Road : House For Sale In Chabahil, Kathmandu",
@@ -4697,7 +4697,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony', 'Electricity Backup', 'Water Supply', 'Lawn', 'Fencing', 'Intercom', 'Internet', 'Water Well', 'TV Cable', 'Frontyard', 'Water Tank', 'Backyard']"
+   "Amenities": ['Parking',, 'Balcony', 'Electricity Backup', 'Water Supply', 'Lawn', 'Fencing', 'Intercom', 'Internet', 'Water Well', 'TV Cable', 'Frontyard', 'Water Tank', 'Backyard'],
  },
  {
    "Title": "House For Rent In Prime Location (Near Satdobato, In Front Of Ring Road) : House For Rent In Mahalaxmisthan, Lalitpur",
@@ -4717,7 +4717,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "5000 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony', 'Deck', 'Garage', 'Lawn', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply']"
+   "Amenities": ['Parking',, 'Balcony', 'Deck', 'Garage', 'Lawn', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply'],
  },
  {
    "Title": "4 Anna Land For Sale At Chabahil Beside Medicare Hospital. : Land For Sale In Chabahil, Kathmandu",
@@ -4737,7 +4737,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "9.2 Anna Land For Sale At Baluwatar, 1 Kitta Inside From Main Road : Land For Sale In Baluwatar, Kathmandu",
@@ -4757,7 +4757,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale At Ganeshthan, Chabahil Beside Raprapa Party Office : House For Sale In Chabahil, Kathmandu",
@@ -4777,7 +4777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony', 'Drainage', 'Deck', 'Water Supply', 'Electricity Backup', 'Intercom', 'Solar Water', 'Lawn', 'Fencing', 'Garage', 'Frontyard', 'Internet', 'Kids Playground', 'Water Tank', 'Garden', 'Backyard', 'Wifi']"
+   "Amenities": ['Parking',, 'Balcony', 'Drainage', 'Deck', 'Water Supply', 'Electricity Backup', 'Intercom', 'Solar Water', 'Lawn', 'Fencing', 'Garage', 'Frontyard', 'Internet', 'Kids Playground', 'Water Tank', 'Garden', 'Backyard', 'Wifi'],
  },
  {
    "Title": "Plotted Land : Land For Sale In Matatirtha, Kathmandu",
@@ -4797,7 +4797,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "0-5-0-0 Aana Commercial Land : Land For Sale In Kadaghari, Kathmandu",
@@ -4817,7 +4817,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "3600 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Drainage', 'Water Supply']"
+   "Amenities": ['Drainage', 'Water Supply'],
  },
  {
    "Title": "Brand New : House For Sale In Sankhamul, Kathmandu",
@@ -4837,7 +4837,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "3600 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "0-9-0-0 Aana Land : Land For Sale In Kalanki, Kathmandu",
@@ -4857,7 +4857,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Fencing', 'TV Cable', 'Drainage', 'Water Supply', 'Internet']"
+   "Amenities": ['Fencing', 'TV Cable', 'Drainage', 'Water Supply', 'Internet'],
  },
  {
    "Title": "House On Sale At Chabahil (50m Towards Ganeshsthan) ) : House For Sale In Chabahil, Kathmandu",
@@ -4877,7 +4877,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "2.5 Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Kids Playground']"
+   "Amenities": ['Parking',, 'Balcony', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Beautiful House Sale At Gothatar, Bhaktapur, Nepal : House For Sale In Gothatar, Kathmandu",
@@ -4897,7 +4897,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-3-2-0 Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony', 'Internet', 'Water Tank']"
+   "Amenities": ['Parking',, 'Balcony', 'Internet', 'Water Tank'],
  },
  {
    "Title": "13 Anna Land For Sale At Chabahil Main Road, Inside Ring Road Track. : Land For Sale In Chabahil, Kathmandu",
@@ -4917,7 +4917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale At Putalisadak Behind Star Mall, Just 100 Meters From Main Road. : House For Sale In Putalisadak, Kathmandu",
@@ -4937,7 +4937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony', 'Drainage', 'Electricity Backup', 'Water Supply', 'Lawn', 'Fencing', 'Intercom', 'Internet', 'Water Well', 'Frontyard', 'Garage', 'TV Cable', 'Garden', 'Water Tank', 'Kids Playground', 'CCTV', 'Backyard']"
+   "Amenities": ['Parking',, 'Balcony', 'Drainage', 'Electricity Backup', 'Water Supply', 'Lawn', 'Fencing', 'Intercom', 'Internet', 'Water Well', 'Frontyard', 'Garage', 'TV Cable', 'Garden', 'Water Tank', 'Kids Playground', 'CCTV', 'Backyard'],
  },
  {
    "Title": "13 Anna Land At For Sale At Chabahil, Dhobikhola Corridor : Land For Sale In Chabahil, Kathmandu",
@@ -4957,7 +4957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "40 Anna Commercial Land For Sale At Nardevi Basantapur, New Road : Land For Sale In Basantapur, Kathmandu",
@@ -4977,7 +4977,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House At Chabahil Beside Pashupati Campus, 100 Meter From Ring Road : House For Sale In Chabahil, Kathmandu",
@@ -4997,7 +4997,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony', 'Microwave', 'Drainage', 'Electricity Backup', 'Water Supply', 'Modular Kitchen', 'Deck', 'Lawn', 'Fencing', 'Solar Water', 'Intercom', 'Internet', 'Water Well', 'TV Cable', 'Frontyard', 'Garage', 'Air Condition', 'Garden', 'Washing Machine', 'Water Tank', 'Kids Playground', 'Wifi', 'Backyard']"
+   "Amenities": ['Parking',, 'Balcony', 'Microwave', 'Drainage', 'Electricity Backup', 'Water Supply', 'Modular Kitchen', 'Deck', 'Lawn', 'Fencing', 'Solar Water', 'Intercom', 'Internet', 'Water Well', 'TV Cable', 'Frontyard', 'Garage', 'Air Condition', 'Garden', 'Washing Machine', 'Water Tank', 'Kids Playground', 'Wifi', 'Backyard'],
  },
  {
    "Title": "8 Anna Land For Sale At Sifal, Chabahil : Land For Sale In Chabahil, Kathmandu",
@@ -5017,7 +5017,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "9 Anna Perfect Residential Land For Sale At Budhanilkantha : Land For Sale In Budhanilkantha, Kathmandu",
@@ -5037,7 +5037,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "6 Anna House For Sale At Ratopul : House For Sale In Ratopul, Kathmandu",
@@ -5057,7 +5057,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony', 'Drainage', 'Electricity Backup', 'Water Supply', 'Lawn', 'Fencing', 'Solar Water', 'Internet', 'Intercom', 'Water Well', 'TV Cable', 'Frontyard', 'Garage', 'Garden', 'Washing Machine', 'Water Tank', 'Kids Playground', 'Wifi', 'Backyard']"
+   "Amenities": ['Parking',, 'Balcony', 'Drainage', 'Electricity Backup', 'Water Supply', 'Lawn', 'Fencing', 'Solar Water', 'Internet', 'Intercom', 'Water Well', 'TV Cable', 'Frontyard', 'Garage', 'Garden', 'Washing Machine', 'Water Tank', 'Kids Playground', 'Wifi', 'Backyard'],
  },
  {
    "Title": "Restaurant For Rent : Business For Rent In Mahendrapul, Pokhara",
@@ -5077,7 +5077,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat Rent At Balaju (Godaun Storage / Office Use) : Flat For Rent In Balaju, Kathmandu",
@@ -5097,7 +5097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony', 'Water Tank', 'Store Room']"
+   "Amenities": ['Parking',, 'Balcony', 'Water Tank', 'Store Room'],
  },
  {
    "Title": "10 Anna Land For Sale At Basbari Behind Shambhala Hotel : Land For Sale In Basbari, Kathmandu",
@@ -5117,7 +5117,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Golfutar Family Bungalow : House For Sale In Golfutar, Kathmandu",
@@ -5137,7 +5137,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Garage', 'Parking', 'Water Supply', 'Drainage', 'Water Well', 'Solar Water']"
+   "Amenities": ['Garage', 'Parking', 'Water Supply', 'Drainage', 'Water Well', 'Solar Water'],
  },
  {
    "Title": "Spacious Office Area For Rent At A Very Reasonable Price... : Office Space For Rent In Mahendrapul, Pokhara",
@@ -5157,7 +5157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House On SALE In Dhapakhel : House For Sale In Dhapakhel, Lalitpur",
@@ -5177,7 +5177,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "4100 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony', 'Fencing', 'Wifi', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank', 'Internet']"
+   "Amenities": ['Parking',, 'Balcony', 'Fencing', 'Wifi', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank', 'Internet'],
  },
  {
    "Title": "Full Furnished House For Rent At Jawakhel : House For Rent In Jawalakhel, Lalitpur",
@@ -5197,7 +5197,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony', 'Microwave', 'Drainage', 'Modular Kitchen', 'Water Supply', 'TV Cable', 'Water Well', 'Internet', 'Garden']"
+   "Amenities": ['Parking',, 'Balcony', 'Microwave', 'Drainage', 'Modular Kitchen', 'Water Supply', 'TV Cable', 'Water Well', 'Internet', 'Garden'],
  },
  {
    "Title": "14 Kattha : Land For Sale In Parsa, Chitwan",
@@ -5217,7 +5217,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Kattha",
    "Posted": "2 months ago",
-   "Amenities": "['Drainage', 'Water Supply']"
+   "Amenities": ['Drainage', 'Water Supply'],
  },
  {
    "Title": "Fully Furnished Brand New House For Sale At Housing, Budhanilkantha. : House For Sale In Budhanilkantha, Kathmandu",
@@ -5237,7 +5237,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony', 'Microwave', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Water Supply', 'Modular Kitchen', 'Deck', 'Jacuzzi', 'Lawn', 'Fencing', 'Swimming Pool', 'Solar Water', 'Intercom', 'Internet', 'Water Well', 'TV Cable', 'Frontyard', 'Garage', 'Air Condition', 'Garden', 'Washing Machine', 'Kids Playground', 'Water Tank', 'Backyard', 'Gym', 'Wifi', 'CCTV', 'Lift']"
+   "Amenities": ['Parking',, 'Balcony', 'Microwave', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Water Supply', 'Modular Kitchen', 'Deck', 'Jacuzzi', 'Lawn', 'Fencing', 'Swimming Pool', 'Solar Water', 'Intercom', 'Internet', 'Water Well', 'TV Cable', 'Frontyard', 'Garage', 'Air Condition', 'Garden', 'Washing Machine', 'Kids Playground', 'Water Tank', 'Backyard', 'Gym', 'Wifi', 'CCTV', 'Lift'],
  },
  {
    "Title": "Bungalow For Sale At Golfutar Height, 80 Meter From Highway : House For Sale In Golfutar, Kathmandu",
@@ -5257,7 +5257,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony', 'Microwave', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Water Supply', 'Modular Kitchen', 'Deck', 'Jacuzzi', 'Lawn', 'Fencing', 'Swimming Pool', 'Solar Water', 'Intercom', 'Internet', 'Water Well', 'TV Cable', 'Frontyard', 'Garage', 'Air Condition', 'Garden', 'Washing Machine', 'Water Tank', 'Kids Playground', 'Lift', 'CCTV', 'Wifi', 'Gym', 'Backyard']"
+   "Amenities": ['Parking',, 'Balcony', 'Microwave', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Water Supply', 'Modular Kitchen', 'Deck', 'Jacuzzi', 'Lawn', 'Fencing', 'Swimming Pool', 'Solar Water', 'Intercom', 'Internet', 'Water Well', 'TV Cable', 'Frontyard', 'Garage', 'Air Condition', 'Garden', 'Washing Machine', 'Water Tank', 'Kids Playground', 'Lift', 'CCTV', 'Wifi', 'Gym', 'Backyard'],
  },
  {
    "Title": "30 Dhur For Sale - Pokharia - Biratnagar : Land For Sale In Pokharia, Biratnagar",
@@ -5277,7 +5277,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Dhur",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Brand New House For Sale At Sano Bharyang : House For Sale In Sanobharyang, Kathmandu",
@@ -5297,7 +5297,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet']"
+   "Amenities": ['Parking',, 'Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet'],
  },
  {
    "Title": "Brand New House For Sale At Sano Bharyang Near Ring Road : House For Sale In Sano Bharyang, Kathmandu",
@@ -5317,7 +5317,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground']"
+   "Amenities": ['Parking',, 'Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Brand New House For Sale At Pasikot, Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -5337,7 +5337,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Lawn', 'Garage', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet']"
+   "Amenities": ['Parking',, 'Lawn', 'Garage', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet'],
  },
  {
    "Title": "5 Bhk House New House At Rudreshwor Budhanilkanta 200 Mtr From Highway : House For Sale In Budhanilkantha, Kathmandu",
@@ -5357,7 +5357,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground']"
+   "Amenities": ['Parking',, 'Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "12 Anna 5 Bhk Bungalow For Sale At Chapali, Budhanilkantha : House For Sale In Chapali, Kathmandu",
@@ -5377,7 +5377,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Lawn', 'Air Condition', 'Frontyard', 'Garage', 'Backyard', 'Garden', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Electricity Backup', 'Water Supply', 'Solar Water', 'Drainage', 'Cafeteria', 'Intercom', 'Internet', 'Kids Playground']"
+   "Amenities": ['Parking',, 'Lawn', 'Air Condition', 'Frontyard', 'Garage', 'Backyard', 'Garden', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Electricity Backup', 'Water Supply', 'Solar Water', 'Drainage', 'Cafeteria', 'Intercom', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "House On Sale At Mahadevsthan , Thankot : House For Sale In Thankot, Kathmandu",
@@ -5397,7 +5397,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Electricity Backup', 'Solar Water']"
+   "Amenities": ['Electricity Backup', 'Solar Water'],
  },
  {
    "Title": "5 Anna Semi Bungalow For Sale At Sukedhara Inside Ring Road : House For Sale In Sukedhara, Kathmandu",
@@ -5417,7 +5417,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Fencing', 'Frontyard', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground']"
+   "Amenities": ['Parking',, 'Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Fencing', 'Frontyard', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -5437,7 +5437,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground']"
+   "Amenities": ['Parking',, 'Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Drainage', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Plotting Land For Sale At Tokha In 20 Feet Pitched Road. : Land For Sale In Tokha, Kathmandu",
@@ -5457,7 +5457,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "5 Anna Land For Sale At Chapali Ghumti : Land For Sale In Chapali, Kathmandu",
@@ -5477,7 +5477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Pasikot Ghumti Land : Land For Sale In Budhanilkantha, Kathmandu",
@@ -5497,7 +5497,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land On Sale In Chabahil, Kathmandu : Land For Sale In Anamnagar, Kathmandu",
@@ -5517,7 +5517,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Hepali Height 13 Ana : Land For Sale In Golfutar, Kathmandu",
@@ -5537,7 +5537,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Tokha Plotting Land : Land For Sale In Tokha, Kathmandu",
@@ -5557,7 +5557,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Golfutar Height Bungalow : House For Sale In Golfutar, Kathmandu",
@@ -5577,7 +5577,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Garage', 'Water Supply', 'Drainage', 'Solar Water', 'Water Well', 'Water Tank']"
+   "Amenities": ['Parking',, 'Garage', 'Water Supply', 'Drainage', 'Solar Water', 'Water Well', 'Water Tank'],
  },
  {
    "Title": "Sukedhara New Home : House For Sale In Sukedhara, Kathmandu",
@@ -5597,7 +5597,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Garage', 'Water Supply', 'Drainage', 'Water Well', 'Solar Water']"
+   "Amenities": ['Parking',, 'Garage', 'Water Supply', 'Drainage', 'Water Well', 'Solar Water'],
  },
  {
    "Title": "Land For Sale In Birgunj, Parsa",
@@ -5617,7 +5617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "11 Ana House For Sale At Bagdol : House For Sale In Baghdol, Lalitpur",
@@ -5637,7 +5637,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Fencing', 'Frontyard', 'Backyard', 'Garden', 'Drainage', 'Water Well', 'Parking', 'Water Tank', 'Lawn']"
+   "Amenities": ['Fencing', 'Frontyard', 'Backyard', 'Garden', 'Drainage', 'Water Well', 'Parking', 'Water Tank', 'Lawn'],
  },
  {
    "Title": "House For Sale At Manamaiju : House For Sale In Manamaiju, Kathmandu",
@@ -5657,7 +5657,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Balcony', 'Parking', 'Solar Water', 'Drainage', 'Water Supply']"
+   "Amenities": ['Balcony', 'Parking', 'Solar Water', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "House For Rent At Maharajgunj : House For Rent In Maharajgunj, Kathmandu",
@@ -5677,7 +5677,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Modular Kitchen', 'Parking', 'Water Supply', 'Garden', 'Water Tank']"
+   "Amenities": ['Modular Kitchen', 'Parking', 'Water Supply', 'Garden', 'Water Tank'],
  },
  {
    "Title": "House On Rent At Vinayak Colony : House For Rent In Bhaisepati, Lalitpur",
@@ -5697,7 +5697,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony', 'Garden', 'Modular Kitchen', 'Security Staff']"
+   "Amenities": ['Parking',, 'Balcony', 'Garden', 'Modular Kitchen', 'Security Staff'],
  },
  {
    "Title": "Residential : House For Sale In Goldhunga, Kathmandu",
@@ -5717,7 +5717,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Parking', 'Store Room'],
  },
  {
    "Title": "Ramkot House : House For Sale In Sitapaila, Kathmandu",
@@ -5737,7 +5737,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2300 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Parking', 'Store Room'],
  },
  {
    "Title": "Ghar Bikrima : House For Sale In Imadol, Lalitpur",
@@ -5757,7 +5757,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Backyard', 'Balcony', 'Frontyard', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Parking']"
+   "Amenities": ['Backyard', 'Balcony', 'Frontyard', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Parking'],
  },
  {
    "Title": "2 Storey House On Sale At Gathaghar : House For Sale In Gatthaghar, Bhaktapur",
@@ -5777,7 +5777,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Ghar Bikrima : House For Sale In Imadol, Lalitpur",
@@ -5797,7 +5797,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2200 Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Koteshwor, Kathmandu",
@@ -5817,7 +5817,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1200 Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'TV Cable']"
+   "Amenities": ['Parking',, 'TV Cable'],
  },
  {
    "Title": "Land On Sale : Land For Sale In Changunarayan, Bhaktapur",
@@ -5837,7 +5837,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "0-12-2-0 Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land On Sale : Land For Sale In Suryabinayak, Bhaktapur",
@@ -5857,7 +5857,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "16-4-0-0 Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land On Sale : Land For Sale In Godawari, Lalitpur",
@@ -5877,7 +5877,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "52-10-3-2 Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House And Land On Sale : Land For Sale In Godawari, Lalitpur",
@@ -5897,7 +5897,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3-10-1-0 Ropani",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Furnished Flat Rent In Baghdol : Flat For Rent In Baghdol, Lalitpur",
@@ -5917,7 +5917,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Air Condition', 'Garage', 'Garden', 'Solar Water', 'Water Supply', 'Drainage']"
+   "Amenities": ['Parking',, 'Air Condition', 'Garage', 'Garden', 'Solar Water', 'Water Supply', 'Drainage'],
  },
  {
    "Title": "House Rent In Lazimpat : House For Rent In Lazimpat, Kathmandu",
@@ -5937,7 +5937,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Garage', 'Balcony', 'Garden', 'Water Supply']"
+   "Amenities": ['Parking',, 'Garage', 'Balcony', 'Garden', 'Water Supply'],
  },
  {
    "Title": "House For Rent In Mhepi, Kathmandu",
@@ -5957,7 +5957,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony', 'Garden', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Parking',, 'Balcony', 'Garden', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "4 Aana Land : Land For Sale In Budhanilkantha, Kathmandu",
@@ -5977,7 +5977,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Drainage', 'Water Supply']"
+   "Amenities": ['Drainage', 'Water Supply'],
  },
  {
    "Title": "Land On Sale : Land For Sale In Teku, Kathmandu",
@@ -5997,7 +5997,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "2-1-2-0 Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Akase Dhara House : House For Sale In Kapan, Kathmandu",
@@ -6017,7 +6017,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "0-4-0 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Water Tank', 'Modular Kitchen', 'Fencing', 'Fencing', 'Water Well', 'Parking', 'Electricity Backup', 'Balcony', 'Water Well', 'Balcony', 'Water Tank', 'Modular Kitchen', 'Electricity Backup']"
+   "Amenities": ['Parking',, 'Water Tank', 'Modular Kitchen', 'Fencing', 'Fencing', 'Water Well', 'Parking', 'Electricity Backup', 'Balcony', 'Water Well', 'Balcony', 'Water Tank', 'Modular Kitchen', 'Electricity Backup'],
  },
  {
    "Title": "Harmony Residency : House For Sale In Bhaisepati, Lalitpur",
@@ -6037,7 +6037,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2380 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'TV Cable', 'Water Supply', 'Drainage', 'CCTV', 'Parking']"
+   "Amenities": ['Balcony', 'Fencing', 'TV Cable', 'Water Supply', 'Drainage', 'CCTV', 'Parking'],
  },
  {
    "Title": "Flat : Flat For Rent In Swayambhu, Kathmandu",
@@ -6057,7 +6057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "8 Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Balcony', 'Solar Water', 'Electricity Backup']"
+   "Amenities": ['Parking',, 'Balcony', 'Solar Water', 'Electricity Backup'],
  },
  {
    "Title": "Harmony Residency : House For Sale In Bhaisepati, Lalitpur",
@@ -6077,7 +6077,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2380 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Water Supply', 'Drainage', 'Parking']"
+   "Amenities": ['Balcony', 'TV Cable', 'Water Supply', 'Drainage', 'Parking'],
  },
  {
    "Title": "3-Storey House For Sale In Gairidhara : House For Sale In Gairidhara, Kathmandu",
@@ -6097,7 +6097,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Parking', 'Store Room', 'Security Staff']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Parking', 'Store Room', 'Security Staff'],
  },
  {
    "Title": "Harmony Residency : House For Sale In Bhaisepati, Lalitpur",
@@ -6117,7 +6117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2380 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'TV Cable', 'Water Supply', 'Drainage', 'CCTV', 'Parking']"
+   "Amenities": ['Balcony', 'Fencing', 'TV Cable', 'Water Supply', 'Drainage', 'CCTV', 'Parking'],
  },
  {
    "Title": "Land For Sale At Gokarna : Land For Sale In Gokarneshwor, Kathmandu",
@@ -6137,7 +6137,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Budhanilkantha Furnished Bungalow : House For Sale In Budhanilkantha, Kathmandu",
@@ -6157,7 +6157,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Air Condition', 'Garden', 'Modular Kitchen', 'Drainage', 'Solar Water', 'Water Supply', 'Water Tank', 'Parking']"
+   "Amenities": ['Garage', 'Balcony', 'Air Condition', 'Garden', 'Modular Kitchen', 'Drainage', 'Solar Water', 'Water Supply', 'Water Tank', 'Parking'],
  },
  {
    "Title": "Sanobharyang 3.1 Ana 1.3 Km : House For Sale In Sanobharyang, Kathmandu",
@@ -6177,7 +6177,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Garage', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Water Supply']"
+   "Amenities": ['Garage', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Water Supply'],
  },
  {
    "Title": "3 Flats On Rent : Flat For Rent In Imadol, Lalitpur",
@@ -6197,7 +6197,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "6 Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Fencing', 'Balcony', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking']"
+   "Amenities": ['Fencing', 'Balcony', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking'],
  },
  {
    "Title": "Hetauda Children Park Najik Pragati Path Ma Ghar Jagga Bikrima : House For Sale In Hetauda, Makwanpur",
@@ -6217,7 +6217,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "10 Dhur",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Water Supply', 'Garden']"
+   "Amenities": ['Parking',, 'Water Supply', 'Garden'],
  },
  {
    "Title": "Flat For Rent In Jhamsikhel, Lalitpur",
@@ -6237,7 +6237,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "4 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Parking', 'Water Supply', 'Solar Water']"
+   "Amenities": ['Parking',, 'Water Supply', 'Solar Water'],
  },
  {
    "Title": "Flat For Rent In Jhamsikhel, Lalitpur",
@@ -6257,7 +6257,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "4 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Water Supply', 'Solar Water', 'Parking']"
+   "Amenities": ['Water Supply', 'Solar Water', 'Parking'],
  },
  {
    "Title": "Land Sale In Lele : Land For Sale In Lele, Lalitpur",
@@ -6277,7 +6277,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Sanobharyang Home : House For Sale In Swayambhu, Kathmandu",
@@ -6297,7 +6297,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "Golfutar Bungalow For Sale : House For Sale In Golfutar, Kathmandu",
@@ -6317,7 +6317,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Garage', 'Lawn', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Kids Playground', 'Security Staff', 'Store Room']"
+   "Amenities": ['Garage', 'Lawn', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Kids Playground', 'Security Staff', 'Store Room'],
  },
  {
    "Title": "Harmony Residency : House For Sale In Bhaisepati, Lalitpur",
@@ -6337,7 +6337,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2067 Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Fencing', 'TV Cable', 'Drainage', 'Water Tank', 'CCTV', 'Parking']"
+   "Amenities": ['Garage', 'Balcony', 'Fencing', 'TV Cable', 'Drainage', 'Water Tank', 'CCTV', 'Parking'],
  },
  {
    "Title": "Newroad Office Space On Rent : Office Space For Rent In Newroad, Kathmandu",
@@ -6357,7 +6357,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "530 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Water Supply', 'CCTV', 'Internet', 'Store Room']"
+   "Amenities": ['Water Supply', 'CCTV', 'Internet', 'Store Room'],
  },
  {
    "Title": "House For Sale In Kadaghari, Kathmandu",
@@ -6377,7 +6377,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Drainage', 'Water Supply', 'Parking']"
+   "Amenities": ['Drainage', 'Water Supply', 'Parking'],
  },
  {
    "Title": "Budhanilkantha 4 Ana Home : House For Sale In Budhanilkantha, Kathmandu",
@@ -6397,7 +6397,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "House For Sale In Satungal, Kathmandu",
@@ -6417,7 +6417,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "3200 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Chapali Cheap Home : House For Sale In Chapali, Kathmandu",
@@ -6437,7 +6437,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "House For Sale In Dhapakhel, Lalitpur",
@@ -6457,7 +6457,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "12.5 Anna Jagga On Sale At Lolang Height, Hariyali Samaaj : House For Sale In Balaju, Kathmandu",
@@ -6477,7 +6477,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "4 Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Garden', 'Water Supply', 'Parking']"
+   "Amenities": ['Garden', 'Water Supply', 'Parking'],
  },
  {
    "Title": "Pasikot Cheap Home 168 Only : House For Sale In Pasikot, Kathmandu",
@@ -6497,7 +6497,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Budhanilkantha 5.5 Ana Home : House For Sale In Budhanilkantha, Kathmandu",
@@ -6517,7 +6517,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Garage', 'Parking']"
+   "Amenities": ['Garage', 'Parking'],
  },
  {
    "Title": "Beautiful Small Home Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -6537,7 +6537,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Bhudhanilkantha House On Rent : House For Rent In Budhanilkantha, Kathmandu",
@@ -6557,7 +6557,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2850 Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Water Supply', 'Parking', 'CCTV', 'Solar Water', 'Water Tank', 'Wifi', 'Store Room']"
+   "Amenities": ['Garage', 'Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Water Supply', 'Parking', 'CCTV', 'Solar Water', 'Water Tank', 'Wifi', 'Store Room'],
  },
  {
    "Title": "Flat/Room Rent At Balaju ( Storage, Godaun/ Office Space) : Office Space For Rent In Balaju, Kathmandu",
@@ -6577,7 +6577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "550 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Balcony', 'Water Supply', 'Water Well', 'Solar Water', 'Parking', 'Store Room', 'Water Tank']"
+   "Amenities": ['Balcony', 'Water Supply', 'Water Well', 'Solar Water', 'Parking', 'Store Room', 'Water Tank'],
  },
  {
    "Title": "Flat For Rent At Dhunge Dhara Banasthali : Flat For Rent In Dhungedhara, Kathmandu",
@@ -6597,7 +6597,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Backyard', 'Balcony', 'Internet', 'Electricity Backup', 'Water Supply', 'Water Tank', 'Garden', 'Parking', 'Wifi', 'Water Well']"
+   "Amenities": ['Backyard', 'Balcony', 'Internet', 'Electricity Backup', 'Water Supply', 'Water Tank', 'Garden', 'Parking', 'Wifi', 'Water Well'],
  },
  {
    "Title": "Chapali Bungalow 13 Ana : House For Sale In Chapali, Kathmandu",
@@ -6617,7 +6617,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Garage', 'Backyard', 'Balcony', 'Frontyard', 'Garden', 'Drainage', 'Solar Water', 'Water Supply', 'Water Tank', 'Store Room']"
+   "Amenities": ['Garage', 'Backyard', 'Balcony', 'Frontyard', 'Garden', 'Drainage', 'Solar Water', 'Water Supply', 'Water Tank', 'Store Room'],
  },
  {
    "Title": "Maharajganj 5 Ropani Bungalow : House For Rent In Maharajgunj, Kathmandu",
@@ -6637,7 +6637,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Garage', 'Backyard', 'Lawn', 'Balcony', 'Frontyard', 'Fencing', 'Garden', 'Drainage', 'Solar Water', 'Water Supply', 'Water Well', 'Water Tank', 'Security Staff', 'Store Room']"
+   "Amenities": ['Garage', 'Backyard', 'Lawn', 'Balcony', 'Frontyard', 'Fencing', 'Garden', 'Drainage', 'Solar Water', 'Water Supply', 'Water Well', 'Water Tank', 'Security Staff', 'Store Room'],
  },
  {
    "Title": "Beautiful : House For Sale In Baluwatar, Kathmandu",
@@ -6657,7 +6657,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Land For Sale In Kapan, Kathmandu",
@@ -6677,7 +6677,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House On Rent Or Sale At Matatirtha : House For Sale In Matatirtha, Kathmandu",
@@ -6697,7 +6697,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Garden']"
+   "Amenities": ['Garden'],
  },
  {
    "Title": "House For Sale In Bhaisepati, Lalitpur",
@@ -6717,7 +6717,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-3-0-0 Aana",
    "Posted": "2 months ago",
-   "Amenities": "['Balcony', 'Garage', 'Backyard', 'Garden', 'Lawn', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Wifi', 'Water Supply', 'Water Tank', 'Water Well', 'Parking', 'Internet', 'Store Room']"
+   "Amenities": ['Balcony', 'Garage', 'Backyard', 'Garden', 'Lawn', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Wifi', 'Water Supply', 'Water Tank', 'Water Well', 'Parking', 'Internet', 'Store Room'],
  },
  {
    "Title": "House For Sale In Tinthana, Kathmandu",
@@ -6737,7 +6737,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2000 Sq. Feet",
    "Posted": "2 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Flat For Rent At Jawalakhel : Apartment For Rent In Jawalakhel, Lalitpur",
@@ -6757,7 +6757,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat On Rent At Man Bhawan : House For Rent In Jawalakhel, Lalitpur",
@@ -6777,7 +6777,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "2 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent At Naxal : House For Rent In Naxal, Kathmandu",
@@ -6797,7 +6797,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale : Land For Sale In Hetauda, Makwanpur",
@@ -6817,7 +6817,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Urgent House Sale : House For Sale In Kapan, Kathmandu",
@@ -6837,7 +6837,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "Flat System : House For Sale In Tikathali, Lalitpur",
@@ -6857,7 +6857,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Land For Sale In Butwal, Butwal",
@@ -6877,7 +6877,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Affordable Home At Jorpati : House For Sale In Jorpati, Kathmandu",
@@ -6897,7 +6897,7 @@ const listings = [
    "Road Type": " Alley",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Ravishing : House For Sale In Baluwatar, Kathmandu",
@@ -6917,7 +6917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Intercom', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Intercom', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Commercial : Land For Sale In Gaurighat, Kathmandu",
@@ -6937,7 +6937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Drainage', 'Water Well', 'Parking']"
+   "Amenities": ['Drainage', 'Water Well', 'Parking'],
  },
  {
    "Title": "Commercial : Land For Sale In Gaurighat, Kathmandu",
@@ -6957,7 +6957,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Drainage', 'Water Supply', 'Parking']"
+   "Amenities": ['Drainage', 'Water Supply', 'Parking'],
  },
  {
    "Title": "Commercial : Land For Sale In Gaurighat, Kathmandu",
@@ -6977,7 +6977,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Drainage', 'Water Well', 'Parking']"
+   "Amenities": ['Drainage', 'Water Well', 'Parking'],
  },
  {
    "Title": "Commercial : Land For Sale In Gaurighat, Kathmandu",
@@ -6997,7 +6997,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Commercial : Land For Sale In Gaurighat, Kathmandu",
@@ -7017,7 +7017,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Commercial : Land For Sale In Gaurighat, Kathmandu",
@@ -7037,7 +7037,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Drainage', 'Water Supply', 'Parking', 'Security Staff']"
+   "Amenities": ['Drainage', 'Water Supply', 'Parking', 'Security Staff'],
  },
  {
    "Title": "Boutique On Sale : Business For Sale In Kumaripati, Lalitpur",
@@ -7057,7 +7057,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "350 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Water Tank']"
+   "Amenities": ['Balcony', 'Water Tank'],
  },
  {
    "Title": "Commercial : Land For Sale In Gaurighat, Kathmandu",
@@ -7077,7 +7077,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Drainage', 'Water Well', 'Parking']"
+   "Amenities": ['Drainage', 'Water Well', 'Parking'],
  },
  {
    "Title": "Land Sale : Land For Sale In Birtamod Road, Itahari",
@@ -7097,7 +7097,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Uniform Showroom And Factory : Business For Sale In Samakhusi, Kathmandu",
@@ -7117,7 +7117,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Karyabinayak Colony House For Sale : House For Sale In Bhaisepati, Lalitpur",
@@ -7137,7 +7137,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Modular Kitchen', 'Swimming Pool', 'Solar Water', 'TV Cable', 'Garden', 'Balcony']"
+   "Amenities": ['Modular Kitchen', 'Swimming Pool', 'Solar Water', 'TV Cable', 'Garden', 'Balcony'],
  },
  {
    "Title": "Pasikot 21 Ana Home : House For Sale In Pasikot, Kathmandu",
@@ -7157,7 +7157,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Store Room', 'Kids Playground', 'Maintenance', 'Parking', 'Water Supply', 'Drainage', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Store Room', 'Kids Playground', 'Maintenance', 'Parking', 'Water Supply', 'Drainage', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Pasikot 12 Ana Home : House For Sale In Pasikot, Kathmandu",
@@ -7177,7 +7177,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Lawn', 'Backyard', 'Fencing', 'Garden', 'Frontyard', 'Water Well', 'Water Tank', 'Solar Water', 'Drainage']"
+   "Amenities": ['Garage', 'Lawn', 'Backyard', 'Fencing', 'Garden', 'Frontyard', 'Water Well', 'Water Tank', 'Solar Water', 'Drainage'],
  },
  {
    "Title": "House For Sale In Thankot, Kathmandu",
@@ -7197,7 +7197,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-2-2-0 Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Electricity Backup', 'Water Supply', 'Water Tank', 'Water Well', 'Balcony']"
+   "Amenities": ['Electricity Backup', 'Water Supply', 'Water Tank', 'Water Well', 'Balcony'],
  },
  {
    "Title": "BEAUTIFUL HOUSE FOR RENT IN RESIDENTIAL AREA! : House For Rent In Kupondole, Lalitpur",
@@ -7217,7 +7217,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Air Condition', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Microwave', 'Modular Kitchen', 'Water Tank', 'Parking', 'Solar Water', 'Water Supply']"
+   "Amenities": ['Garage', 'Air Condition', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Microwave', 'Modular Kitchen', 'Water Tank', 'Parking', 'Solar Water', 'Water Supply'],
  },
  {
    "Title": "House On Rent At Bafal : House For Sale In Bafal, Kathmandu",
@@ -7237,7 +7237,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "New House On Rent : Business For Rent In Soltimode, Kathmandu",
@@ -7257,7 +7257,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2100 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Backyard', 'Frontyard', 'Modular Kitchen', 'Drainage', 'Water Supply']"
+   "Amenities": ['Balcony', 'Backyard', 'Frontyard', 'Modular Kitchen', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Land On Rent At Radhe Rahde : Land For Rent In Radhe Radhe, Bhaktapur",
@@ -7277,7 +7277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale : House For Sale In Nagarjun, Kathmandu",
@@ -7297,7 +7297,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "1969.43 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Backyard', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Parking', 'Water Tank', 'Internet', 'Solar Water', 'Electricity Backup', 'Water Supply', 'Cafeteria', 'CCTV']"
+   "Amenities": ['Backyard', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Parking', 'Water Tank', 'Internet', 'Solar Water', 'Electricity Backup', 'Water Supply', 'Cafeteria', 'CCTV'],
  },
  {
    "Title": "4.5 Anna Land On Sale At Checkpost : Land For Sale In Chandragiri, Kathmandu",
@@ -7317,7 +7317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Modern European Design : House For Sale In Naxal, Kathmandu",
@@ -7337,7 +7337,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Intercom', 'Internet', 'Kids Playground', 'Parking', 'Store Room']"
+   "Amenities": ['Garage', 'Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Intercom', 'Internet', 'Kids Playground', 'Parking', 'Store Room'],
  },
  {
    "Title": "1.5 Storey House On Sale At Matairtha : House For Sale In Chandragiri, Kathmandu",
@@ -7357,7 +7357,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2076 Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Thapathali, Kathmandu",
@@ -7377,7 +7377,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "3000 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Fencing', 'Frontyard', 'Garden', 'TV Cable', 'Drainage', 'Solar Water', 'Water Well', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Fencing', 'Frontyard', 'Garden', 'TV Cable', 'Drainage', 'Solar Water', 'Water Well', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Hattigauda Plotting : Land For Sale In Hattigauda, Kathmandu",
@@ -7397,7 +7397,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Dahal Niwas For Sale. : House For Sale In Gairigaun, Kathmandu",
@@ -7417,7 +7417,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "0-7-0-0 Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Air Condition', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply', 'Water Well', 'Water Tank', 'Parking', 'Intercom', 'Store Room', 'Drainage', 'Washing Machine', 'Microwave']"
+   "Amenities": ['Air Condition', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply', 'Water Well', 'Water Tank', 'Parking', 'Intercom', 'Store Room', 'Drainage', 'Washing Machine', 'Microwave'],
  },
  {
    "Title": "House On Sale At Imadole : House For Sale In Imadol, Lalitpur",
@@ -7437,7 +7437,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Urgent Land Sale : Land For Sale In Dharan, Dharan",
@@ -7457,7 +7457,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "7 Kattha",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Bhaktapur Land Sale 24 Anna (NEGOTIABLE) : Land For Sale In Kharipati, Bhaktapur",
@@ -7477,7 +7477,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "2 Room Available : Flat For Sale In Shrijana Chowk, Pokhara",
@@ -7497,7 +7497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "555 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Drainage']"
+   "Amenities": ['Balcony', 'Drainage'],
  },
  {
    "Title": "Comercial Co Residential : Land For Sale In Koteshwor, Kathmandu",
@@ -7517,7 +7517,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "16 Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Residential And Personal : House For Sale In Bafal, Kathmandu",
@@ -7537,7 +7537,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-4-0-0 Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Solar Water', 'Water Well', 'Water Tank', 'Parking', 'Electricity Backup', 'Internet']"
+   "Amenities": ['Garage', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Solar Water', 'Water Well', 'Water Tank', 'Parking', 'Electricity Backup', 'Internet'],
  },
  {
    "Title": "Space On Rent For Office And Restaurant ... Baneshwor Chowk : Business For Rent In Baneshwor, Kathmandu",
@@ -7557,7 +7557,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lift', 'Parking', 'CCTV']"
+   "Amenities": ['Lift', 'Parking', 'CCTV'],
  },
  {
    "Title": "House For Sale In Butwal, Butwal",
@@ -7577,7 +7577,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1400 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Fencing', 'Garden', 'Frontyard', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Parking', 'Internet', 'Kids Playground', 'Store Room']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Fencing', 'Garden', 'Frontyard', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Parking', 'Internet', 'Kids Playground', 'Store Room'],
  },
  {
    "Title": "Furnished Villa For Rent At Budhanilkantha : House For Rent In Budhanilkantha, Kathmandu",
@@ -7597,7 +7597,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Internet', 'Modular Kitchen', 'Solar Water', 'TV Cable', 'Garden', 'Water Tank', 'Wifi', 'Kids Playground', 'Balcony', 'Microwave', 'Drainage', 'CCTV']"
+   "Amenities": ['Internet', 'Modular Kitchen', 'Solar Water', 'TV Cable', 'Garden', 'Water Tank', 'Wifi', 'Kids Playground', 'Balcony', 'Microwave', 'Drainage', 'CCTV'],
  },
  {
    "Title": "Flat On Rent At Raniban : Flat For Rent In Nagarjun, Kathmandu",
@@ -7617,7 +7617,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Semi Commercial Shared Office Space : Office Space For Rent In Buddhanagar, Kathmandu",
@@ -7637,7 +7637,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "550 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Garden', 'Wifi', 'Water Supply', 'Water Tank', 'Parking', 'Internet', 'Intercom']"
+   "Amenities": ['Garden', 'Wifi', 'Water Supply', 'Water Tank', 'Parking', 'Internet', 'Intercom'],
  },
  {
    "Title": "Prime Location House Is For Sale : House For Sale In Gwarko, Lalitpur",
@@ -7657,7 +7657,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-0-3 Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Beautiful Designed House In Peaceful Area Is On Sale : House For Sale In Imadol, Lalitpur",
@@ -7677,7 +7677,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "1798 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Modular Kitchen', 'Water Supply', 'Solar Water', 'TV Cable', 'Water Well', 'Water Tank', 'Internet', 'Wifi', 'Parking', 'Balcony', 'Drainage']"
+   "Amenities": ['Modular Kitchen', 'Water Supply', 'Solar Water', 'TV Cable', 'Water Well', 'Water Tank', 'Internet', 'Wifi', 'Parking', 'Balcony', 'Drainage'],
  },
  {
    "Title": "House For Rent In Gatthaghar, Bhaktapur",
@@ -7697,7 +7697,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "200 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'Wifi', 'Water Supply', 'Internet', 'Parking']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'Wifi', 'Water Supply', 'Internet', 'Parking'],
  },
  {
    "Title": "Office Space For Rent In Gatthaghar, Bhaktapur",
@@ -7717,7 +7717,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "500 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Parking', 'Internet', 'Wifi', 'Balcony', 'Drainage', 'Water Supply']"
+   "Amenities": ['Parking',, 'Internet', 'Wifi', 'Balcony', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "House For Rent At Chobhar Kathmandu : House For Rent In Chovar, Kathmandu",
@@ -7737,7 +7737,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Modular Kitchen', 'Water Supply', 'Garden', 'Parking', 'Kids Playground', 'Balcony']"
+   "Amenities": ['Modular Kitchen', 'Water Supply', 'Garden', 'Parking', 'Kids Playground', 'Balcony'],
  },
  {
    "Title": "4 Ropani Land For Sale At Budhanilkantha : Land For Sale In Budhanilkantha, Kathmandu",
@@ -7757,7 +7757,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Fully Furnished Brand New Bungalow For Sale In Dhapasi, Kunwar Colony : House For Sale In Budhanilkantha, Kathmandu",
@@ -7777,7 +7777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Parking', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Parking', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "6 Bhk 20 Anna Bungalow For Sale At Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -7797,7 +7797,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Wifi', 'Drainage', 'Parking', 'Water Tank', 'Water Well', 'Solar Water', 'Cafeteria', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Wifi', 'Drainage', 'Parking', 'Water Tank', 'Water Well', 'Solar Water', 'Cafeteria', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "10 Anna Land For Sale At Budhanilkantha In Great Residential Community : Land For Sale In Budhanilkantha, Kathmandu",
@@ -7817,7 +7817,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "6 Ropani Exceptionally Beautiful Bungalow For Sale At Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -7837,7 +7837,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Parking', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground', 'Jacuzzi']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Parking', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground', 'Jacuzzi'],
  },
  {
    "Title": "South Face Perfect Piece Of 8 Anna Land For Sale At Budhanilkantha : Land For Sale In Budhanilkantha, Kathmandu",
@@ -7857,7 +7857,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "6 Anna New House For Sale At Pasikot, 400 Meters From Main Highway : House For Sale In Budhanilkantha, Kathmandu",
@@ -7877,7 +7877,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Parking', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Parking', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Brand New Beautiful House For Sale At Sundarbasti, Bhangal. : House For Sale In Budhanilkantha, Kathmandu",
@@ -7897,7 +7897,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Wifi', 'Drainage', 'Washing Machine', 'Water Supply', 'Water Well', 'Water Tank', 'Parking', 'Internet']"
+   "Amenities": ['Lawn', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Wifi', 'Drainage', 'Washing Machine', 'Water Supply', 'Water Well', 'Water Tank', 'Parking', 'Internet'],
  },
  {
    "Title": "12 Anna House Opposite Rastra Bank At Baluwatar, Beside Subisu Office : House For Sale In Baluwatar, Kathmandu",
@@ -7917,7 +7917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Parking', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Intercom', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Parking', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Intercom', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "10 Anna Land For Sale Beside Sher Bahadur Deuba House, Budhanilkantha : Land For Sale In Budhanilkantha, Kathmandu",
@@ -7937,7 +7937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "6 Anna Purba Mohada Land For Sale At Deuba Chowk, 150 Mtr From Highway : Land For Sale In Budhanilkantha, Kathmandu",
@@ -7957,7 +7957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House On Rent : House For Rent In Bakhundol, Lalitpur",
@@ -7977,7 +7977,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "0-3-0 Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Backyard', 'Lawn', 'Balcony']"
+   "Amenities": ['Backyard', 'Lawn', 'Balcony'],
  },
  {
    "Title": "Dhapasi Bungalow : House For Sale In Dhapasi, Kathmandu",
@@ -7997,7 +7997,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "4.5 Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Lawn', 'Balcony', 'Water Supply', 'Solar Water', 'Drainage', 'Water Tank', 'Maintenance', 'Security Staff', 'Store Room']"
+   "Amenities": ['Garage', 'Lawn', 'Balcony', 'Water Supply', 'Solar Water', 'Drainage', 'Water Tank', 'Maintenance', 'Security Staff', 'Store Room'],
  },
  {
    "Title": "Flat For Rent : Flat For Rent In Kusunti, Lalitpur",
@@ -8017,7 +8017,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Parking', 'Water Well', 'Water Supply', 'Backyard', 'Garden', 'Drainage', 'Water Tank']"
+   "Amenities": ['Parking',, 'Water Well', 'Water Supply', 'Backyard', 'Garden', 'Drainage', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -8037,7 +8037,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2000 Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Parking', 'Store Room'],
  },
  {
    "Title": "Hotel On Rent At Thamel , Kathmandu : Business For Rent In Thamel, Kathmandu",
@@ -8057,7 +8057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Brand New House For Sale (2 Crore 45 Lakhs) Negotiable. : House For Sale In Sitapaila, Kathmandu",
@@ -8077,7 +8077,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "0-4-0-0 Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Jacuzzi', 'Balcony', 'Drainage', 'Water Supply', 'Water Tank', 'Modular Kitchen']"
+   "Amenities": ['Jacuzzi', 'Balcony', 'Drainage', 'Water Supply', 'Water Tank', 'Modular Kitchen'],
  },
  {
    "Title": "Hotel For Rent At Lakeside,Pokhara : Business For Rent In Lakeside, Pokhara",
@@ -8097,7 +8097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat In Rent Just Near Nepal Polytechnic College Vhojad : Flat For Rent In Bharatpur, Chitwan",
@@ -8117,7 +8117,7 @@ const listings = [
    "Road Type": " Alley",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House On Rent At Rose Villa , Siddhartha Colony : House For Rent In Budhanilkantha, Kathmandu",
@@ -8137,7 +8137,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Modular Kitchen', 'Water Supply', 'Garden', 'Balcony', 'Parking', 'CCTV']"
+   "Amenities": ['Modular Kitchen', 'Water Supply', 'Garden', 'Balcony', 'Parking', 'CCTV'],
  },
  {
    "Title": "Brand New House For Rent : House For Rent In Bhangal, Kathmandu",
@@ -8157,7 +8157,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "6.5 Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'Parking', 'Solar Water', 'Garden', 'Wifi', 'Water Well', 'Water Tank', 'Electricity Backup', 'TV Cable']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'Parking', 'Solar Water', 'Garden', 'Wifi', 'Water Well', 'Water Tank', 'Electricity Backup', 'TV Cable'],
  },
  {
    "Title": "Land On Rent At Bhaktapur : Land For Rent In Bhaktapur, Bhaktapur",
@@ -8177,7 +8177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "LAND For Sale At Bharatpur-19 (20 Lakhs Per Kattha) : Land For Sale In Bharatpur, Chitwan",
@@ -8197,7 +8197,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Rose Village Bakot House Sale : House For Sale In Madhyapur Thimi, Bhaktapur",
@@ -8217,7 +8217,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2500 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Balcony', 'Fencing']"
+   "Amenities": ['Lawn', 'Garage', 'Balcony', 'Fencing'],
  },
  {
    "Title": "House On Rent At Naya Bazar : House For Rent In Khusibu, Kathmandu",
@@ -8237,7 +8237,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Modular Kitchen', 'Water Supply', 'CCTV', 'Balcony']"
+   "Amenities": ['Modular Kitchen', 'Water Supply', 'CCTV', 'Balcony'],
  },
  {
    "Title": "Civil Home Khumaltar House On Rent : House For Rent In Dhapakhel, Lalitpur",
@@ -8257,7 +8257,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Modular Kitchen', 'Water Supply', 'Solar Water', 'Swimming Pool', 'Internet', 'TV Cable', 'Garden', 'Kids Playground', 'Gym', 'Wifi', 'CCTV', 'Balcony', 'Cafeteria']"
+   "Amenities": ['Modular Kitchen', 'Water Supply', 'Solar Water', 'Swimming Pool', 'Internet', 'TV Cable', 'Garden', 'Kids Playground', 'Gym', 'Wifi', 'CCTV', 'Balcony', 'Cafeteria'],
  },
  {
    "Title": "Newly Constructed House : House For Sale In Tikathali, Lalitpur",
@@ -8277,7 +8277,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "0-4-0-0 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Water Tank', 'Frontyard', 'Parking', 'Frontyard']"
+   "Amenities": ['Water Tank', 'Frontyard', 'Parking', 'Frontyard'],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -8297,7 +8297,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "House For Sale In Jorpati, Kathmandu",
@@ -8317,7 +8317,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1704 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Backyard', 'Garden', 'Water Tank', 'Parking', 'Security Staff', 'Store Room']"
+   "Amenities": ['Balcony', 'Backyard', 'Garden', 'Water Tank', 'Parking', 'Security Staff', 'Store Room'],
  },
  {
    "Title": "Premium Land For Sale In Pokhara : Land For Sale In Pokhara, Pokhara",
@@ -8337,7 +8337,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "0-5-0-0 Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Luxurious And Spacious 4 Bhk Flat In A Posh Location At Sanepa : Flat For Rent In Sanepa, Lalitpur",
@@ -8357,7 +8357,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Balcony', 'Garden', 'Gym', 'Water Supply', 'Electricity Backup', 'Lift']"
+   "Amenities": ['Lawn', 'Balcony', 'Garden', 'Gym', 'Water Supply', 'Electricity Backup', 'Lift'],
  },
  {
    "Title": "Flat For Rent : Flat For Rent In Thankot, Kathmandu",
@@ -8377,7 +8377,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2200 Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Backyard', 'Frontyard', 'Balcony', 'Water Well', 'Water Supply', 'Kids Playground']"
+   "Amenities": ['Backyard', 'Frontyard', 'Balcony', 'Water Well', 'Water Supply', 'Kids Playground'],
  },
  {
    "Title": "Modern, Earthquake-Resistant House For Sale : House For Sale In Tikathali, Lalitpur",
@@ -8397,7 +8397,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Microwave', 'Garden', 'Fencing', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Electricity Backup', 'Wifi']"
+   "Amenities": ['Garage', 'Balcony', 'Microwave', 'Garden', 'Fencing', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Electricity Backup', 'Wifi'],
  },
  {
    "Title": "Flat For Rent : Flat For Rent In Thaiba, Lalitpur",
@@ -8417,7 +8417,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "800 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garden']"
+   "Amenities": ['Lawn', 'Garden'],
  },
  {
    "Title": "Personal : Land For Sale In Kapan, Kathmandu",
@@ -8437,7 +8437,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "First Floor Flat At Bhaisepati : Flat For Rent In Bhaisepati, Lalitpur",
@@ -8457,7 +8457,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Beautiful 4BHK Bungalow : House For Sale In Balkot, Bhaktapur",
@@ -8477,7 +8477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2390.65 Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Gym', 'Microwave', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'CCTV', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground', 'Maintenance', 'Parking', 'Security Staff', 'Store Room']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Gym', 'Microwave', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'CCTV', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground', 'Maintenance', 'Parking', 'Security Staff', 'Store Room'],
  },
  {
    "Title": "Land For Sale In Gokarneshwor, Kathmandu",
@@ -8497,7 +8497,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Vinayak Colony House On Rent : House For Rent In Bhaisepati, Lalitpur",
@@ -8517,7 +8517,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Garden', 'Modular Kitchen', 'Water Supply', 'Solar Water', 'Kids Playground']"
+   "Amenities": ['Balcony', 'Garden', 'Modular Kitchen', 'Water Supply', 'Solar Water', 'Kids Playground'],
  },
  {
    "Title": "House For Rent At Comfort Housing Sitapaila : House For Rent In Sitapaila, Kathmandu",
@@ -8537,7 +8537,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Gym', 'Garden', 'Swimming Pool', 'Water Tank', 'Water Supply', 'Maintenance']"
+   "Amenities": ['Balcony', 'Gym', 'Garden', 'Swimming Pool', 'Water Tank', 'Water Supply', 'Maintenance'],
  },
  {
    "Title": "House For Sale In Shantinagar, Kathmandu",
@@ -8557,7 +8557,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Fencing', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking']"
+   "Amenities": ['Fencing', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking'],
  },
  {
    "Title": "One Room At Dhobighat : Flat For Rent In Dhobighat, Lalitpur",
@@ -8577,7 +8577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat At Sanepa : Flat For Rent In Sanepa, Lalitpur",
@@ -8597,7 +8597,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "First Floor Flat At Dhobighat : Flat For Rent In Dhobighat, Lalitpur",
@@ -8617,7 +8617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Full Furnished House On Rent Karyabinayak Colony : House For Rent In Karyabinayak, Lalitpur",
@@ -8637,7 +8637,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'Water Supply', 'Solar Water', 'Garden']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'Water Supply', 'Solar Water', 'Garden'],
  },
  {
    "Title": "House : House For Rent In Bakhundol, Lalitpur",
@@ -8657,7 +8657,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "3000 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Frontyard', 'Parking', 'Water Well', 'Balcony', 'Solar Water', 'Garage', 'Backyard', 'Lawn', 'Kids Playground', 'Store Room', 'Water Tank', 'Security Staff']"
+   "Amenities": ['Frontyard', 'Parking', 'Water Well', 'Balcony', 'Solar Water', 'Garage', 'Backyard', 'Lawn', 'Kids Playground', 'Store Room', 'Water Tank', 'Security Staff'],
  },
  {
    "Title": "Land : Land For Sale In Damak, Jhapa",
@@ -8677,7 +8677,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "LAND : Land For Sale In Dharan, Dharan",
@@ -8697,7 +8697,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Cheap Land : Land For Sale In Balkot, Bhaktapur",
@@ -8717,7 +8717,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Buddhanilkantha 10 Ana : Land For Sale In Budhanilkantha, Kathmandu",
@@ -8737,7 +8737,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat Rent : Flat For Rent In Basundhara, Kathmandu",
@@ -8757,7 +8757,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Backyard', 'Garden', 'Water Supply', 'Internet', 'Kids Playground']"
+   "Amenities": ['Backyard', 'Garden', 'Water Supply', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Land For Sale : Land For Sale In Imadol, Lalitpur",
@@ -8777,7 +8777,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Full Furnished House On Rent At Bhaisepati : House For Rent In Bhaisepati, Lalitpur",
@@ -8797,7 +8797,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Jacuzzi', 'Balcony', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Water Supply', 'Solar Water']"
+   "Amenities": ['Jacuzzi', 'Balcony', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Water Supply', 'Solar Water'],
  },
  {
    "Title": "Space On Rent For Office And Restaurant ... Baneshwor Chowk : Office Space For Rent In Baneshwor, Kathmandu",
@@ -8817,7 +8817,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lift']"
+   "Amenities": ['Lift'],
  },
  {
    "Title": "Full Furnished House For Rent At Civil Homes Sunakothi Phase III : House For Rent In Civil Homes, Lalitpur",
@@ -8837,7 +8837,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Gym', 'Microwave', 'Garden', 'Modular Kitchen', 'Swimming Pool', 'Water Supply']"
+   "Amenities": ['Balcony', 'Gym', 'Microwave', 'Garden', 'Modular Kitchen', 'Swimming Pool', 'Water Supply'],
  },
  {
    "Title": "Brand New Modern House For Sale At Basundhara Chowk, Inside Ring Road. : House For Sale In Basundhara, Kathmandu",
@@ -8857,7 +8857,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Air Condition', 'Garage', 'Balcony', 'Fencing', 'Garden', 'Frontyard', 'Microwave', 'Drainage', 'Wifi', 'Washing Machine', 'Modular Kitchen', 'Water Supply', 'Water Well', 'Water Tank', 'Kids Playground', 'Internet']"
+   "Amenities": ['Lawn', 'Air Condition', 'Garage', 'Balcony', 'Fencing', 'Garden', 'Frontyard', 'Microwave', 'Drainage', 'Wifi', 'Washing Machine', 'Modular Kitchen', 'Water Supply', 'Water Well', 'Water Tank', 'Kids Playground', 'Internet'],
  },
  {
    "Title": "Exclusive Semi Bungalow For Sale At Golfutar Chowk 30 Mtr From Highway : House For Sale In Golfutar, Kathmandu",
@@ -8877,7 +8877,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Water Supply', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Water Supply', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Townplanning 13 Ana Bungalow : House For Sale In Samakhusi, Kathmandu",
@@ -8897,7 +8897,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Siddarth Colony Under Construction Home : House For Sale In Budhanilkantha, Kathmandu",
@@ -8917,7 +8917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Baluwatar 2 Ropani Land : Land For Sale In Baluwatar, Kathmandu",
@@ -8937,7 +8937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Samakhusi 11 Ana Flat Home : House For Sale In Samakhusi, Kathmandu",
@@ -8957,7 +8957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Parking', 'Drainage', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Parking',, 'Drainage', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Golfutar Home : House For Sale In Golfutar, Kathmandu",
@@ -8977,7 +8977,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Parking', 'Drainage', 'Solar Water', 'Water Tank', 'Water Supply']"
+   "Amenities": ['Garage', 'Parking', 'Drainage', 'Solar Water', 'Water Tank', 'Water Supply'],
  },
  {
    "Title": "Mitrapark Bungalow : House For Sale In Chabahil, Kathmandu",
@@ -8997,7 +8997,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "Dhaneswor House For Sale : House For Sale In Baniyatar, Kathmandu",
@@ -9017,7 +9017,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "Basundhara Semi Bungalow : House For Sale In Basundhara, Kathmandu",
@@ -9037,7 +9037,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Parking']"
+   "Amenities": ['Garage', 'Parking'],
  },
  {
    "Title": "Basundhara Home : House For Sale In Basundhara, Kathmandu",
@@ -9057,7 +9057,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Parking']"
+   "Amenities": ['Garage', 'Parking'],
  },
  {
    "Title": "Basundhara Beautiful Home : House For Sale In Basundhara, Kathmandu",
@@ -9077,7 +9077,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "South Facing Bungalow For Sale At Dhapasi Height With Great View In 22 Feet Road : House For Sale In Dhapasi, Kathmandu",
@@ -9097,7 +9097,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Sitapaila Housing : Land For Sale In Sitapaila, Kathmandu",
@@ -9117,7 +9117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "18 Anna Land For Sale At Budhanilkantha, Opposite Park Village Resort : Land For Sale In Budhanilkantha, Kathmandu",
@@ -9137,7 +9137,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Budhanilkantha 17 Ana Bungalow : House For Sale In Budhanilkantha, Kathmandu",
@@ -9157,7 +9157,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Lawn', 'Balcony', 'Modular Kitchen', 'Drainage', 'Solar Water', 'Water Supply', 'Water Tank', 'Parking']"
+   "Amenities": ['Garage', 'Lawn', 'Balcony', 'Modular Kitchen', 'Drainage', 'Solar Water', 'Water Supply', 'Water Tank', 'Parking'],
  },
  {
    "Title": "Parkvillage Budhanilkantha : Land For Sale In Budhanilkantha, Kathmandu",
@@ -9177,7 +9177,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Dhapasi Exclusive Bungalow : House For Sale In Dhapasi, Kathmandu",
@@ -9197,7 +9197,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Frontyard', 'Lawn', 'Garage', 'Water Supply', 'Solar Water', 'Drainage', 'Water Tank', 'Parking', 'Store Room']"
+   "Amenities": ['Frontyard', 'Lawn', 'Garage', 'Water Supply', 'Solar Water', 'Drainage', 'Water Tank', 'Parking', 'Store Room'],
  },
  {
    "Title": "Golfutar 6 Ana Exclusive Bungalow : House For Sale In Golfutar, Kathmandu",
@@ -9217,7 +9217,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2600 Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Parking', 'Water Supply', 'Solar Water', 'Drainage', 'Washing Machine', 'Water Tank']"
+   "Amenities": ['Garage', 'Parking', 'Water Supply', 'Solar Water', 'Drainage', 'Washing Machine', 'Water Tank'],
  },
  {
    "Title": "East Face 12 Anna Bungalow For Sale At Naxal, 400 Mtr From Bhatbhateni : House For Sale In Naxal, Kathmandu",
@@ -9237,7 +9237,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "VIP Semi-Bungalow On Sale In Akashedhara Height , 1 Km From Ringroad Sukhedhara : House For Sale In Sukedhara, Kathmandu",
@@ -9257,7 +9257,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "0-4-0-0 Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage'],
  },
  {
    "Title": "1.5 Storey : House For Sale In Imadol, Lalitpur",
@@ -9277,7 +9277,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "1.5 Storey House : House For Sale In Imadol, Lalitpur",
@@ -9297,7 +9297,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Parking']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Parking'],
  },
  {
    "Title": "1.5 Storey : House For Sale In Imadol, Lalitpur",
@@ -9317,7 +9317,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Mahendra Highway : Land For Sale In Bharatpur, Chitwan",
@@ -9337,7 +9337,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "26 Dhur",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -9357,7 +9357,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Fencing', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Parking', 'Store Room']"
+   "Amenities": ['Fencing', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Parking', 'Store Room'],
  },
  {
    "Title": "House For Rent At Civil Homes Sunakothi Phase III : House For Rent In Civil Homes, Lalitpur",
@@ -9377,7 +9377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "One And Half Storied : House For Sale In Tikathali, Lalitpur",
@@ -9397,7 +9397,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -9417,7 +9417,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2100 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking', 'Store Room'],
  },
  {
    "Title": "1.5 Storey House : House For Sale In Tikathali, Lalitpur",
@@ -9437,7 +9437,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Fencing', 'Drainage', 'Water Tank', 'Water Well', 'Parking']"
+   "Amenities": ['Fencing', 'Drainage', 'Water Tank', 'Water Well', 'Parking'],
  },
  {
    "Title": "10 Dhur Graderi On Sale : Land For Sale In Bharatpur, Chitwan",
@@ -9457,7 +9457,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "200 Sq. Meter",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Attractive Building : House For Lease In Bharatpur, Chitwan",
@@ -9477,7 +9477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1600 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Frontyard', 'Balcony', 'Water Supply', 'Drainage', 'Parking']"
+   "Amenities": ['Frontyard', 'Balcony', 'Water Supply', 'Drainage', 'Parking'],
  },
  {
    "Title": "Flat At Rent - Near SaSa Restaurant : Flat For Rent In Machhegaun, Kirtipur",
@@ -9497,7 +9497,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "0-3-7-0 Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony']"
+   "Amenities": ['Balcony'],
  },
  {
    "Title": "Apartment For Rent In Dhapakhel, Lalitpur",
@@ -9517,7 +9517,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1180 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Balcony']"
+   "Amenities": ['Garage', 'Balcony'],
  },
  {
    "Title": "One And Half Storied : House For Sale In Tikathali, Lalitpur",
@@ -9537,7 +9537,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Tank', 'Water Well', 'Parking']"
+   "Amenities": ['Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Tank', 'Water Well', 'Parking'],
  },
  {
    "Title": "One And Half Storied : House For Sale In Tikathali, Lalitpur",
@@ -9557,7 +9557,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Fencing', 'Drainage', 'Water Tank', 'Water Well', 'Parking']"
+   "Amenities": ['Fencing', 'Drainage', 'Water Tank', 'Water Well', 'Parking'],
  },
  {
    "Title": "Land For Sale In Changunarayan, Bhaktapur",
@@ -9577,7 +9577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House On Rent At Karyabinay Colony : House For Rent In Bhaisepati, Lalitpur",
@@ -9597,7 +9597,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Garden', 'Modular Kitchen']"
+   "Amenities": ['Balcony', 'Garden', 'Modular Kitchen'],
  },
  {
    "Title": "House At Sale : House For Sale In Hetauda, Makwanpur",
@@ -9617,7 +9617,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "0-4-0-0 / 322 Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Air Condition', 'Balcony']"
+   "Amenities": ['Lawn', 'Air Condition', 'Balcony'],
  },
  {
    "Title": "House For Rent In Kupondole : House For Rent In Kupondole, Lalitpur",
@@ -9637,7 +9637,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "16 Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Garden', 'Frontyard', 'Water Well']"
+   "Amenities": ['Garage', 'Balcony', 'Garden', 'Frontyard', 'Water Well'],
  },
  {
    "Title": "Baluwatar Russian Embassy : Land For Sale In Baluwatar, Kathmandu",
@@ -9657,7 +9657,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Beautiful Piece Of 4 Anna Square Land For Sale At Golfutar : Land For Sale In Golfutar, Kathmandu",
@@ -9677,7 +9677,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Golfutar Land : Land For Sale In Golfutar, Kathmandu",
@@ -9697,7 +9697,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Sundarbasti 4 Ana Home : House For Sale In Bhangal, Kathmandu",
@@ -9717,7 +9717,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "East Facing 5.5 Anna Brand New House For Sale At Baluwatar : House For Sale In Baluwatar, Kathmandu",
@@ -9737,7 +9737,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Cafeteria', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Cafeteria', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Baluwatar Luxury Home : House For Sale In Baluwatar, Kathmandu",
@@ -9757,7 +9757,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "4 Anna 3.5 Floor House For Sale At Basundhara : House For Sale In Basundhara, Kathmandu",
@@ -9777,7 +9777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Frontyard', 'Garden', 'Fencing', 'Deck', 'Modular Kitchen', 'Wifi', 'Drainage', 'Washing Machine', 'Water Supply', 'Solar Water', 'Water Tank', 'Kids Playground', 'Internet']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Frontyard', 'Garden', 'Fencing', 'Deck', 'Modular Kitchen', 'Wifi', 'Drainage', 'Washing Machine', 'Water Supply', 'Solar Water', 'Water Tank', 'Kids Playground', 'Internet'],
  },
  {
    "Title": "South Facing 7 Anna Modern House For Sale At Samakhusi Chowk : House For Sale In Samakhusi, Kathmandu",
@@ -9797,7 +9797,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "कान्तिपुर कोलोनीमा ( Lalitpur) नयाँ घर बिक्रिमा !! 192 Lakh (Negotiable ) : House For Sale In Nakhipot, Lalitpur",
@@ -9817,7 +9817,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Brand New House For Sale At Kapan, Kharibot. : House For Sale In Kapan, Kathmandu",
@@ -9837,7 +9837,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Washing Machine', 'Drainage', 'Water Tank', 'Solar Water', 'Water Supply', 'Internet']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Washing Machine', 'Drainage', 'Water Tank', 'Solar Water', 'Water Supply', 'Internet'],
  },
  {
    "Title": "Samakhusi Luxury Bungalow : House For Sale In Samakhusi, Kathmandu",
@@ -9857,7 +9857,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "Basundhara House For Sale : House For Sale In Basundhara, Kathmandu",
@@ -9877,7 +9877,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "5 Anna Land For Sale At Dhapasi, Near Krishna Mandi : Land For Sale In Dhapasi, Kathmandu",
@@ -9897,7 +9897,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "East Facing 4 Anna Brand New Family Home For Sale At Mandikatar. : House For Sale In Mandikatar, Kathmandu",
@@ -9917,7 +9917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Intercom', 'Internet']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Intercom', 'Internet'],
  },
  {
    "Title": "3 To 5 Anna Plot Lands At Chapali, Budhanilkantha, 4 Km From Ring Road : Land For Sale In Budhanilkantha, Kathmandu",
@@ -9937,7 +9937,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Modern Bungalow For Sale At Rudreshwor Chowk, Budhanilkantha. 50 Meters From Main Highway. : House For Sale In Budhanilkantha, Kathmandu",
@@ -9957,7 +9957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "10 Anna Land For Sale At Budhanilkantha, Rudreshwor Chowk, 20 Meters From Main Highway. : Land For Sale In Budhanilkantha, Kathmandu",
@@ -9977,7 +9977,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "17 Anna 5 BHK New Bungalow Sale At Budhanilkantha Near Park Village : House For Sale In Budhanilkantha, Kathmandu",
@@ -9997,7 +9997,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Brand New Semi Bungalow In 33 Feet Road, Beside Deuba Residence, Deuba Chowk, Budhanilkantha. : House For Sale In Budhanilkantha, Kathmandu",
@@ -10017,7 +10017,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Lawn', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Intercom', 'Internet']"
+   "Amenities": ['Garage', 'Lawn', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Intercom', 'Internet'],
  },
  {
    "Title": "5.2 Anna 3 Bhk East Facing Bungalow For Sale In Baluwatar, Tudaldevi. : House For Sale In Baluwatar, Kathmandu",
@@ -10037,7 +10037,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Wifi', 'Water Tank', 'Solar Water', 'Water Supply', 'Internet']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Wifi', 'Water Tank', 'Solar Water', 'Water Supply', 'Internet'],
  },
  {
    "Title": "9 Anna Brand New Bungalow For Sale At Budhanilkantha, Taulung. : House For Sale In Budhanilkantha, Kathmandu",
@@ -10057,7 +10057,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet'],
  },
  {
    "Title": "One And Half Storied : House For Sale In Imadol, Lalitpur",
@@ -10077,7 +10077,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Fencing', 'TV Cable', 'Drainage', 'Water Supply', 'Water Well']"
+   "Amenities": ['Fencing', 'TV Cable', 'Drainage', 'Water Supply', 'Water Well'],
  },
  {
    "Title": "House For Sale In Chakupat, Lalitpur",
@@ -10097,7 +10097,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "1 Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Wifi', 'TV Cable', 'Store Room']"
+   "Amenities": ['Wifi', 'TV Cable', 'Store Room'],
  },
  {
    "Title": "House For Sale In Tikathali : House For Sale In Tikathali, Lalitpur",
@@ -10117,7 +10117,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Tikathali : House For Sale In Tikathali, Lalitpur",
@@ -10137,7 +10137,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Water Tank', 'Water Well', 'Parking']"
+   "Amenities": ['Water Tank', 'Water Well', 'Parking'],
  },
  {
    "Title": "House For Rent Samakhusi : House For Rent In Samakhusi, Kathmandu",
@@ -10157,7 +10157,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Fully Furnished House For Sale At Imadol, Sital Height : House For Sale In Imadol, Lalitpur",
@@ -10177,7 +10177,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Solar Water', 'Water Well', 'Water Tank', 'Internet', 'Microwave', 'Garden', 'Garage', 'Balcony', 'Backyard', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Kids Playground']"
+   "Amenities": ['Solar Water', 'Water Well', 'Water Tank', 'Internet', 'Microwave', 'Garden', 'Garage', 'Balcony', 'Backyard', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Kids Playground'],
  },
  {
    "Title": "Full Furnished House On Rent In Dhapasi Height, Near Grande Hospital : House For Rent In Dhapasi, Kathmandu",
@@ -10197,7 +10197,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "3 Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Backyard']"
+   "Amenities": ['Garage', 'Balcony', 'Backyard'],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -10217,7 +10217,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'Drainage', 'Water Tank']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'Drainage', 'Water Tank'],
  },
  {
    "Title": "4BHK Apartment In Sale- 1340 Sq Feet. : Apartment For Sale In Pepsicola, Kathmandu",
@@ -10237,7 +10237,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1340 Sq. Feet",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garden', 'Gym', 'TV Cable', 'Wifi', 'Water Supply', 'CCTV', 'Electricity Backup', 'Maintenance', 'Security Staff', 'Parking', 'Lift', 'Swimming Pool', 'Intercom']"
+   "Amenities": ['Lawn', 'Garden', 'Gym', 'TV Cable', 'Wifi', 'Water Supply', 'CCTV', 'Electricity Backup', 'Maintenance', 'Security Staff', 'Parking', 'Lift', 'Swimming Pool', 'Intercom'],
  },
  {
    "Title": "Chapali Plotting Land : Land For Sale In Chapali, Kathmandu",
@@ -10257,7 +10257,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Sano Bharyang Brand New Home : House For Sale In Sano Bharyang, Kathmandu",
@@ -10277,7 +10277,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "Budhanilkantha Mandikatar : House For Sale In Mandikatar, Kathmandu",
@@ -10297,7 +10297,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Store Room', 'Parking']"
+   "Amenities": ['Garage', 'Store Room', 'Parking'],
  },
  {
    "Title": "22 Anna Land Covered Bungalow For Sale At Budhanilkanta. : House For Sale In Budhanilkantha, Kathmandu",
@@ -10317,7 +10317,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Classical Traditional Style Bungalow At Chabahil Mitrapark Inside Ringroad. : House For Sale In Chabahil, Kathmandu",
@@ -10337,7 +10337,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Intercom', 'Internet']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Intercom', 'Internet'],
  },
  {
    "Title": "Brand New House At Dhungedhara, Banasthali, 300 Meter From Ring Road : House For Sale In Banasthali, Kathmandu",
@@ -10357,7 +10357,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Drainage', 'Water Tank', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet']"
+   "Amenities": ['Garage', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Drainage', 'Water Tank', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet'],
  },
  {
    "Title": "Brand New House At Sano Bharayang, Swayambhu, 500 Meter From Ring Road : House For Sale In Swayambhu, Kathmandu",
@@ -10377,7 +10377,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet'],
  },
  {
    "Title": "Banasthali Dhungedhara Home : House For Sale In Dhungedhara, Kathmandu",
@@ -10397,7 +10397,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -10417,7 +10417,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Parking', 'Garage']"
+   "Amenities": ['Parking',, 'Garage'],
  },
  {
    "Title": "Chabahil Bageswori Homes : House For Sale In Chabahil, Kathmandu",
@@ -10437,7 +10437,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Garage']"
+   "Amenities": ['Balcony', 'Garage'],
  },
  {
    "Title": "Siddarthcolony Home : House For Sale In Budhanilkantha, Kathmandu",
@@ -10457,7 +10457,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Baluwatar Home : House For Sale In Baluwatar, Kathmandu",
@@ -10477,7 +10477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Parking']"
+   "Amenities": ['Garage', 'Parking'],
  },
  {
    "Title": "Bhangal New Home : House For Sale In Budhanilkantha, Kathmandu",
@@ -10497,7 +10497,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "Budhanilkantha Bhangal : House For Sale In Bhangal, Kathmandu",
@@ -10517,7 +10517,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "House For Sale In Shantinagar, Kathmandu",
@@ -10537,7 +10537,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Kids Playground', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Kids Playground', 'Parking', 'Store Room'],
  },
  {
    "Title": "Hepali Height Breathtaking Bungalow : House For Sale In Budhanilkantha, Kathmandu",
@@ -10557,7 +10557,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garage', 'Lawn', 'Balcony', 'Backyard', 'Garden', 'Store Room', 'Parking', 'Security Staff']"
+   "Amenities": ['Garage', 'Lawn', 'Balcony', 'Backyard', 'Garden', 'Store Room', 'Parking', 'Security Staff'],
  },
  {
    "Title": "House For Sale In Satdobato, Lalitpur",
@@ -10577,7 +10577,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Balcony', 'Garden', 'Frontyard', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply']"
+   "Amenities": ['Lawn', 'Garage', 'Balcony', 'Garden', 'Frontyard', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply'],
  },
  {
    "Title": "Brand New : House For Sale In Imadol, Lalitpur",
@@ -10597,7 +10597,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Parking', 'Store Room'],
  },
  {
    "Title": "House For Sale In Bhaisepati, Lalitpur",
@@ -10617,7 +10617,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2450 Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "House On Sale At Green Viallage Society , Ramkot : House For Sale In Ramkot, Kathmandu",
@@ -10637,7 +10637,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "2storey House On Sale At Green Viallage Society , Ramkot : House For Sale In Ramkot, Kathmandu",
@@ -10657,7 +10657,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House On Sale At Green Viallage Society , Ramkot : House For Sale In Ramkot, Kathmandu",
@@ -10677,7 +10677,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -10697,7 +10697,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Gairidhara, Kathmandu",
@@ -10717,7 +10717,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "['Garden', 'Garage', 'Frontyard', 'Backyard', 'Kids Playground']"
+   "Amenities": ['Garden', 'Garage', 'Frontyard', 'Backyard', 'Kids Playground'],
  },
  {
    "Title": "Land For Sale In Basbari : Land For Sale In Basbari, Kathmandu",
@@ -10737,7 +10737,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Hattigauda Ma Sasto Jagga Bikrima : Land For Sale In Budhanilkantha, Kathmandu",
@@ -10757,7 +10757,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "3 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Furnished Office With MOE Consultancy License : Office Space For Sale In Chabahil, Kathmandu",
@@ -10777,7 +10777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1400 Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "['Wifi', 'Drainage', 'Water Supply', 'Water Well', 'CCTV', 'Electricity Backup', 'Intercom', 'Internet', 'Lift', 'Parking', 'Security Staff']"
+   "Amenities": ['Wifi', 'Drainage', 'Water Supply', 'Water Well', 'CCTV', 'Electricity Backup', 'Intercom', 'Internet', 'Lift', 'Parking', 'Security Staff'],
  },
  {
    "Title": "Land On Sale In Nagarkot : Land For Sale In Nagarkot, Bhaktapur",
@@ -10797,7 +10797,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "11 Ropani",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "7.5 Dhur Land At Hetauda : Land For Sale In Hetauda, Makwanpur",
@@ -10817,7 +10817,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Budhanilkantha Chapali Home For Sale : House For Sale In Chapali, Kathmandu",
@@ -10837,7 +10837,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Frontyard', 'Garage', 'Solar Water', 'Water Supply', 'Water Well', 'Water Tank', 'Store Room']"
+   "Amenities": ['Frontyard', 'Garage', 'Solar Water', 'Water Supply', 'Water Well', 'Water Tank', 'Store Room'],
  },
  {
    "Title": "House For Rent In Paknajol, Kathmandu",
@@ -10857,7 +10857,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-3-2-0 Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Drainage', 'TV Cable', 'Water Supply', 'Internet']"
+   "Amenities": ['Drainage', 'TV Cable', 'Water Supply', 'Internet'],
  },
  {
    "Title": "16ana Land At Tokha : Land For Sale In Tokha, Kathmandu",
@@ -10877,7 +10877,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "16 Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land : Land For Sale In Pepsicola, Kathmandu",
@@ -10897,7 +10897,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Attractive Flat For Rent : Apartment For Rent In Dhapakhel, Lalitpur",
@@ -10917,7 +10917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "790 Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "['Swimming Pool', 'Modular Kitchen', 'Water Supply', 'Electricity Backup', 'Garage', 'Balcony', 'Garden', 'Water Tank', 'Kids Playground', 'Gym', 'Lift']"
+   "Amenities": ['Swimming Pool', 'Modular Kitchen', 'Water Supply', 'Electricity Backup', 'Garage', 'Balcony', 'Garden', 'Water Tank', 'Kids Playground', 'Gym', 'Lift'],
  },
  {
    "Title": "Imadol Ko 20 Feet Ko Batoko Ghar Bikrima : House For Sale In Imadol, Lalitpur",
@@ -10937,7 +10937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Gwarko, Lalitpur",
@@ -10957,7 +10957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Kids Playground', 'Parking', 'Security Staff', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Kids Playground', 'Parking', 'Security Staff', 'Store Room'],
  },
  {
    "Title": "Brand New 3 BHK : Apartment For Rent In Balkumari, Lalitpur",
@@ -10977,7 +10977,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "['Air Condition', 'Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Electricity Backup', 'Internet', 'Kids Playground', 'Lift', 'Maintenance', 'Parking', 'Security Staff', 'Store Room']"
+   "Amenities": ['Air Condition', 'Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Electricity Backup', 'Internet', 'Kids Playground', 'Lift', 'Maintenance', 'Parking', 'Security Staff', 'Store Room'],
  },
  {
    "Title": "Land For Rent : Land For Rent In Naxal, Kathmandu",
@@ -10997,7 +10997,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Office Space For Rent : Office Space For Rent In Naxal, Kathmandu",
@@ -11017,7 +11017,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Backyard', 'Water Supply', 'Water Tank', 'Garage']"
+   "Amenities": ['Backyard', 'Water Supply', 'Water Tank', 'Garage'],
  },
  {
    "Title": "House For Rent : House For Rent In Budhanilkantha, Kathmandu",
@@ -11037,7 +11037,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Frontyard', 'Water Supply', 'Water Well', 'Modular Kitchen', 'Drainage', 'Balcony']"
+   "Amenities": ['Frontyard', 'Water Supply', 'Water Well', 'Modular Kitchen', 'Drainage', 'Balcony'],
  },
  {
    "Title": "Office Space For Rent : Office Space For Rent In Naxal, Kathmandu",
@@ -11057,7 +11057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Backyard', 'Water Supply', 'Frontyard', 'Water Tank']"
+   "Amenities": ['Backyard', 'Water Supply', 'Frontyard', 'Water Tank'],
  },
  {
    "Title": "House For Rent : House For Rent In Ratopul, Kathmandu",
@@ -11077,7 +11077,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "8000 Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "['Water Supply', 'Water Well', 'Frontyard']"
+   "Amenities": ['Water Supply', 'Water Well', 'Frontyard'],
  },
  {
    "Title": "Land On Sale : Land For Sale In Soltimode, Kathmandu",
@@ -11097,7 +11097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent : House For Rent In Sinamangal, Kathmandu",
@@ -11117,7 +11117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Water Supply', 'Water Well', 'Balcony', 'Frontyard']"
+   "Amenities": ['Water Supply', 'Water Well', 'Balcony', 'Frontyard'],
  },
  {
    "Title": "Land On Sale : Land For Sale In Boudha, Kathmandu",
@@ -11137,7 +11137,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent : House For Rent In Boudha, Kathmandu",
@@ -11157,7 +11157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Frontyard', 'Balcony', 'Drainage', 'Water Supply']"
+   "Amenities": ['Frontyard', 'Balcony', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Land For Rent : Land For Rent In Gyaneshwor, Kathmandu",
@@ -11177,7 +11177,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Rent : Land For Rent In Maharajgunj, Kathmandu",
@@ -11197,7 +11197,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Office Space For Rent In Thamel, Kathmandu",
@@ -11217,7 +11217,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Water Supply', 'Water Well', 'Frontyard', 'Drainage']"
+   "Amenities": ['Water Supply', 'Water Well', 'Frontyard', 'Drainage'],
  },
  {
    "Title": "Office Space For Rent : Office Space For Rent In Maharajgunj, Kathmandu",
@@ -11237,7 +11237,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "3500 Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "['Frontyard', 'Water Supply']"
+   "Amenities": ['Frontyard', 'Water Supply'],
  },
  {
    "Title": "House For Rent : House For Rent In Lazimpat, Kathmandu",
@@ -11257,7 +11257,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Frontyard', 'Water Supply', 'Water Tank', 'Balcony']"
+   "Amenities": ['Frontyard', 'Water Supply', 'Water Tank', 'Balcony'],
  },
  {
    "Title": "Land On Sale : Land For Sale In Budhanilkantha, Kathmandu",
@@ -11277,7 +11277,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Colony House On Rent : House For Rent In Basbari, Kathmandu",
@@ -11297,7 +11297,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Garden', 'Modular Kitchen', 'Water Tank']"
+   "Amenities": ['Garage', 'Balcony', 'Garden', 'Modular Kitchen', 'Water Tank'],
  },
  {
    "Title": "Basundhara Bungalow For Sale : House For Sale In Basundhara, Kathmandu",
@@ -11317,7 +11317,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Air Condition', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Washing Machine', 'Drainage', 'Wifi', 'Solar Water', 'Water Supply', 'Water Tank', 'Water Well', 'Parking', 'Store Room']"
+   "Amenities": ['Garage', 'Air Condition', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Washing Machine', 'Drainage', 'Wifi', 'Solar Water', 'Water Supply', 'Water Tank', 'Water Well', 'Parking', 'Store Room'],
  },
  {
    "Title": "Land At Ramkot : Land For Sale In Ramkot, Kathmandu",
@@ -11337,7 +11337,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Polting Land At Dahachowk : Land For Sale In Dahachowk, Khahare, Kathmandu",
@@ -11357,7 +11357,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent : Business For Rent In Gongabu, Kathmandu",
@@ -11377,7 +11377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Beautiful House On Rent : Office Space For Rent In Khusibu, Kathmandu",
@@ -11397,7 +11397,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Water Tank', 'Balcony']"
+   "Amenities": ['Water Tank', 'Balcony'],
  },
  {
    "Title": "Plotting Land For Sale At Gumti Chowk : Land For Sale In Budhanilkantha, Kathmandu",
@@ -11417,7 +11417,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Full Furnished House On Rent : House For Rent In Lazimpat, Kathmandu",
@@ -11437,7 +11437,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Air Condition', 'Garden', 'Frontyard', 'Balcony', 'Modular Kitchen', 'Solar Water', 'Water Well', 'Water Tank']"
+   "Amenities": ['Garage', 'Air Condition', 'Garden', 'Frontyard', 'Balcony', 'Modular Kitchen', 'Solar Water', 'Water Well', 'Water Tank'],
  },
  {
    "Title": "House On SALE!! : House For Sale In Kapan, Kathmandu",
@@ -11457,7 +11457,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "3 Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "2.5 Storey New : House For Sale In Gothatar, Kathmandu",
@@ -11477,7 +11477,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "1026 Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking']"
+   "Amenities": ['Lawn', 'Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking'],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -11497,7 +11497,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Akasedharama Naya Ghar : House For Sale In Kapan, Kathmandu",
@@ -11517,7 +11517,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "12 Ropani Land Is On Sale. : Land For Sale In Nirmal Pokhari, Pokhara",
@@ -11537,7 +11537,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "12 Ropani",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Budhanilkantha Mandikatar Height Home : House For Sale In Mandikatar, Kathmandu",
@@ -11557,7 +11557,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Drainage', 'Water Supply', 'Solar Water', 'Store Room']"
+   "Amenities": ['Drainage', 'Water Supply', 'Solar Water', 'Store Room'],
  },
  {
    "Title": "Budhanilkantha Family Bungalow : House For Sale In Budhanilkantha, Kathmandu",
@@ -11577,7 +11577,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Solar Water', 'Water Tank', 'Water Well', 'Store Room']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Solar Water', 'Water Tank', 'Water Well', 'Store Room'],
  },
  {
    "Title": "30 Ropani Land For Sale. : Land For Sale In Nirmal Pokhari, Pokhara",
@@ -11597,7 +11597,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "30 Ropani",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Beautiful Semi Bungalow For Sale : House For Sale In Hattigauda, Kathmandu",
@@ -11617,7 +11617,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Drainage', 'Solar Water', 'Water Tank', 'Water Well']"
+   "Amenities": ['Garage', 'Balcony', 'Drainage', 'Solar Water', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Sale At Bhangal Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -11637,7 +11637,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2700 Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Backyard', 'Garden', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank', 'Store Room']"
+   "Amenities": ['Balcony', 'Backyard', 'Garden', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank', 'Store Room'],
  },
  {
    "Title": "New Homes At Basundhara Chauki : House For Sale In Basundhara, Kathmandu",
@@ -11657,7 +11657,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Brand New : House For Sale In Buddhanagar, Kathmandu",
@@ -11677,7 +11677,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Grandy Home : House For Sale In Tokha, Kathmandu",
@@ -11697,7 +11697,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "Golfutar Height Bungalow : House For Sale In Golfutar, Kathmandu",
@@ -11717,7 +11717,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Backyard', 'Frontyard', 'Garden', 'Fencing', 'Microwave', 'Modular Kitchen', 'Washing Machine', 'Water Supply', 'Drainage', 'Solar Water', 'Water Tank', 'Store Room', 'Parking', 'Security Staff', 'Kids Playground']"
+   "Amenities": ['Garage', 'Balcony', 'Backyard', 'Frontyard', 'Garden', 'Fencing', 'Microwave', 'Modular Kitchen', 'Washing Machine', 'Water Supply', 'Drainage', 'Solar Water', 'Water Tank', 'Store Room', 'Parking', 'Security Staff', 'Kids Playground'],
  },
  {
    "Title": "Ganeschok Home : House For Sale In Hattigauda, Kathmandu",
@@ -11737,7 +11737,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Drainage', 'Water Tank', 'Solar Water', 'Water Supply']"
+   "Amenities": ['Drainage', 'Water Tank', 'Solar Water', 'Water Supply'],
  },
  {
    "Title": "Beautiful Shaped Land Italitar Hattigauda : Land For Sale In Hattigauda, Kathmandu",
@@ -11757,7 +11757,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Grandy Tokhama Naya Ghar : House For Sale In Tokha, Kathmandu",
@@ -11777,7 +11777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Drainage', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Drainage', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Hattigauda Brand New Semi Bungalow : House For Sale In Hattigauda, Kathmandu",
@@ -11797,7 +11797,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Solar Water', 'Drainage', 'Water Tank', 'Water Well']"
+   "Amenities": ['Garage', 'Solar Water', 'Drainage', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "Basundhara Indreni Colony Home : House For Sale In Basundhara, Kathmandu",
@@ -11817,7 +11817,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Frontyard', 'Garden', 'Garage', 'Store Room']"
+   "Amenities": ['Frontyard', 'Garden', 'Garage', 'Store Room'],
  },
  {
    "Title": "Nayabazar Home : House For Sale In Naya Bazar, Kathmandu",
@@ -11837,7 +11837,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Modular Kitchen', 'Drainage', 'Solar Water', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['Modular Kitchen', 'Drainage', 'Solar Water', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "Pasikot Bungalow : House For Sale In Budhanilkantha, Kathmandu",
@@ -11857,7 +11857,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Air Condition', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Internet', 'Store Room', 'Parking']"
+   "Amenities": ['Garage', 'Air Condition', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Internet', 'Store Room', 'Parking'],
  },
  {
    "Title": "7 Ana Bungalow Urgent For Sale : House For Sale In Thulo Bharyang, Kathmandu",
@@ -11877,7 +11877,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Frontyard', 'Garden', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Solar Water', 'Water Well', 'Water Tank', 'Store Room']"
+   "Amenities": ['Garage', 'Frontyard', 'Garden', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Solar Water', 'Water Well', 'Water Tank', 'Store Room'],
  },
  {
    "Title": "Dhumbarahi 32 Ana Land : Land For Sale In Dhumbarahi, Kathmandu",
@@ -11897,7 +11897,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Grandy Home : House For Sale In Tokha, Kathmandu",
@@ -11917,7 +11917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Water Supply', 'Solar Water', 'Drainage', 'Water Tank', 'Water Well', 'Store Room']"
+   "Amenities": ['Water Supply', 'Solar Water', 'Drainage', 'Water Tank', 'Water Well', 'Store Room'],
  },
  {
    "Title": "Hattigaudama Brand New Family Bungalows : House For Sale In Budhanilkantha, Kathmandu",
@@ -11937,7 +11937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Water Supply', 'Drainage', 'Solar Water', 'Water Tank', 'Store Room', 'Parking']"
+   "Amenities": ['Balcony', 'Water Supply', 'Drainage', 'Solar Water', 'Water Tank', 'Store Room', 'Parking'],
  },
  {
    "Title": "Maharajganj Lands : Land For Sale In Maharajgunj, Kathmandu",
@@ -11957,7 +11957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Golfutar 8 Ana For Sale : Land For Sale In Golfutar, Kathmandu",
@@ -11977,7 +11977,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Basundhara Beautiful Bungalow : House For Sale In Basundhara, Kathmandu",
@@ -11997,7 +11997,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Garage', 'Parking', 'Store Room', 'Solar Water', 'Water Supply', 'Water Well']"
+   "Amenities": ['Balcony', 'Garage', 'Parking', 'Store Room', 'Solar Water', 'Water Supply', 'Water Well'],
  },
  {
    "Title": "Baluwatar 16 Ana Land : Land For Sale In Baluwatar, Kathmandu",
@@ -12017,7 +12017,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Jorpati Daachi Plotting Land : Land For Sale In Jorpati, Kathmandu",
@@ -12037,7 +12037,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "3.5 Ana Land On Sale In Kalanki : Land For Sale In Chandragiri, Kathmandu",
@@ -12057,7 +12057,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Sale-Imperial Apartment Sanepa : Apartment For Sale In Sanepa, Lalitpur",
@@ -12077,7 +12077,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1800 Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "['Jacuzzi', 'Lawn', 'Garage', 'Air Condition', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Deck', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Cafeteria', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground', 'Lift', 'Maintenance']"
+   "Amenities": ['Jacuzzi', 'Lawn', 'Garage', 'Air Condition', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Deck', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Cafeteria', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground', 'Lift', 'Maintenance'],
  },
  {
    "Title": "५ रोपनी, १८ लाख प्रति आना, चोभार/ : Land For Sale In Machhegaun, Kirtipur",
@@ -12097,7 +12097,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "टुक्रा जग्गा चोभार हाइट मा बिक्रीमा : Land For Sale In Machhegaun, Kirtipur",
@@ -12117,7 +12117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Bardibas, Mahottari",
@@ -12137,7 +12137,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "10935 Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Attractive Land For Rent - Suitable For Factory : Land For Rent In Bhadrapur, Jhapa",
@@ -12157,7 +12157,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land At Simara Bazar : Land For Sale In Nijghadh, Bara",
@@ -12177,7 +12177,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Imadol, Lalitpur",
@@ -12197,7 +12197,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "700 Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "['Garden', 'Modular Kitchen', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Garden', 'Modular Kitchen', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Brand New : House For Sale In Bhimsengola, Baneshwor, Kathmandu",
@@ -12217,7 +12217,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Brand New House On Sale At Bhimsengola : House For Sale In Old Baneshwor, Kathmandu",
@@ -12237,7 +12237,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2300 Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Dhapakhel : Land For Sale In Dhapakhel, Lalitpur",
@@ -12257,7 +12257,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Syuchatar, Kathmandu",
@@ -12277,7 +12277,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "151 Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Security Staff', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Security Staff', 'Store Room'],
  },
  {
    "Title": "Commercial Building : House For Sale In Thulo Bharyang, Kathmandu",
@@ -12297,7 +12297,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "24000 Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Gym', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'CCTV', 'Electricity Backup', 'Intercom', 'Internet', 'Maintenance', 'Parking', 'Security Staff', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Gym', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'CCTV', 'Electricity Backup', 'Intercom', 'Internet', 'Maintenance', 'Parking', 'Security Staff', 'Store Room'],
  },
  {
    "Title": "2 Storey Beautiful House For Sale At Tinkune : House For Sale In Tinkune, Kathmandu",
@@ -12317,7 +12317,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Backyard', 'Frontyard', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Lawn', 'Backyard', 'Frontyard', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Luxurious Bungalow : House For Sale In Dhobighat, Lalitpur",
@@ -12337,7 +12337,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'CCTV', 'Electricity Backup', 'Internet', 'Kids Playground', 'Maintenance', 'Parking', 'Store Room']"
+   "Amenities": ['Lawn', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'CCTV', 'Electricity Backup', 'Internet', 'Kids Playground', 'Maintenance', 'Parking', 'Store Room'],
  },
  {
    "Title": "2BHK FLAT ON RENT AT BALAJU BORATAR (NEAR BANASTHALI KHARIBOT) : House For Rent In Balaju, Kathmandu",
@@ -12357,7 +12357,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2.75 Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Water Well', 'Water Tank', 'Internet', 'Kids Playground', 'Parking']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Water Well', 'Water Tank', 'Internet', 'Kids Playground', 'Parking'],
  },
  {
    "Title": "Hattiban Height : House For Rent In Hattiban, Lalitpur",
@@ -12377,7 +12377,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "4 Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Garden', 'TV Cable', 'Water Supply', 'Water Well', 'Parking']"
+   "Amenities": ['Garage', 'Balcony', 'Garden', 'TV Cable', 'Water Supply', 'Water Well', 'Parking'],
  },
  {
    "Title": "Land In Chabahil For Sale : Land For Sale In Chabahil, Kathmandu",
@@ -12397,7 +12397,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "New House On Sale In Imadol Height : House For Sale In Imadol, Lalitpur",
@@ -12417,7 +12417,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "3 Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Backyard', 'Frontyard', 'Balcony', 'TV Cable', 'Solar Water', 'Drainage', 'Water Well', 'Water Tank']"
+   "Amenities": ['Backyard', 'Frontyard', 'Balcony', 'TV Cable', 'Solar Water', 'Drainage', 'Water Well', 'Water Tank'],
  },
  {
    "Title": "2.5 Storey : House For Sale In Sitapaila, Kathmandu",
@@ -12437,7 +12437,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "2200 Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -12457,7 +12457,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -12477,7 +12477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank', 'Electricity Backup', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Royal Durbar Style Classical Bungalow At Golfutar, Budhanilkantha : House For Sale In Golfutar, Kathmandu",
@@ -12497,7 +12497,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Electricity Backup', 'Water Supply', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Electricity Backup', 'Water Supply', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "14 Anna 5 Bhk Bungalow For Sale Mandikatar Height Near Hams Hospital : House For Sale In Mandikatar, Kathmandu",
@@ -12517,7 +12517,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Attractive 11 Anna House For Sale At Dhumbarahi, Inside Ring Road. : House For Sale In Dhumbarahi, Kathmandu",
@@ -12537,7 +12537,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Water Tank', 'Water Well', 'Solar Water', 'Electricity Backup', 'Water Supply', 'Internet']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Water Tank', 'Water Well', 'Solar Water', 'Electricity Backup', 'Water Supply', 'Internet'],
  },
  {
    "Title": "House For Sale In Basundhara, Kathmandu",
@@ -12557,7 +12557,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Electricity Backup', 'Water Supply', 'Internet']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Electricity Backup', 'Water Supply', 'Internet'],
  },
  {
    "Title": "5 Anna Fully Furnished Bungalow For Sale At Hattigauda, Very Near Highway. : House For Sale In Hattigauda, Kathmandu",
@@ -12577,7 +12577,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Internet', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Internet', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup'],
  },
  {
    "Title": "8, 9 And 10 Anna Plot Of Land For Sale At Budhanilkantha Inside Siddhartha Colony. : Land For Sale In Budhanilkantha, Kathmandu",
@@ -12597,7 +12597,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "16 Anna Land For Sale At Baluwatar Near Alice Restaurant. : Land For Sale In Baluwatar, Kathmandu",
@@ -12617,7 +12617,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "3.1 Anna Brand New House For Sale At Greenland Tokha Near Grande : House For Sale In Tokha, Kathmandu",
@@ -12637,7 +12637,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Washing Machine', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Garage', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Washing Machine', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "2 Modern Bungalows For Sale At Greenland. : House For Sale In Tokha, Kathmandu",
@@ -12657,7 +12657,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "East Facing 6 Anna Land At Rudreshwor, Budhanilkantha, (Road - 20 Ft.) : Land For Sale In Budhanilkantha, Kathmandu",
@@ -12677,7 +12677,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Brand New House For Sale At Bhangal, Budhanilkantha In 20 Feet Road. : House For Sale In Budhanilkantha, Kathmandu",
@@ -12697,7 +12697,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "4.75 Brand New Attractive House For Sale At Basundhara : House For Sale In Basundhara, Kathmandu",
@@ -12717,7 +12717,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "CLassical Durbar Style 1 Ropani Bungalow For Sale At Chapali : House For Sale In Chapali, Kathmandu",
@@ -12737,7 +12737,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Gym', 'Washing Machine', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Cafeteria', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Gym', 'Washing Machine', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Cafeteria', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "5 Anna New House For Sale At Bishalnagar, (1 Floor Underground) : House For Sale In Hadigaun, Kathmandu",
@@ -12757,7 +12757,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'Deck', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Parking', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'Deck', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Parking', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "5.5 Anna New Family Bungalow For Sale At Hattigauda : House For Sale In Hattigauda, Kathmandu",
@@ -12777,7 +12777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "5 BHK Attractive Semi Bungalow For Sale At Baniyatar, Tokha : House For Sale In Tokha, Kathmandu",
@@ -12797,7 +12797,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet'],
  },
  {
    "Title": "8.2 Anna Full Furnished Bungalow For Sale At Pasikot, Budhanilkantha : House For Sale In Pasikot, Kathmandu",
@@ -12817,7 +12817,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Classical 17.3 Anna Bungalow For Sale At Sukedhara Chowk Inside Colony : House For Sale In Sukedhara, Kathmandu",
@@ -12837,7 +12837,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "4.5 Anna Attractive Brand New House For Sale At Jyotinagar, Baluwakhani : House For Sale In Kapan, Kathmandu",
@@ -12857,7 +12857,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Deck', 'Fencing', 'Modular Kitchen', 'Drainage', 'Wifi', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank', 'Electricity Backup', 'Internet']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Deck', 'Fencing', 'Modular Kitchen', 'Drainage', 'Wifi', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank', 'Electricity Backup', 'Internet'],
  },
  {
    "Title": "7 Anna 4 BHK Bungalow For Sale In Siddhartha Colony, Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -12877,7 +12877,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Magnificent 21 Anna Bungalow For Sale Pasikot, 800 Meters From Main Highway : House For Sale In Pasikot, Kathmandu",
@@ -12897,7 +12897,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "5 BHK Beautiful Bungalow For Sale At Dhapasi Height : House For Sale In Dhapasi, Kathmandu",
@@ -12917,7 +12917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2500 Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Microwave', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Microwave', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "12 Anna 6 BHK Fully Furnished Bungalow On Sale At Chapali : House For Sale In Chapali, Kathmandu",
@@ -12937,7 +12937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "52 Anna 5 BHK Bungalow For Sale/Rent At Dhumbarahi, Only 150 Meters From Ring Road. : House For Sale In Dhumbarahi, Kathmandu",
@@ -12957,7 +12957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Cafeteria', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Gym', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Cafeteria', 'CCTV', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Magnificent 4 BHK 9 Anna Bungalow For Sale At Hepali Height, Golfutar. : House For Sale In Golfutar, Kathmandu",
@@ -12977,7 +12977,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "9 Anna Beautiful House For Sale At Maharajgunj In Above 20 Feet Road. : House For Sale In Maharajgunj, Kathmandu",
@@ -12997,7 +12997,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "8 Anna Bungalow For Sale At Maharajgunj Just Behind Australian Embassy : House For Sale In Maharajgunj, Kathmandu",
@@ -13017,7 +13017,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Brand New House For Sale At Samakhusi, Only 150 Meters From Ring Road. : House For Sale In Samakhusi, Kathmandu",
@@ -13037,7 +13037,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Washing Machine', 'TV Cable', 'Wifi', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Washing Machine', 'TV Cable', 'Wifi', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "6 Anna 5 Bhk House For Sale At Budhanilkantha, 100 Mtrs From Main Road : House For Sale In Budhanilkantha, Kathmandu",
@@ -13057,7 +13057,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Cafeteria', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Microwave', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Cafeteria', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "4 Anna Brand New House For Sale At Kapan Height : House For Sale In Kapan, Kathmandu",
@@ -13077,7 +13077,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Marvelous 9 Anna Bungalow For Sale At Golfutar, Hepali Height. : House For Sale In Golfutar, Kathmandu",
@@ -13097,7 +13097,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Kapan Height Small Home : House For Sale In Kapan, Kathmandu",
@@ -13117,7 +13117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Parking', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Parking',, 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Beautiful : House For Rent In Bishal Nagar, Kathmandu",
@@ -13137,7 +13137,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "7000 Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Kapan Height Home : House For Sale In Kapan, Kathmandu",
@@ -13157,7 +13157,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Parking', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Parking',, 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Swayambhu Thulobharyang Home : House For Sale In Swayambhu, Kathmandu",
@@ -13177,7 +13177,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Garden', 'Water Supply', 'Drainage', 'Store Room', 'Parking']"
+   "Amenities": ['Garage', 'Garden', 'Water Supply', 'Drainage', 'Store Room', 'Parking'],
  },
  {
    "Title": "Sitapaila Thapachwok Land On Sale : Land For Sale In Sitapaila, Kathmandu",
@@ -13197,7 +13197,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Bungalow On Rent At Mandikatar, Dhumbharai : House For Rent In Mandikatar, Kathmandu",
@@ -13217,7 +13217,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "6 Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Garden', 'Balcony', 'Store Room']"
+   "Amenities": ['Garage', 'Garden', 'Balcony', 'Store Room'],
  },
  {
    "Title": "Hattigauda New Bungalow : House For Sale In Hattigauda, Kathmandu",
@@ -13237,7 +13237,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Modular Kitchen', 'Water Supply', 'Solar Water', 'Drainage', 'Water Well', 'Water Tank', 'Parking', 'Internet']"
+   "Amenities": ['Modular Kitchen', 'Water Supply', 'Solar Water', 'Drainage', 'Water Well', 'Water Tank', 'Parking', 'Internet'],
  },
  {
    "Title": "Basundhara Bungalow : House For Sale In Basundhara, Kathmandu",
@@ -13257,7 +13257,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Water Supply', 'Drainage', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Water Supply', 'Drainage', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "3 BHK - Fully Furnished : Apartment For Sale In Balkumari, Lalitpur",
@@ -13277,7 +13277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "1259 Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "['Lawn', 'Balcony', 'Garden', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'CCTV', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground', 'Lift', 'Maintenance', 'Parking', 'Security Staff', 'Store Room', 'Jacuzzi']"
+   "Amenities": ['Lawn', 'Balcony', 'Garden', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'CCTV', 'Cafeteria', 'Electricity Backup', 'Intercom', 'Internet', 'Kids Playground', 'Lift', 'Maintenance', 'Parking', 'Security Staff', 'Store Room', 'Jacuzzi'],
  },
  {
    "Title": "Mandikatar Height New Home : House For Sale In Mandikatar, Kathmandu",
@@ -13297,7 +13297,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Water Supply', 'Drainage', 'Solar Water']"
+   "Amenities": ['Water Supply', 'Drainage', 'Solar Water'],
  },
  {
    "Title": "Pasikot Home : House For Sale In Budhanilkantha, Kathmandu",
@@ -13317,7 +13317,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garden', 'Water Supply', 'Solar Water', 'Drainage', 'Parking']"
+   "Amenities": ['Garden', 'Water Supply', 'Solar Water', 'Drainage', 'Parking'],
  },
  {
    "Title": "26 Per Anna- Grande Hospital Near : Land For Sale In Tokha, Kathmandu",
@@ -13337,7 +13337,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "4 Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Budhanilkantha 6 Ana Bungalow : House For Sale In Budhanilkantha, Kathmandu",
@@ -13357,7 +13357,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garden', 'Water Supply', 'Water Tank', 'Solar Water', 'Drainage']"
+   "Amenities": ['Garden', 'Water Supply', 'Water Tank', 'Solar Water', 'Drainage'],
  },
  {
    "Title": "Hepali Bungalow For Sale : House For Sale In Golfutar, Kathmandu",
@@ -13377,7 +13377,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Air Condition', 'Garden', 'Frontyard', 'Parking', 'Store Room', 'Water Supply', 'Solar Water', 'Drainage']"
+   "Amenities": ['Garage', 'Balcony', 'Air Condition', 'Garden', 'Frontyard', 'Parking', 'Store Room', 'Water Supply', 'Solar Water', 'Drainage'],
  },
  {
    "Title": "3.5 Talle| Semi-Commercial House : House For Sale In Tarkeshwor, Kathmandu",
@@ -13397,7 +13397,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "4 Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Parking', 'Water Well', 'Water Tank', 'Water Supply', 'Drainage']"
+   "Amenities": ['Parking',, 'Water Well', 'Water Tank', 'Water Supply', 'Drainage'],
  },
  {
    "Title": "Land For Sale In Prime Location Bhadrakali, Budhanikantha ~ 28 Aana : Land For Sale In Budhanilkantha, Kathmandu",
@@ -13417,7 +13417,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -13437,7 +13437,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "1400 Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Full- Furnished : House For Sale In Imadol, Lalitpur",
@@ -13457,7 +13457,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "1900 Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Samakhusi Homes : House For Sale In Samakhusi, Kathmandu",
@@ -13477,7 +13477,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Water Supply', 'Drainage']"
+   "Amenities": ['Garage', 'Water Supply', 'Drainage'],
  },
  {
    "Title": "New : House For Sale In Imadol, Lalitpur",
@@ -13497,7 +13497,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2000 Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Hattigauda Semibungalow New Home : House For Sale In Hattigauda, Kathmandu",
@@ -13517,7 +13517,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Modular Kitchen', 'Water Supply', 'Drainage']"
+   "Amenities": ['Garage', 'Modular Kitchen', 'Water Supply', 'Drainage'],
  },
  {
    "Title": "Bhangal Brand New Home : House For Sale In Bhangal, Kathmandu",
@@ -13537,7 +13537,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Parking', 'Drainage', 'Water Tank', 'Water Supply']"
+   "Amenities": ['Garage', 'Parking', 'Drainage', 'Water Tank', 'Water Supply'],
  },
  {
    "Title": "Greenland Brand New Bungalow : House For Sale In Grande Villa, Kathmandu",
@@ -13557,7 +13557,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Frontyard', 'Modular Kitchen', 'Drainage', 'Solar Water', 'Water Supply', 'Water Tank', 'Store Room', 'Parking']"
+   "Amenities": ['Balcony', 'Frontyard', 'Modular Kitchen', 'Drainage', 'Solar Water', 'Water Supply', 'Water Tank', 'Store Room', 'Parking'],
  },
  {
    "Title": "Brand New Bungalow , Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -13577,7 +13577,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Garage', 'Water Supply', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Parking']"
+   "Amenities": ['Balcony', 'Garage', 'Water Supply', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Parking'],
  },
  {
    "Title": "Tokha Greenland New Home : House For Sale In Tokha, Kathmandu",
@@ -13597,7 +13597,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Garage', 'Parking']"
+   "Amenities": ['Balcony', 'Garage', 'Parking'],
  },
  {
    "Title": "Greenland New Home For Sale : House For Sale In Grande Villa, Kathmandu",
@@ -13617,7 +13617,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Garage', 'Drainage', 'Water Supply']"
+   "Amenities": ['Balcony', 'Garage', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Maharajganj Bungalow For Sale : House For Sale In Maharajgunj, Kathmandu",
@@ -13637,7 +13637,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Air Condition', 'Balcony', 'Drainage', 'Washing Machine', 'Store Room', 'Parking']"
+   "Amenities": ['Garage', 'Air Condition', 'Balcony', 'Drainage', 'Washing Machine', 'Store Room', 'Parking'],
  },
  {
    "Title": "Mahanrajganj Bungalow For Sale : House For Sale In Maharajgunj, Kathmandu",
@@ -13657,7 +13657,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Air Condition', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Microwave', 'Water Supply', 'Solar Water', 'Drainage', 'Water Tank', 'Store Room', 'Parking', 'Security Staff']"
+   "Amenities": ['Garage', 'Air Condition', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Microwave', 'Water Supply', 'Solar Water', 'Drainage', 'Water Tank', 'Store Room', 'Parking', 'Security Staff'],
  },
  {
    "Title": "Hattigauda Land : Land For Sale In Hattigauda, Kathmandu",
@@ -13677,7 +13677,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "11 Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Beautiful 6 Ana At Budhanilkantha : Land For Sale In Budhanilkantha, Kathmandu",
@@ -13697,7 +13697,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "6 Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Samakhusi New Home : House For Sale In Samakhusi, Kathmandu",
@@ -13717,7 +13717,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Garage', 'Balcony']"
+   "Amenities": ['Garage', 'Balcony'],
  },
  {
    "Title": "Bansbari Bungalow For Rent : House For Rent In Golfutar, Kathmandu",
@@ -13737,7 +13737,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Air Condition', 'Lawn', 'Balcony', 'Garden', 'Garage', 'Frontyard', 'Modular Kitchen', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water', 'Kids Playground', 'Security Staff', 'Store Room', 'Parking']"
+   "Amenities": ['Air Condition', 'Lawn', 'Balcony', 'Garden', 'Garage', 'Frontyard', 'Modular Kitchen', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water', 'Kids Playground', 'Security Staff', 'Store Room', 'Parking'],
  },
  {
    "Title": "Hattigauda 8 Ana Land : Land For Sale In Budhanilkantha, Kathmandu",
@@ -13757,7 +13757,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Samakhusi Flat Home : House For Sale In Samakhusi, Kathmandu",
@@ -13777,7 +13777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'Store Room', 'Drainage', 'Garage']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'Store Room', 'Drainage', 'Garage'],
  },
  {
    "Title": "Neo-Classical : House For Sale In Imadol, Lalitpur",
@@ -13797,7 +13797,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2200 Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Modern House : House For Sale In Imadol, Lalitpur",
@@ -13817,7 +13817,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2000. Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "New : House For Sale In Lubhu, Lalitpur",
@@ -13837,7 +13837,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "['Drainage', 'Water Well', 'Electricity Backup', 'Parking']"
+   "Amenities": ['Drainage', 'Water Well', 'Electricity Backup', 'Parking'],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -13857,7 +13857,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "1700 Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Durbarmarg Office On Sale : Office Space For Sale In Durbar Marg, Kathmandu",
@@ -13877,7 +13877,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "500 Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "['Air Condition', 'Balcony', 'Lawn', 'Wifi', 'Water Supply', 'CCTV', 'Internet', 'Security Staff', 'Cafeteria', 'Drainage']"
+   "Amenities": ['Air Condition', 'Balcony', 'Lawn', 'Wifi', 'Water Supply', 'CCTV', 'Internet', 'Security Staff', 'Cafeteria', 'Drainage'],
  },
  {
    "Title": "Land On Sell For VIP Resident : Land For Sale In Mhepi, Kathmandu",
@@ -13897,7 +13897,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "12 Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -13917,7 +13917,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "1700 Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking'],
  },
  {
    "Title": "2 Storey : House For Sale In Dhading, Dhading",
@@ -13937,7 +13937,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Commercial House : House For Sale In Manamaiju, Kathmandu",
@@ -13957,7 +13957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent : Flat For Rent In Budhanilkantha, Kathmandu",
@@ -13977,7 +13977,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Balcony']"
+   "Amenities": ['Balcony'],
  },
  {
    "Title": "2.5 Storey : House For Sale In Naikap, Kathmandu",
@@ -13997,7 +13997,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "185 Sq. Meter",
    "Posted": "4 months ago",
-   "Amenities": "['Drainage', 'Water Well', 'Parking']"
+   "Amenities": ['Drainage', 'Water Well', 'Parking'],
  },
  {
    "Title": "Imadol Ko Ghar Bikrima : House For Sale In Imadol, Lalitpur",
@@ -14017,7 +14017,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "4 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land Is Very Suitable For Residental Purpose : Land For Sale In Swayambhu, Kathmandu",
@@ -14037,7 +14037,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Parking']"
+   "Amenities": ['Parking',],
  },
  {
    "Title": "Commercial House For Sale At Putalisadak : House For Sale In Putalisadak, Kathmandu",
@@ -14057,7 +14057,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-3-2-1 Aana",
    "Posted": "4 months ago",
-   "Amenities": "['Drainage', 'Water Supply']"
+   "Amenities": ['Drainage', 'Water Supply'],
  },
  {
    "Title": "Best For Warehouse : Land For Sale In Kalanki, Kathmandu",
@@ -14077,7 +14077,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "1-0-0-0 Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Lubhu, Lalitpur",
@@ -14097,7 +14097,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "2.5 Storey : House For Sale In Narephate, Kathmandu",
@@ -14117,7 +14117,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['TV Cable', 'Drainage', 'Water Supply', 'Water Well', 'Internet', 'Parking']"
+   "Amenities": ['TV Cable', 'Drainage', 'Water Supply', 'Water Well', 'Internet', 'Parking'],
  },
  {
    "Title": "Land On Sale Near Baba Chowk Mulpani : Land For Sale In Mulpani, Kathmandu",
@@ -14137,7 +14137,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "इमाडोल ओचुमा  Semi Commercial जग्गा बिक्रमा : Land For Sale In Imadol, Lalitpur",
@@ -14157,7 +14157,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale : House For Sale In Nagarjun, Kathmandu",
@@ -14177,7 +14177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3.1 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Backyard', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Electricity Backup', 'Internet', 'Parking', 'Security Staff', 'Store Room']"
+   "Amenities": ['Backyard', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Electricity Backup', 'Internet', 'Parking', 'Security Staff', 'Store Room'],
  },
  {
    "Title": "Commercial : House For Rent In Newroad, Kathmandu",
@@ -14197,7 +14197,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "5500 Sq. Feet",
    "Posted": "5 months ago",
-   "Amenities": "['Drainage', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Maintenance', 'Parking']"
+   "Amenities": ['Drainage', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Maintenance', 'Parking'],
  },
  {
    "Title": "Imadol Buddha Party Palace Najik Ko Ghar Bikrima : House For Sale In Imadol, Lalitpur",
@@ -14217,7 +14217,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale : House For Sale In Pepsicola, Kathmandu",
@@ -14237,7 +14237,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Balcony', 'Backyard', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Water Tank', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Backyard', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Water Tank', 'Parking', 'Store Room'],
  },
  {
    "Title": "Near Grandy : House For Sale In Tokha, Kathmandu",
@@ -14257,7 +14257,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3-4 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Parking', 'Water Tank', 'Drainage']"
+   "Amenities": ['Parking',, 'Water Tank', 'Drainage'],
  },
  {
    "Title": "Total 11 Room : House For Sale In Basundhara, Kathmandu",
@@ -14277,7 +14277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "4-5 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Parking', 'Drainage', 'Water Tank']"
+   "Amenities": ['Parking',, 'Drainage', 'Water Tank'],
  },
  {
    "Title": "House On Sale : House For Sale In Tokha, Kathmandu",
@@ -14297,7 +14297,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "2.5 Storey : House For Sale In Imadol, Lalitpur",
@@ -14317,7 +14317,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Drainage', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Parking']"
+   "Amenities": ['Drainage', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Parking'],
  },
  {
    "Title": "Shop Sale At Masbar In Pokhara : Business For Sale In Dam Side, Pokhara",
@@ -14337,7 +14337,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "2 Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Imadol, Lalitpur",
@@ -14357,7 +14357,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Drainage', 'Water Well']"
+   "Amenities": ['Drainage', 'Water Well'],
  },
  {
    "Title": "Newly Built : House For Sale In Imadol, Lalitpur",
@@ -14377,7 +14377,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "95 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Electricity Backup', 'Internet', 'Parking']"
+   "Amenities": ['Electricity Backup', 'Internet', 'Parking'],
  },
  {
    "Title": "Land For Sale In Imadol, Lalitpur",
@@ -14397,7 +14397,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Water Well']"
+   "Amenities": ['Water Well'],
  },
  {
    "Title": "Naya Ghar : House For Sale In Tokha, Kathmandu",
@@ -14417,7 +14417,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "3 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Balcony', 'Water Tank', 'Water Supply', 'Drainage']"
+   "Amenities": ['Balcony', 'Water Tank', 'Water Supply', 'Drainage'],
  },
  {
    "Title": "12 Th Floor B 1 Block : Apartment For Rent In Sanepa, Lalitpur",
@@ -14437,7 +14437,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1800 Sq. Feet",
    "Posted": "5 months ago",
-   "Amenities": "['Water Supply', 'Garden', 'Maintenance', 'Balcony', 'Wifi', 'Electricity Backup', 'Air Condition', 'Gym', 'Lift', 'Parking', 'Garage', 'TV Cable', 'Microwave', 'Intercom', 'Washing Machine', 'Kids Playground', 'Swimming Pool', 'Drainage', 'Internet', 'Security Staff', 'Modular Kitchen']"
+   "Amenities": ['Water Supply', 'Garden', 'Maintenance', 'Balcony', 'Wifi', 'Electricity Backup', 'Air Condition', 'Gym', 'Lift', 'Parking', 'Garage', 'TV Cable', 'Microwave', 'Intercom', 'Washing Machine', 'Kids Playground', 'Swimming Pool', 'Drainage', 'Internet', 'Security Staff', 'Modular Kitchen'],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -14457,7 +14457,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['TV Cable', 'Drainage', 'Water Well', 'Parking']"
+   "Amenities": ['TV Cable', 'Drainage', 'Water Well', 'Parking'],
  },
  {
    "Title": "Office Sapce @ Imadol : Office Space For Rent In Imadol, Lalitpur",
@@ -14477,7 +14477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1530 Sq. Feet",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "1 Floor House On Sale In Sychataar Kalanki : House For Sale In Tarakeshwar, Kathmandu",
@@ -14497,7 +14497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['TV Cable', 'Solar Water', 'Water Tank', 'Water Well', 'Washing Machine']"
+   "Amenities": ['TV Cable', 'Solar Water', 'Water Tank', 'Water Well', 'Washing Machine'],
  },
  {
    "Title": "It'S For Sat : Land For Sale In Bharatpur, Chitwan",
@@ -14517,7 +14517,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "5 Ana Land On Sale In Panga Kritipur Near Fast Track Bus Park : Land For Sale In Machhegaun, Kirtipur",
@@ -14537,7 +14537,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Imadol Ko Ghar Bikrima : House For Sale In Imadol, Lalitpur",
@@ -14557,7 +14557,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Backyard', 'Balcony']"
+   "Amenities": ['Garage', 'Backyard', 'Balcony'],
  },
  {
    "Title": "Baniyatar Tokha Home : House For Sale In Baniyatar, Kathmandu",
@@ -14577,7 +14577,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Water Tank', 'Garage']"
+   "Amenities": ['Water Tank', 'Garage'],
  },
  {
    "Title": "Most Premium Bungalow At Mandikatar : House For Sale In Mandikatar, Kathmandu",
@@ -14597,7 +14597,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Fencing', 'Deck', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Kids Playground', 'Maintenance', 'Parking', 'Security Staff', 'Store Room']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Fencing', 'Deck', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Kids Playground', 'Maintenance', 'Parking', 'Security Staff', 'Store Room'],
  },
  {
    "Title": "Hattigauda 8.5 Ana Bungalow : House For Sale In Hattigauda, Kathmandu",
@@ -14617,7 +14617,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Modular Kitchen', 'Solar Water', 'Water Tank', 'Store Room', 'Parking']"
+   "Amenities": ['Garage', 'Balcony', 'Modular Kitchen', 'Solar Water', 'Water Tank', 'Store Room', 'Parking'],
  },
  {
    "Title": "Especial Chok Family Bungalow : House For Sale In Golfutar, Kathmandu",
@@ -14637,7 +14637,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Garden', 'Balcony', 'Drainage', 'Water Tank', 'Solar Water', 'Water Supply', 'Store Room', 'Parking']"
+   "Amenities": ['Garage', 'Garden', 'Balcony', 'Drainage', 'Water Tank', 'Solar Water', 'Water Supply', 'Store Room', 'Parking'],
  },
  {
    "Title": "Hattigauda Bungalow : House For Sale In Hattigauda, Kathmandu",
@@ -14657,7 +14657,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Parking', 'Store Room'],
  },
  {
    "Title": "House And Land Sell At Lainchaur : House For Sale In Lainchaur, Kathmandu",
@@ -14677,7 +14677,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Damak, Jhapa",
@@ -14697,7 +14697,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Kattha",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Thulo Bharyang, Kathmandu",
@@ -14717,7 +14717,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "2.75 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Water Supply', 'Solar Water', 'Water Well', 'Wifi', 'Water Tank', 'TV Cable']"
+   "Amenities": ['Water Supply', 'Solar Water', 'Water Well', 'Wifi', 'Water Tank', 'TV Cable'],
  },
  {
    "Title": "House : House For Sale In Balkot, Bhaktapur",
@@ -14737,7 +14737,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Water Supply', 'Wifi', 'Balcony', 'Store Room']"
+   "Amenities": ['Water Supply', 'Wifi', 'Balcony', 'Store Room'],
  },
  {
    "Title": "Gorgeous Bungalow For Family : House For Sale In Budhanilkantha, Kathmandu",
@@ -14757,7 +14757,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "2700 Sq. Feet",
    "Posted": "5 months ago",
-   "Amenities": "['Balcony', 'Frontyard', 'Water Supply', 'Drainage', 'Solar Water']"
+   "Amenities": ['Balcony', 'Frontyard', 'Water Supply', 'Drainage', 'Solar Water'],
  },
  {
    "Title": "Newly Built House On Sale : House For Sale In Ason, Kathmandu",
@@ -14777,7 +14777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-0-2 Paisa",
    "Posted": "5 months ago",
-   "Amenities": "['TV Cable', 'Drainage', 'Water Supply', 'Water Well', 'Water Tank']"
+   "Amenities": ['TV Cable', 'Drainage', 'Water Supply', 'Water Well', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Thaiba, ( Comfort Housing,) : House For Sale In Thaiba, Lalitpur",
@@ -14797,7 +14797,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Balcony', 'Garden', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'CCTV', 'Electricity Backup', 'Internet', 'Kids Playground', 'Maintenance', 'Parking', 'Security Staff', 'Jacuzzi']"
+   "Amenities": ['Balcony', 'Garden', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'CCTV', 'Electricity Backup', 'Internet', 'Kids Playground', 'Maintenance', 'Parking', 'Security Staff', 'Jacuzzi'],
  },
  {
    "Title": "House : House For Sale In Imadol, Lalitpur",
@@ -14817,7 +14817,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Balcony', 'Garden', 'Garage', 'Parking', 'Drainage', 'Water Tank', 'Store Room', 'Modular Kitchen']"
+   "Amenities": ['Balcony', 'Garden', 'Garage', 'Parking', 'Drainage', 'Water Tank', 'Store Room', 'Modular Kitchen'],
  },
  {
    "Title": "House For Sale In Harisiddhi, Lalitpur",
@@ -14837,7 +14837,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "4800 Sq. Feet",
    "Posted": "5 months ago",
-   "Amenities": "['Garden', 'TV Cable', 'Wifi', 'Drainage', 'Solar Water', 'Water Well', 'Parking', 'Store Room']"
+   "Amenities": ['Garden', 'TV Cable', 'Wifi', 'Drainage', 'Solar Water', 'Water Well', 'Parking', 'Store Room'],
  },
  {
    "Title": "Total 10 Room : House For Sale In Manamaiju, Kathmandu",
@@ -14857,7 +14857,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Drainage', 'Water Supply', 'Parking']"
+   "Amenities": ['Drainage', 'Water Supply', 'Parking'],
  },
  {
    "Title": "G.M. Complex : Office Space For Rent In Lagankhel, Lalitpur",
@@ -14877,7 +14877,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "3000 Sq. Feet",
    "Posted": "5 months ago",
-   "Amenities": "['Balcony', 'Drainage', 'Water Supply', 'Microwave', 'Air Condition', 'Frontyard']"
+   "Amenities": ['Balcony', 'Drainage', 'Water Supply', 'Microwave', 'Air Condition', 'Frontyard'],
  },
  {
    "Title": "Brand New : House For Sale In Gongabu, Kathmandu",
@@ -14897,7 +14897,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Water Well', 'Electricity Backup', 'Parking']"
+   "Amenities": ['Water Well', 'Electricity Backup', 'Parking'],
  },
  {
    "Title": "South Faced 5.5 Anna Land On Sale In Koteshwor : Land For Sale In Koteshwor, Kathmandu",
@@ -14917,7 +14917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Guleriya, Bardiya",
@@ -14937,7 +14937,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Kattha",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Plotted Land For Sale At Prime Location In Kantipur Colony, Nakhipot : Land For Sale In Nakhipot, Lalitpur",
@@ -14957,7 +14957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Surya Danda Home : House For Sale In Dhapasi, Kathmandu",
@@ -14977,7 +14977,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "Land For Sale : Land For Sale In Lele, Lalitpur",
@@ -14997,7 +14997,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "27 Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Gorgeous Bungalow : House For Sale In Chapali, Kathmandu",
@@ -15017,7 +15017,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Air Condition', 'Lawn', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Store Room', 'Parking']"
+   "Amenities": ['Garage', 'Air Condition', 'Lawn', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Store Room', 'Parking'],
  },
  {
    "Title": "Sundarbasti Beautiful Home : House For Sale In Bhangal, Kathmandu",
@@ -15037,7 +15037,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Drainage', 'Solar Water']"
+   "Amenities": ['Garage', 'Drainage', 'Solar Water'],
  },
  {
    "Title": "Small Family Home Bhngal Mandikatar : House For Sale In Mandikatar, Kathmandu",
@@ -15057,7 +15057,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "Bungalow For Sale : House For Sale In Pasikot, Kathmandu",
@@ -15077,7 +15077,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Air Condition', 'Lawn', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Water Supply', 'Solar Water', 'Drainage', 'Water Well', 'Water Tank', 'Parking', 'Store Room']"
+   "Amenities": ['Air Condition', 'Lawn', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Water Supply', 'Solar Water', 'Drainage', 'Water Well', 'Water Tank', 'Parking', 'Store Room'],
  },
  {
    "Title": "Sundarbasti Bhangal Small Home : House For Sale In Bhangal, Kathmandu",
@@ -15097,7 +15097,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Balcony']"
+   "Amenities": ['Garage', 'Balcony'],
  },
  {
    "Title": "Dhapasi Big Bungalow : House For Sale In Dhapasi, Kathmandu",
@@ -15117,7 +15117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Baluwatar Family Bungalow : House For Sale In Baluwatar, Kathmandu",
@@ -15137,7 +15137,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Parking', 'Water Supply', 'Solar Water', 'Water Tank', 'Modular Kitchen', 'Garden', 'Balcony', 'Air Condition']"
+   "Amenities": ['Garage', 'Parking', 'Water Supply', 'Solar Water', 'Water Tank', 'Modular Kitchen', 'Garden', 'Balcony', 'Air Condition'],
  },
  {
    "Title": "5 Bhk Bungalow Budhanilkantha Chapali : House For Sale In Budhanilkantha, Kathmandu",
@@ -15157,7 +15157,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Lawn', 'Balcony', 'Frontyard', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Garage', 'Lawn', 'Balcony', 'Frontyard', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Dhapasi Sweet Bungalow : House For Sale In Dhapasi, Kathmandu",
@@ -15177,7 +15177,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Air Condition', 'Lawn', 'Balcony', 'Backyard', 'Frontyard', 'Fencing', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Wifi', 'Solar Water', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room', 'Security Staff']"
+   "Amenities": ['Garage', 'Air Condition', 'Lawn', 'Balcony', 'Backyard', 'Frontyard', 'Fencing', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Wifi', 'Solar Water', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room', 'Security Staff'],
  },
  {
    "Title": "Family Home Ekatabasti : House For Sale In Ekatabasti, Kathmandu",
@@ -15197,7 +15197,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Balcony', 'Garage', 'TV Cable', 'Solar Water', 'Drainage', 'Water Supply', 'Water Well', 'Internet']"
+   "Amenities": ['Balcony', 'Garage', 'TV Cable', 'Solar Water', 'Drainage', 'Water Supply', 'Water Well', 'Internet'],
  },
  {
    "Title": "Jyotinagar Family Home : House For Sale In Ekatabasti, Kathmandu",
@@ -15217,7 +15217,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Water Well', 'Internet', 'Store Room', 'Water Tank', 'Solar Water', 'Drainage', 'Wifi', 'Water Supply', 'TV Cable']"
+   "Amenities": ['Garage', 'Water Well', 'Internet', 'Store Room', 'Water Tank', 'Solar Water', 'Drainage', 'Wifi', 'Water Supply', 'TV Cable'],
  },
  {
    "Title": "Dhapasi Bungalow : House For Sale In Dhapasi, Kathmandu",
@@ -15237,7 +15237,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Air Condition', 'Balcony', 'TV Cable', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Water Tank', 'Parking']"
+   "Amenities": ['Garage', 'Air Condition', 'Balcony', 'TV Cable', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Water Tank', 'Parking'],
  },
  {
    "Title": "New Modern : House For Sale In Hattiban, Lalitpur",
@@ -15257,7 +15257,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "1138 Sq. Feet",
    "Posted": "5 months ago",
-   "Amenities": "['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Electricity Backup', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Land For Sale In Swayambhu, Kathmandu",
@@ -15277,7 +15277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Gurujudhara, Kathmandu",
@@ -15297,7 +15297,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "N/A Sq. Feet",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale At Civil Homes : House For Sale In Balkhu, Kathmandu",
@@ -15317,7 +15317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "4 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'Water Tank', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'Water Tank', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Sanobharyang Family Home : House For Sale In Swayambhu, Kathmandu",
@@ -15337,7 +15337,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Water Supply', 'Drainage']"
+   "Amenities": ['Garage', 'Water Supply', 'Drainage'],
  },
  {
    "Title": "House For Sale : House For Sale In Kageshwari-Manohara, Kathmandu",
@@ -15357,7 +15357,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "4 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Wifi', 'Water Tank', 'Water Supply', 'Balcony', 'Water Well', 'TV Cable']"
+   "Amenities": ['Wifi', 'Water Tank', 'Water Supply', 'Balcony', 'Water Well', 'TV Cable'],
  },
  {
    "Title": "Bungalow With Limitless View : House For Sale In Dhapasi, Kathmandu",
@@ -15377,7 +15377,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Air Condition', 'Backyard', 'Balcony', 'Frontyard', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Wifi', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank', 'CCTV', 'Internet', 'Parking', 'Security Staff', 'Maintenance']"
+   "Amenities": ['Garage', 'Air Condition', 'Backyard', 'Balcony', 'Frontyard', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Wifi', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank', 'CCTV', 'Internet', 'Parking', 'Security Staff', 'Maintenance'],
  },
  {
    "Title": "Luxury Bungalow At Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -15397,7 +15397,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Gym', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Gym', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water'],
  },
  {
    "Title": "Siddarthcolony 7 Ana Home : House For Sale In Budhanilkantha, Kathmandu",
@@ -15417,7 +15417,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garden', 'Drainage', 'Water Supply', 'Solar Water', 'TV Cable']"
+   "Amenities": ['Garden', 'Drainage', 'Water Supply', 'Solar Water', 'TV Cable'],
  },
  {
    "Title": "Italitar 4.5 Ana Land : Land For Sale In Hattigauda, Kathmandu",
@@ -15437,7 +15437,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Bhadrabas Plotting Lands : Land For Sale In Thali, Kathmandu",
@@ -15457,7 +15457,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Highway Touched Land : Land For Sale In Nagdhunga, Kathmandu",
@@ -15477,7 +15477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Newly Built House For Sale At Guheshwori : House For Sale In Guheshwori, Kathmandu",
@@ -15497,7 +15497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Balcony', 'Garden', 'Drainage', 'Water Supply', 'Water Well', 'Electricity Backup', 'Parking']"
+   "Amenities": ['Balcony', 'Garden', 'Drainage', 'Water Supply', 'Water Well', 'Electricity Backup', 'Parking'],
  },
  {
    "Title": "Colony House For Rent : House For Rent In Godawari, Lalitpur",
@@ -15517,7 +15517,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "5 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Lawn', 'Backyard', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Electricity Backup', 'Water Tank', 'Water Supply']"
+   "Amenities": ['Lawn', 'Backyard', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Electricity Backup', 'Water Tank', 'Water Supply'],
  },
  {
    "Title": "Brand New Bungalow. : House For Sale In Sanobharyang, Kathmandu",
@@ -15537,7 +15537,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Well', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Well', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "3 Individual Apartment With A Penthouse In A Private Building : House For Rent In Thamel, Kathmandu",
@@ -15557,7 +15557,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "5 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Lawn', 'Air Condition', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Water Well', 'Water Tank', 'Electricity Backup', 'Internet', 'Parking', 'Security Staff', 'Store Room']"
+   "Amenities": ['Lawn', 'Air Condition', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Water Well', 'Water Tank', 'Electricity Backup', 'Internet', 'Parking', 'Security Staff', 'Store Room'],
  },
  {
    "Title": "Road Ko Najik : House For Sale In Imadol, Lalitpur",
@@ -15577,7 +15577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3-4 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Parking', 'Water Tank', 'Drainage']"
+   "Amenities": ['Parking',, 'Water Tank', 'Drainage'],
  },
  {
    "Title": "2BHK PRIVATE APARTMENT : Apartment For Rent In Paknajol, Kathmandu",
@@ -15597,7 +15597,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "5 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Lawn', 'Air Condition', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Well', 'Water Tank', 'Electricity Backup', 'Internet', 'Security Staff', 'Parking']"
+   "Amenities": ['Lawn', 'Air Condition', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Well', 'Water Tank', 'Electricity Backup', 'Internet', 'Security Staff', 'Parking'],
  },
  {
    "Title": "1 Talle New House : House For Sale In Imadol, Lalitpur",
@@ -15617,7 +15617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "2-3 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Parking', 'Water Tank', 'Water Well', 'Drainage']"
+   "Amenities": ['Parking',, 'Water Tank', 'Water Well', 'Drainage'],
  },
  {
    "Title": "New House On Sale In Imadol Height : House For Sale In Imadol, Lalitpur",
@@ -15637,7 +15637,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "3 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Backyard', 'Balcony', 'Frontyard', 'Gym', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Solar Water', 'Water Well', 'Cafeteria']"
+   "Amenities": ['Backyard', 'Balcony', 'Frontyard', 'Gym', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Solar Water', 'Water Well', 'Cafeteria'],
  },
  {
    "Title": "4 Aana Home At Ekatabasti : House For Sale In Ekatabasti, Kathmandu",
@@ -15657,7 +15657,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water']"
+   "Amenities": ['Garage', 'Balcony', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water'],
  },
  {
    "Title": "4 Aana Home At Sitapaila : House For Sale In Sitapaila, Kathmandu",
@@ -15677,7 +15677,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Drainage']"
+   "Amenities": ['Garage', 'Drainage'],
  },
  {
    "Title": "Land For Sale In Bharatpur, Chitwan",
@@ -15697,7 +15697,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Brand New : Flat For Rent In Bishal Nagar, Kathmandu",
@@ -15717,7 +15717,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "5 months ago",
-   "Amenities": "['Garden', 'Drainage', 'Solar Water', 'Water Well']"
+   "Amenities": ['Garden', 'Drainage', 'Solar Water', 'Water Well'],
  },
  {
    "Title": "House For Rent In Jhamsikhel, Lalitpur",
@@ -15737,7 +15737,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Sitapaila Home 180 : House For Sale In Sitapaila, Kathmandu",
@@ -15757,7 +15757,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Drainage']"
+   "Amenities": ['Drainage'],
  },
  {
    "Title": "Beautiful Bungalow Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -15777,7 +15777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Lawn', 'Balcony', 'Frontyard', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water']"
+   "Amenities": ['Garage', 'Lawn', 'Balcony', 'Frontyard', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water'],
  },
  {
    "Title": "Surya Darshan Height Home : House For Sale In Tokha, Kathmandu",
@@ -15797,7 +15797,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Drainage', 'TV Cable', 'Water Supply']"
+   "Amenities": ['Garage', 'Drainage', 'TV Cable', 'Water Supply'],
  },
  {
    "Title": "Small Family Home Mandikatar : House For Sale In Mandikatar, Kathmandu",
@@ -15817,7 +15817,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "Samakhusi Flat Home : House For Sale In Samakhusi, Kathmandu",
@@ -15837,7 +15837,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "Sundarbasti New Home : House For Sale In Bhangal, Kathmandu",
@@ -15857,7 +15857,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "Property At New Baneshwor : House For Sale In Baneshwor, Kathmandu",
@@ -15877,7 +15877,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3 1/2 Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Dhapasi Bungalow : House For Sale In Basundhara, Kathmandu",
@@ -15897,7 +15897,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Garden', 'Solar Water', 'Drainage']"
+   "Amenities": ['Garage', 'Garden', 'Solar Water', 'Drainage'],
  },
  {
    "Title": "Land With A House In Paknajol On Sale : House For Sale In Paknajol, Kathmandu",
@@ -15917,7 +15917,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "15 Ana Bungalow Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -15937,7 +15937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "5 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Air Condition', 'Lawn', 'Garden']"
+   "Amenities": ['Air Condition', 'Lawn', 'Garden'],
  },
  {
    "Title": "Dhubarahi 8 Ana Home : House For Sale In Dhumbarahi, Kathmandu",
@@ -15957,7 +15957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garden', 'Balcony', 'Garage', 'Frontyard', 'Drainage']"
+   "Amenities": ['Garden', 'Balcony', 'Garage', 'Frontyard', 'Drainage'],
  },
  {
    "Title": "Bunglow At Chabahil : House For Sale In Chabahil, Kathmandu",
@@ -15977,7 +15977,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "4 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Garden', 'Frontyard', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage', 'Water Well', 'Water Tank']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Garden', 'Frontyard', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage', 'Water Well', 'Water Tank'],
  },
  {
    "Title": "HOUSE IN PRIME COLONY : House For Rent In Jhamsikhel, Lalitpur",
@@ -15997,7 +15997,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "0-4-0-0 Aana",
    "Posted": "5 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Fencing', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank', 'Electricity Backup']"
+   "Amenities": ['Garage', 'Balcony', 'Fencing', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank', 'Electricity Backup'],
  },
  {
    "Title": "Single : Flat For Rent In Gokarneshwor, Kathmandu",
@@ -16017,7 +16017,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Solar Water', 'Electricity Backup', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Solar Water', 'Electricity Backup', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Bafal, Kathmandu",
@@ -16037,7 +16037,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Swimming Pool', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking']"
+   "Amenities": ['Swimming Pool', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking'],
  },
  {
    "Title": "House For Sale In Dharmasthali, Kathmandu",
@@ -16057,7 +16057,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Harisiddhi, Lalitpur",
@@ -16077,7 +16077,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Newly Built 🏠 House : House For Sale In Gongabu, Kathmandu",
@@ -16097,7 +16097,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "3 Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Water Supply', 'Parking', 'Balcony']"
+   "Amenities": ['Water Supply', 'Parking', 'Balcony'],
  },
  {
    "Title": "5 Bhk 14 Anna Modern Bungalow For Sale At Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -16117,7 +16117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi', 'Washing Machine', 'Water Well', 'Water Tank', 'Electricity Backup']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi', 'Washing Machine', 'Water Well', 'Water Tank', 'Electricity Backup'],
  },
  {
    "Title": "5.5 Anna Luxury Brand New House For Sale At Pasikot, Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -16137,7 +16137,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Gym', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Gym', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Royal Neo Classical Bungalow For Sale At Golfutar, Budhanilkantha : House For Sale In Golfutar, Kathmandu",
@@ -16157,7 +16157,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi', 'Washing Machine', 'Water Tank']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Balcony', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi', 'Washing Machine', 'Water Tank'],
  },
  {
    "Title": "5 Bhk 4.2 Anna Modern Brand New Bungalow For Sale At Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -16177,7 +16177,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Garden', 'Frontyard', 'Deck', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi', 'Washing Machine', 'Water Well']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Garden', 'Frontyard', 'Deck', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi', 'Washing Machine', 'Water Well'],
  },
  {
    "Title": "Brand New House For Sale At Sukedhara In 18 Feet Road, Near Main Road : House For Sale In Sukedhara, Kathmandu",
@@ -16197,7 +16197,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Garage', 'Backyard', 'Frontyard', 'Fencing', 'Balcony', 'Modular Kitchen', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi', 'Washing Machine', 'Water Tank']"
+   "Amenities": ['Garage', 'Backyard', 'Frontyard', 'Fencing', 'Balcony', 'Modular Kitchen', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi', 'Washing Machine', 'Water Tank'],
  },
  {
    "Title": "3.1 Anna New House For Sale At Mandikatar, 1 Km From Dhumbarahi Chowk. : House For Sale In Mandikatar, Kathmandu",
@@ -16217,7 +16217,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Garage', 'Backyard', 'Fencing', 'Water Supply', 'Water Tank', 'Wifi']"
+   "Amenities": ['Garage', 'Backyard', 'Fencing', 'Water Supply', 'Water Tank', 'Wifi'],
  },
  {
    "Title": "4.5 Anna Beautiful Brand New House For Sale At Sukedhara Inside Colony : House For Sale In Sukedhara, Kathmandu",
@@ -16237,7 +16237,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Garage', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Wifi', 'Water Tank']"
+   "Amenities": ['Garage', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Deck', 'Modular Kitchen', 'Water Supply', 'Drainage', 'Wifi', 'Water Tank'],
  },
  {
    "Title": "4 Anna Modern Semi Bungalow For Sale At Golfutar 30 Feet Main Road. : House For Sale In Golfutar, Kathmandu",
@@ -16257,7 +16257,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi', 'Water Tank']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -16277,7 +16277,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "6 Anna Brand New Semi Bungalow At Rudreshwor In 33 Feet Road : House For Sale In Budhanilkantha, Kathmandu",
@@ -16297,7 +16297,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Garage', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Balcony', 'Wifi', 'Drainage', 'Water Supply', 'Electricity Backup']"
+   "Amenities": ['Garage', 'Backyard', 'Garden', 'Frontyard', 'Fencing', 'Balcony', 'Wifi', 'Drainage', 'Water Supply', 'Electricity Backup'],
  },
  {
    "Title": "K Yo Ghar Tapaiko Lagi Ho? : House For Sale In Tokha, Kathmandu",
@@ -16317,7 +16317,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "3-4 Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Water Supply', 'Water Tank', 'Drainage', 'Solar Water', 'Parking', 'Garden']"
+   "Amenities": ['Water Supply', 'Water Tank', 'Drainage', 'Solar Water', 'Parking', 'Garden'],
  },
  {
    "Title": "Just Built Semi - Commercial House : House For Sale In Baniyatar, Kathmandu",
@@ -16337,7 +16337,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "3-4 Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Garden', 'Parking', 'Water Tank', 'Parking', 'Drainage', 'Drainage', 'Water Supply', 'Water Supply', 'Water Tank', 'Solar Water']"
+   "Amenities": ['Garden', 'Parking', 'Water Tank', 'Parking', 'Drainage', 'Drainage', 'Water Supply', 'Water Supply', 'Water Tank', 'Solar Water'],
  },
  {
    "Title": "House For Sale In Thankot, Kathmandu",
@@ -16357,7 +16357,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Balkhu, Kathmandu",
@@ -16377,7 +16377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Banasthali, Kathmandu",
@@ -16397,7 +16397,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "3525 Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "['Washing Machine', 'Solar Water', 'Water Tank', 'Internet', 'Microwave', 'Parking', 'Water Well', 'Water Supply', 'Drainage', 'TV Cable']"
+   "Amenities": ['Washing Machine', 'Solar Water', 'Water Tank', 'Internet', 'Microwave', 'Parking', 'Water Well', 'Water Supply', 'Drainage', 'TV Cable'],
  },
  {
    "Title": "1.5 Talle Ghar Near Grande Tower : House For Sale In Tokha, Kathmandu",
@@ -16417,7 +16417,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "3-5 Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "['Water Supply', 'Drainage', 'Parking', 'Water Tank', 'Garden']"
+   "Amenities": ['Water Supply', 'Drainage', 'Parking', 'Water Tank', 'Garden'],
  },
  {
    "Title": "8 Anna Land On Sale At Ramkot -7 , Nagarjun : Land For Sale In Ramkot, Kathmandu",
@@ -16437,7 +16437,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Hetauda, Makwanpur",
@@ -16457,7 +16457,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Balaju, Kathmandu",
@@ -16477,7 +16477,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Biratnagar, Morang",
@@ -16497,7 +16497,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Lokanthali, Bhaktapur",
@@ -16517,7 +16517,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Bijauri, Dang",
@@ -16537,7 +16537,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Bharatpur, Chitwan",
@@ -16557,7 +16557,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Suryabinayak, Bhaktapur",
@@ -16577,7 +16577,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Imadol, Lalitpur",
@@ -16597,7 +16597,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House And Land Sale In Kirtipur, Kathmandu : House For Sale In Machhegaun, Kirtipur",
@@ -16617,7 +16617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "2.5 Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Balcony', 'Garden', 'Frontyard', 'TV Cable', 'Wifi', 'Water Supply', 'Electricity Backup', 'Internet', 'Water Tank', 'Modular Kitchen']"
+   "Amenities": ['Balcony', 'Garden', 'Frontyard', 'TV Cable', 'Wifi', 'Water Supply', 'Electricity Backup', 'Internet', 'Water Tank', 'Modular Kitchen'],
  },
  {
    "Title": "Land For Sale In Hetauda, Makwanpur",
@@ -16637,7 +16637,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -16657,7 +16657,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Sukedhra Ektabasti House In Sell : House For Sale In Ekatabasti, Kathmandu",
@@ -16677,7 +16677,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "3.5 Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Air Condition']"
+   "Amenities": ['Air Condition'],
  },
  {
    "Title": "House For Sale In Golfutar, Kathmandu",
@@ -16697,7 +16697,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2 Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Air Condition']"
+   "Amenities": ['Air Condition'],
  },
  {
    "Title": "House For Sale In Naya Bazar, Kathmandu",
@@ -16717,7 +16717,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Balcony', 'Backyard', 'Frontyard', 'Fencing', 'Modular Kitchen', 'Water Supply', 'Water Well', 'Solar Water', 'Drainage', 'Electricity Backup', 'Parking', 'Store Room', 'Water Tank']"
+   "Amenities": ['Balcony', 'Backyard', 'Frontyard', 'Fencing', 'Modular Kitchen', 'Water Supply', 'Water Well', 'Solar Water', 'Drainage', 'Electricity Backup', 'Parking', 'Store Room', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Harisiddhi, Lalitpur",
@@ -16737,7 +16737,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Modern Bungalow : House For Sale In Kusunti, Lalitpur",
@@ -16757,7 +16757,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2200 Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "['Lawn', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['Lawn', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Sale In Greenhill City, Mulpani, Kathmandu",
@@ -16777,7 +16777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "3 Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Maintenance']"
+   "Amenities": ['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Maintenance'],
  },
  {
    "Title": "Apartment For Rent In Sanepa, Lalitpur",
@@ -16797,7 +16797,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "['Air Condition', 'Balcony', 'Garden', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Kids Playground', 'Lift', 'Maintenance', 'Parking']"
+   "Amenities": ['Air Condition', 'Balcony', 'Garden', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Kids Playground', 'Lift', 'Maintenance', 'Parking'],
  },
  {
    "Title": "House For Sale In Kapan, Kathmandu",
@@ -16817,7 +16817,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Urgent House On Sale : House For Sale In Pepsicola, Kathmandu",
@@ -16837,7 +16837,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2.5 Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Water Tank', 'Water Well', 'Parking']"
+   "Amenities": ['Water Tank', 'Water Well', 'Parking'],
  },
  {
    "Title": "Land For Sale In Itahari, Sunsari",
@@ -16857,7 +16857,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Dhapakhel, Lalitpur",
@@ -16877,7 +16877,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In DDC Chowk, Biratnagar",
@@ -16897,7 +16897,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "9 Dhur",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Hattiban, Lalitpur",
@@ -16917,7 +16917,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Butwal, Butwal",
@@ -16937,7 +16937,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Bharatpur, Chitwan",
@@ -16957,7 +16957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "['Lawn', 'Garden', 'TV Cable', 'Water Well', 'Electricity Backup', 'Internet', 'Parking']"
+   "Amenities": ['Lawn', 'Garden', 'TV Cable', 'Water Well', 'Electricity Backup', 'Internet', 'Parking'],
  },
  {
    "Title": "Land For Sale In Dhumbarahi, Kathmandu",
@@ -16977,7 +16977,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Goldhunga, Kathmandu",
@@ -16997,7 +16997,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Office Space For Rent In Durbar Marg, Kathmandu",
@@ -17017,7 +17017,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "616 Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Thankot, Kathmandu",
@@ -17037,7 +17037,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kapan, Kathmandu",
@@ -17057,7 +17057,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-4-5-0 Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Garden', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Parking', 'Store Room']"
+   "Amenities": ['Garage', 'Balcony', 'Garden', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Parking', 'Store Room'],
  },
  {
    "Title": "Balkot House For Rent : House For Rent In Balkot, Bhaktapur",
@@ -17077,7 +17077,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "8 Aana",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Thankot, Kathmandu",
@@ -17097,7 +17097,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House On Sale In Bhimsengola, Old Baneswor Saypatri Tole : House For Sale In Battisputali, Kathmandu",
@@ -17117,7 +17117,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "2.2 Aana",
    "Posted": "6 months ago",
-   "Amenities": "['Backyard', 'TV Cable', 'Drainage', 'Water Supply', 'Balcony']"
+   "Amenities": ['Backyard', 'TV Cable', 'Drainage', 'Water Supply', 'Balcony'],
  },
  {
    "Title": "Land For Sale In Kirtipur, Kathmandu",
@@ -17137,7 +17137,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land With Houses : Land For Sale In Teku, Kathmandu",
@@ -17157,7 +17157,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sano Gaun, Lalitpur",
@@ -17177,7 +17177,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Kirtipur, Kathmandu",
@@ -17197,7 +17197,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Pokhara, Pokhara",
@@ -17217,7 +17217,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "6 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -17237,7 +17237,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -17257,7 +17257,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "['Balcony', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Parking', 'Store Room'],
  },
  {
    "Title": "House For Sale Satdobato Only Land Cost! : House For Sale In Satdobato, Lalitpur",
@@ -17277,7 +17277,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2000 Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale On Only Land Cost @ Shantinagar Kathmandu! : House For Sale In Shantinagar, Kathmandu",
@@ -17297,7 +17297,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2500 Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "9 Aana Chaauni Land On Dashain Tihar Offer Urgent Sale : Land For Sale In Chhauni, Kathmandu",
@@ -17317,7 +17317,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House Sale At Sanepa, Land Cost Only : House For Sale In Sanepa, Lalitpur",
@@ -17337,7 +17337,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2300 Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Akarsak Thau Ko Ghar Bikri Ma!! : House For Sale In Imadol, Lalitpur",
@@ -17357,7 +17357,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "4 Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -17377,7 +17377,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "['Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking']"
+   "Amenities": ['Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking'],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -17397,7 +17397,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Bhaisepati, Lalitpur",
@@ -17417,7 +17417,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Drainage', 'Water Well', 'Electricity Backup']"
+   "Amenities": ['Drainage', 'Water Well', 'Electricity Backup'],
  },
  {
    "Title": "Mandikatar House In Sell : House For Sale In Mandikatar, Kathmandu",
@@ -17437,7 +17437,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "4 Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Air Condition']"
+   "Amenities": ['Air Condition'],
  },
  {
    "Title": "House For Sale At Civil Homes, Dhapakhel : House For Sale In Dhapakhel, Lalitpur",
@@ -17457,7 +17457,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2000 Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "5 Ropani Land For Sale At Golfutar! : Land For Sale In Golfutar, Kathmandu",
@@ -17477,7 +17477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Ropani",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent : House For Rent In Bakhundol, Lalitpur",
@@ -17497,7 +17497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-3-9 Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Lawn', 'Balcony', 'Backyard']"
+   "Amenities": ['Lawn', 'Balcony', 'Backyard'],
  },
  {
    "Title": "Flat System House For Sale At Ghattekulo Kathmandu. : House For Sale In Ghattekulo, Kathmandu",
@@ -17517,7 +17517,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "4500 Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale At Only Land Cost @ Baneshwor! : House For Sale In Old Baneshwor, Kathmandu",
@@ -17537,7 +17537,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2500 Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Urgent Sale Land 5 Aana : Land For Sale In Raniban, Kathmandu",
@@ -17557,7 +17557,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "BUDHANILKANTHA BUNGALOW : House For Sale In Budhanilkantha, Kathmandu",
@@ -17577,7 +17577,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Modular Kitchen', 'Drainage', 'Wifi', 'Water Supply', 'Solar Water', 'Balcony', 'Backyard', 'Garden', 'Frontyard']"
+   "Amenities": ['Modular Kitchen', 'Drainage', 'Wifi', 'Water Supply', 'Solar Water', 'Balcony', 'Backyard', 'Garden', 'Frontyard'],
  },
  {
    "Title": "HEPALI GOLFUTAR HOME : House For Sale In Golfutar, Kathmandu",
@@ -17597,7 +17597,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "3600 Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "['Drainage', 'Water Supply', 'Solar Water', 'Wifi', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Air Condition']"
+   "Amenities": ['Drainage', 'Water Supply', 'Solar Water', 'Wifi', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Air Condition'],
  },
  {
    "Title": "CHAPALI , BUDHANILKANTHA BUNGALOW : House For Sale In Budhanilkantha, Kathmandu",
@@ -17617,7 +17617,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Garden', 'Modular Kitchen', 'TV Cable', 'Water Supply', 'Solar Water', 'Drainage', 'Wifi', 'Balcony']"
+   "Amenities": ['Garden', 'Modular Kitchen', 'TV Cable', 'Water Supply', 'Solar Water', 'Drainage', 'Wifi', 'Balcony'],
  },
  {
    "Title": "HATTIGAUDA BUNGALOW : House For Sale In Hattigauda, Kathmandu",
@@ -17637,7 +17637,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Frontyard', 'Garden', 'Drainage', 'Water Supply', 'Solar Water', 'Washing Machine', 'TV Cable', 'Microwave', 'Air Condition']"
+   "Amenities": ['Frontyard', 'Garden', 'Drainage', 'Water Supply', 'Solar Water', 'Washing Machine', 'TV Cable', 'Microwave', 'Air Condition'],
  },
  {
    "Title": "House For Sale In Balaju, Kathmandu",
@@ -17657,7 +17657,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Kalanki, Kathmandu",
@@ -17677,7 +17677,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Chandragiri, Kathmandu",
@@ -17697,7 +17697,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Thankot, Kathmandu",
@@ -17717,7 +17717,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Banasthali, Kathmandu",
@@ -17737,7 +17737,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Parking', 'Store Room'],
  },
  {
    "Title": "Flat For Rent In Jorpati, Kathmandu",
@@ -17757,7 +17757,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "0-3-0-0 Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Fencing', 'Frontyard', 'Washing Machine', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank', 'Electricity Backup']"
+   "Amenities": ['Garage', 'Balcony', 'Fencing', 'Frontyard', 'Washing Machine', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank', 'Electricity Backup'],
  },
  {
    "Title": "Land For Sale In Thankot, Kathmandu",
@@ -17777,7 +17777,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kadaghari, Kathmandu",
@@ -17797,7 +17797,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale At Hepali, Near Golfutar Kathmandu. : House For Sale In Budhanilkantha, Kathmandu",
@@ -17817,7 +17817,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2500 Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Urgent Sale A House In Grende Villa Housing, Dhapasi : House For Sale In Dhapasi, Kathmandu",
@@ -17837,7 +17837,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2300 Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -17857,7 +17857,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale At Southern Heights Housing, Thaiba LLalitpur : House For Sale In Thaiba, Lalitpur",
@@ -17877,7 +17877,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2500 Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Swayambhu, Kathmandu",
@@ -17897,7 +17897,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Mid Baneshwor, Kathmandu",
@@ -17917,7 +17917,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "1000 Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "['Lawn', 'Balcony', 'Garden', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Solar Water', 'Water Well', 'Electricity Backup', 'Parking', 'Store Room']"
+   "Amenities": ['Lawn', 'Balcony', 'Garden', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Solar Water', 'Water Well', 'Electricity Backup', 'Parking', 'Store Room'],
  },
  {
    "Title": "Land For Sale In Chakupat, Lalitpur",
@@ -17937,7 +17937,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Modern Newly Residential Home At Balaju, Boharatar, Kathmandu : House For Sale In Balaju, Kathmandu",
@@ -17957,7 +17957,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2.75 Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking']"
+   "Amenities": ['Garage', 'Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking'],
  },
  {
    "Title": "House For Sale In Syuchatar, Kathmandu",
@@ -17977,7 +17977,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Balcony', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking']"
+   "Amenities": ['Balcony', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Parking'],
  },
  {
    "Title": "House For Sale At Chhauni Kathmandu : House For Sale In Chhauni, Kathmandu",
@@ -17997,7 +17997,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "3000 Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "['Water Supply', 'Solar Water', 'Water Tank', 'Frontyard', 'Garage']"
+   "Amenities": ['Water Supply', 'Solar Water', 'Water Tank', 'Frontyard', 'Garage'],
  },
  {
    "Title": "House For Sale In Kausaltar, Bhaktapur",
@@ -18017,7 +18017,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Housing Land : Land For Sale In Bhaktapur, Bhaktapur",
@@ -18037,7 +18037,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Mulpani, Kathmandu",
@@ -18057,7 +18057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Damak, Jhapa",
@@ -18077,7 +18077,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Gongabu, Kathmandu",
@@ -18097,7 +18097,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Basbari, Kathmandu",
@@ -18117,7 +18117,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Mid Baneshwor, Kathmandu",
@@ -18137,7 +18137,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Thapagaun, Kathmandu",
@@ -18157,7 +18157,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Samakhusi, Kathmandu",
@@ -18177,7 +18177,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat On Rent : Flat For Rent In Pasikot, Kathmandu",
@@ -18197,7 +18197,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "0-3-0-0 Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Tank', 'Water Well', 'Parking']"
+   "Amenities": ['Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Tank', 'Water Well', 'Parking'],
  },
  {
    "Title": "Urgent Sale : Land For Sale In Birgunj, Parsa",
@@ -18217,7 +18217,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Dhur",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "SUNDARBASTI HOME : House For Sale In Bhangal, Kathmandu",
@@ -18237,7 +18237,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Tokha, Kathmandu",
@@ -18257,7 +18257,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "GOLFUTAR 4 ANA : Land For Sale In Golfutar, Kathmandu",
@@ -18277,7 +18277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -18297,7 +18297,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2600 Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "['Water Supply', 'Drainage', 'Garage']"
+   "Amenities": ['Water Supply', 'Drainage', 'Garage'],
  },
  {
    "Title": "Perfect 8 Anna Residential Land For Sale Inside Budhanilkantha Villa : Land For Sale In Budhanilkantha, Kathmandu",
@@ -18317,7 +18317,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Gothatar, Kathmandu",
@@ -18337,7 +18337,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Bhangal, Kathmandu",
@@ -18357,7 +18357,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Changunarayan, Bhaktapur",
@@ -18377,7 +18377,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -18397,7 +18397,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Lagankhel, Lalitpur",
@@ -18417,7 +18417,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Lubhu, Lalitpur",
@@ -18437,7 +18437,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "12 Anna Fully Furnished Bungalow For Sale At Dhumbarahi, Pragati Tole : House For Sale In Dhumbarahi, Kathmandu",
@@ -18457,7 +18457,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'Wifi', 'Drainage', 'CCTV', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'Wifi', 'Drainage', 'CCTV', 'Water Well', 'Solar Water', 'Water Supply', 'Electricity Backup', 'Internet'],
  },
  {
    "Title": "Land For Sale Near Itahari Chowk : Land For Sale In Birtamod Road, Itahari",
@@ -18477,7 +18477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Banasthali, Kathmandu",
@@ -18497,7 +18497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Air Condition', 'Backyard', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Parking', 'Store Room']"
+   "Amenities": ['Air Condition', 'Backyard', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Parking', 'Store Room'],
  },
  {
    "Title": "Land For Sale In Dahachowk, Khahare, Kathmandu",
@@ -18517,7 +18517,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Ropani",
    "Posted": "7 months ago",
-   "Amenities": "['Garden', 'Drainage', 'Water Well', 'Electricity Backup', 'Internet', 'Parking']"
+   "Amenities": ['Garden', 'Drainage', 'Water Well', 'Electricity Backup', 'Internet', 'Parking'],
  },
  {
    "Title": "One Storied House For Sale Near Pashupati, Guheswori, Boudha : House For Sale In Chabahil, Kathmandu",
@@ -18537,7 +18537,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2.6 Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Garden']"
+   "Amenities": ['Garden'],
  },
  {
    "Title": "60 Feet Faced Land On Main Road : Land For Sale In Mahalaxmisthan, Lalitpur",
@@ -18557,7 +18557,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Bungalow For Sale At Sitapaila, Sita Homes : House For Sale In Sitapaila, Kathmandu",
@@ -18577,7 +18577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "1800 Aana",
    "Posted": "7 months ago",
-   "Amenities": "['TV Cable', 'Drainage', 'Solar Water', 'Water Supply', 'Water Well']"
+   "Amenities": ['TV Cable', 'Drainage', 'Solar Water', 'Water Supply', 'Water Well'],
  },
  {
    "Title": "Land For Lease In DDC Chowk, Biratnagar",
@@ -18597,7 +18597,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Ropani",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Tarkeshwor, Kathmandu",
@@ -18617,7 +18617,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Balcony', 'Drainage', 'Water Well', 'Electricity Backup', 'Internet', 'Parking']"
+   "Amenities": ['Balcony', 'Drainage', 'Water Well', 'Electricity Backup', 'Internet', 'Parking'],
  },
  {
    "Title": "Apartment For Rent In Jhamsikhel, Lalitpur",
@@ -18637,7 +18637,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "['Lawn', 'Balcony', 'Garden', 'Gym', 'Swimming Pool', 'TV Cable', 'Drainage', 'Water Well', 'Internet', 'Parking', 'Security Staff', 'Store Room']"
+   "Amenities": ['Lawn', 'Balcony', 'Garden', 'Gym', 'Swimming Pool', 'TV Cable', 'Drainage', 'Water Well', 'Internet', 'Parking', 'Security Staff', 'Store Room'],
  },
  {
    "Title": "9 Anna Land For Sale At Baluwatar Infront Of Himani Trust : Land For Sale In Baluwatar, Kathmandu",
@@ -18657,7 +18657,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Tempting Brand New Modern Bungalow For Sale In Maharajgunj : House For Sale In Maharajgunj, Kathmandu",
@@ -18677,7 +18677,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'CCTV', 'Water Supply', 'Electricity Backup', 'Internet']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'CCTV', 'Water Supply', 'Electricity Backup', 'Internet'],
  },
  {
    "Title": "7 Anna Attractive Land At Narayan Chaur, Naxal Near Star Venue Party Palace : Land For Sale In Naxal, Kathmandu",
@@ -18697,7 +18697,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Ichangu Narayan Jagga : Land For Sale In Nagarjun, Kathmandu",
@@ -18717,7 +18717,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": ".5 Ropani",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sukedhara, Kathmandu",
@@ -18737,7 +18737,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Office Space For Rent In Baluwatar, Kathmandu",
@@ -18757,7 +18757,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Beauty Parlor On Sale! : Business For Sale In Anamnagar, Kathmandu",
@@ -18777,7 +18777,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "10-20-10-20 Sq. Meter",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "1 Ropani Attractive Commercial Land For Sale At Gahana Pokhari, Naxal : Land For Sale In Naxal, Kathmandu",
@@ -18797,7 +18797,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "3.5 Storied House On Sale : House For Sale In Boudha, Kathmandu",
@@ -18817,7 +18817,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['TV Cable', 'Water Supply', 'Water Well', 'Internet']"
+   "Amenities": ['TV Cable', 'Water Supply', 'Water Well', 'Internet'],
  },
  {
    "Title": "26 Anna Main Road Commercial Land, Mid Baneshwor Beside Venus Hospital : Land For Sale In Mid Baneshwor, Kathmandu",
@@ -18837,7 +18837,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "31 Anna Commercial Land For Sale Prime Location, Baluwatar Main Road : Land For Sale In Baluwatar, Kathmandu",
@@ -18857,7 +18857,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "8 Anna Modern House For Sale In Basundhara In Sherchan Colony Height : House For Sale In Dhapasi, Kathmandu",
@@ -18877,7 +18877,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Well', 'Water Supply', 'Electricity Backup', 'Internet']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Garden', 'Frontyard', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'CCTV', 'Water Well', 'Water Supply', 'Electricity Backup', 'Internet'],
  },
  {
    "Title": "Magnificent New Bungalow For Sale At Budhanilkantha, Kathmandu : House For Sale In Budhanilkantha, Kathmandu",
@@ -18897,7 +18897,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Gym', 'Garden', 'Frontyard', 'Modular Kitchen', 'Swimming Pool', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Electricity Backup', 'Water Supply', 'Internet', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Gym', 'Garden', 'Frontyard', 'Modular Kitchen', 'Swimming Pool', 'Wifi', 'Drainage', 'CCTV', 'Water Tank', 'Electricity Backup', 'Water Supply', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "9 Anna Commercial Main Road Land On Sale Opposite To Big Mart Lazimpat : Land For Sale In Lazimpat, Kathmandu",
@@ -18917,7 +18917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land With Old House On Sale, Dhumbarahi Main Road Near Investment Bank : Land For Sale In Dhumbarahi, Kathmandu",
@@ -18937,7 +18937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "6.5 Anna Land For Sale At Basundhara Chauki, Shayanshah Height : Land For Sale In Dhapasi, Kathmandu",
@@ -18957,7 +18957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Bungalow At Mid Baneshwor, 100 Meters From Venus Hospital : House For Sale In Mid Baneshwor, Kathmandu",
@@ -18977,7 +18977,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Garage', 'Air Condition', 'Balcony', 'Garden', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Wifi', 'Water Supply', 'Water Tank', 'Electricity Backup', 'Internet']"
+   "Amenities": ['Garage', 'Air Condition', 'Balcony', 'Garden', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Wifi', 'Water Supply', 'Water Tank', 'Electricity Backup', 'Internet'],
  },
  {
    "Title": "Apartment For Rent In Bishal Nagar, Kathmandu",
@@ -18997,7 +18997,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "['Lawn', 'Balcony', 'Garden', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Water Supply', 'Water Well', 'Electricity Backup', 'Internet', 'Kids Playground', 'Lift', 'Maintenance', 'Parking', 'Security Staff', 'Jacuzzi']"
+   "Amenities": ['Lawn', 'Balcony', 'Garden', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Water Supply', 'Water Well', 'Electricity Backup', 'Internet', 'Kids Playground', 'Lift', 'Maintenance', 'Parking', 'Security Staff', 'Jacuzzi'],
  },
  {
    "Title": "Bhelpa House On Rent : House For Rent In Gwarko, Lalitpur",
@@ -19017,7 +19017,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "0-2-2-0 Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Garage', 'Fencing', 'Drainage', 'Water Supply', 'Water Well']"
+   "Amenities": ['Garage', 'Fencing', 'Drainage', 'Water Supply', 'Water Well'],
  },
  {
    "Title": "Office Space For Rent In Baneshwor, Kathmandu",
@@ -19037,7 +19037,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "['Balcony', 'Wifi', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Lift', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Wifi', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Lift', 'Parking', 'Store Room'],
  },
  {
    "Title": "Residential : House For Sale In Kapan, Kathmandu",
@@ -19057,7 +19057,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "4 Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Internet', 'Water Well', 'Water Tank', 'Electricity Backup', 'Drainage', 'Garage']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Internet', 'Water Well', 'Water Tank', 'Electricity Backup', 'Drainage', 'Garage'],
  },
  {
    "Title": "House For Sale In Tikathali, Lalitpur",
@@ -19077,7 +19077,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "127.18 Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "['Water Supply']"
+   "Amenities": ['Water Supply'],
  },
  {
    "Title": "Budhanilkantha Bungalow : House For Rent In Budhanilkantha, Kathmandu",
@@ -19097,7 +19097,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "16 Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Drainage', 'Water Supply', 'Solar Water', 'Wifi', 'Washing Machine', 'TV Cable', 'Modular Kitchen', 'Frontyard', 'Garden', 'Microwave', 'Fencing', 'Garage', 'Air Condition', 'Lawn', 'Backyard', 'Balcony']"
+   "Amenities": ['Drainage', 'Water Supply', 'Solar Water', 'Wifi', 'Washing Machine', 'TV Cable', 'Modular Kitchen', 'Frontyard', 'Garden', 'Microwave', 'Fencing', 'Garage', 'Air Condition', 'Lawn', 'Backyard', 'Balcony'],
  },
  {
    "Title": "Budanilkantha Golfutar Home : House For Sale In Budhanilkantha, Kathmandu",
@@ -19117,7 +19117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water']"
+   "Amenities": ['TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water'],
  },
  {
    "Title": "House For Sale In Kavresthali, Kathmandu",
@@ -19137,7 +19137,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "New Modern And Beautiful House : House For Sale In Thaiba, Lalitpur",
@@ -19157,7 +19157,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2500 Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Water Well', 'Water Tank', 'Internet']"
+   "Amenities": ['Lawn', 'Garage', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Supply', 'Water Well', 'Water Tank', 'Internet'],
  },
  {
    "Title": "House Near Kist Hospital Imadole : House For Sale In Imadol, Lalitpur",
@@ -19177,7 +19177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "11 Dhur",
    "Posted": "7 months ago",
-   "Amenities": "['Drainage', 'Water Well', 'Water Tank', 'Solar Water', 'TV Cable', 'Balcony', 'Modular Kitchen']"
+   "Amenities": ['Drainage', 'Water Well', 'Water Tank', 'Solar Water', 'TV Cable', 'Balcony', 'Modular Kitchen'],
  },
  {
    "Title": "Land For Sale In Birgunj, Parsa",
@@ -19197,7 +19197,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Meter",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "One Floor Home : House For Sale In Tarakeshwar, Kathmandu",
@@ -19217,7 +19217,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "0-2-2-3 Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Garage', 'Fencing', 'Frontyard', 'Wifi', 'Water Supply', 'Water Tank', 'Internet', 'Parking']"
+   "Amenities": ['Garage', 'Fencing', 'Frontyard', 'Wifi', 'Water Supply', 'Water Tank', 'Internet', 'Parking'],
  },
  {
    "Title": "House For Sale In Newroad, Kathmandu",
@@ -19237,7 +19237,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Boudha, Kathmandu",
@@ -19257,7 +19257,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Thali, Kathmandu",
@@ -19277,7 +19277,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Thali, Kathmandu",
@@ -19297,7 +19297,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For SALE In Banepa : Land For Sale In Banepa, Kavre",
@@ -19317,7 +19317,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Thali, Kathmandu",
@@ -19337,7 +19337,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Minbhawan, Kathmandu",
@@ -19357,7 +19357,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2500 Ropani",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Jorpati, Kathmandu",
@@ -19377,7 +19377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Tikathali, Lalitpur",
@@ -19397,7 +19397,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Tarkeshwor, Kathmandu",
@@ -19417,7 +19417,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Tarkeshwor, Kathmandu",
@@ -19437,7 +19437,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Godawari, Lalitpur",
@@ -19457,7 +19457,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Harisiddhi, Lalitpur",
@@ -19477,7 +19477,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Naikap, Kathmandu",
@@ -19497,7 +19497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "3 Ropani Land For Sale At Pumdikot Pokhara : Land For Sale In Pokhara, Pokhara",
@@ -19517,7 +19517,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Shutters For Rent : Office Space For Rent In Koteshwor, Kathmandu",
@@ -19537,7 +19537,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "6 Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Water Well', 'Wifi', 'CCTV', 'Water Supply', 'TV Cable']"
+   "Amenities": ['Garage', 'Balcony', 'Water Well', 'Wifi', 'CCTV', 'Water Supply', 'TV Cable'],
  },
  {
    "Title": "Land For Sale In Birtamod Road, Itahari",
@@ -19557,7 +19557,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Suryabinayak, Bhaktapur",
@@ -19577,7 +19577,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Tinkune Prime Location Land On Sale : Land For Sale In Tinkune, Kathmandu",
@@ -19597,7 +19597,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2 Paisa",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "SAMAKHUSI HOME : House For Sale In Samakhusi, Kathmandu",
@@ -19617,7 +19617,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Water Tank', 'Water Supply', 'Solar Water', 'Drainage', 'Wifi', 'TV Cable']"
+   "Amenities": ['Water Tank', 'Water Supply', 'Solar Water', 'Drainage', 'Wifi', 'TV Cable'],
  },
  {
    "Title": "BUDHANILKANTHA 20 ANA VILLA : House For Sale In Budhanilkantha, Kathmandu",
@@ -19637,7 +19637,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Fencing', 'Frontyard', 'Garden', 'Backyard', 'Air Condition', 'Garage', 'Microwave', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']"
+   "Amenities": ['Fencing', 'Frontyard', 'Garden', 'Backyard', 'Air Condition', 'Garage', 'Microwave', 'Modular Kitchen', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "BUDANILKANTHA VILLA : House For Sale In Budhanilkantha, Kathmandu",
@@ -19657,7 +19657,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Garden', 'Frontyard', 'Air Condition', 'Garage', 'Backyard', 'Deck', 'Fencing', 'Lawn', 'Balcony', 'Microwave', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Washing Machine', 'Water Well', 'Water Tank']"
+   "Amenities": ['Garden', 'Frontyard', 'Air Condition', 'Garage', 'Backyard', 'Deck', 'Fencing', 'Lawn', 'Balcony', 'Microwave', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Washing Machine', 'Water Well', 'Water Tank'],
  },
  {
    "Title": "BHANGAL HEIGHT NEW HOME : House For Sale In Bhangal, Kathmandu",
@@ -19677,7 +19677,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Garage', 'Water Tank', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi']"
+   "Amenities": ['Garage', 'Water Tank', 'Solar Water', 'Water Supply', 'Drainage', 'Wifi'],
  },
  {
    "Title": "House For Sale In Kadaghari, Kathmandu",
@@ -19697,7 +19697,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Swayambhu Buddhachok 4 Floors Home : House For Sale In Swayambhu, Kathmandu",
@@ -19717,7 +19717,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Frontyard', 'Garage', 'Wifi', 'Washing Machine', 'Water Tank', 'Drainage', 'Water Supply', 'Solar Water']"
+   "Amenities": ['Frontyard', 'Garage', 'Wifi', 'Washing Machine', 'Water Tank', 'Drainage', 'Water Supply', 'Solar Water'],
  },
  {
    "Title": "House For Sale In Samakhusi, Kathmandu",
@@ -19737,7 +19737,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "4ana Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Lawn', 'Garage', 'Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "5 Ana Land On Sale In Vibor Planning, Chunikhel Bhaiseapti : Land For Sale In Bhaisepati, Lalitpur",
@@ -19757,7 +19757,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Office Space For Sale In Jamal, Kathmandu",
@@ -19777,7 +19777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Apartment For Rent In Naxal, Kathmandu",
@@ -19797,7 +19797,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "['Balcony', 'Garden', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'CCTV', 'Electricity Backup', 'Internet', 'Lift', 'Parking', 'Security Staff']"
+   "Amenities": ['Balcony', 'Garden', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'CCTV', 'Electricity Backup', 'Internet', 'Lift', 'Parking', 'Security Staff'],
  },
  {
    "Title": "Modern Bungalow : House For Sale In Maharajgunj, Kathmandu",
@@ -19817,7 +19817,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Frontyard', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'CCTV']"
+   "Amenities": ['Frontyard', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'CCTV'],
  },
  {
    "Title": "2 Floors Flats Available For Office Rent In Kupondole : Flat For Rent In Kupondole, Lalitpur",
@@ -19837,7 +19837,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Garage', 'Air Condition', 'Modular Kitchen', 'Water Supply', 'Solar Water', 'Water Tank', 'Cafeteria', 'Electricity Backup']"
+   "Amenities": ['Garage', 'Air Condition', 'Modular Kitchen', 'Water Supply', 'Solar Water', 'Water Tank', 'Cafeteria', 'Electricity Backup'],
  },
  {
    "Title": "3 - 4 Ana Land On Sale In Khadka Gau , Kalanki 1.5 Km From LRI School : Land For Sale In Kalanki, Kathmandu",
@@ -19857,7 +19857,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Balkot, Bhaktapur",
@@ -19877,7 +19877,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "PRIVATE HOME URGENTLY SELLING : House For Sale In Basbari, Kathmandu",
@@ -19897,7 +19897,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "12 Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Deck', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Microwave', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank', 'CCTV', 'Electricity Backup', 'Internet', 'Security Staff']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Deck', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Microwave', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank', 'CCTV', 'Electricity Backup', 'Internet', 'Security Staff'],
  },
  {
    "Title": "5 Ana Land On Sale In Pepsicola, Kathmandu !! : Land For Sale In Pepsicola, Kathmandu",
@@ -19917,7 +19917,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "4 Ana Land On Sale In Dharmasthali, Tarakheshwor Kathamandu : Land For Sale In Tarakeshwar, Kathmandu",
@@ -19937,7 +19937,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "LAND FOR SALE : Land For Sale In Khairahani, Chitwan",
@@ -19957,7 +19957,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Immediate Sale Of 4 Ana Land In Vip Area Of Bhaisepati : Land For Sale In Bhaisepati, Lalitpur",
@@ -19977,7 +19977,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "1 Ropani Land On Sale In Macchegau, Kritipur - Can Be Plotted Into 3 Pieces : Land For Sale In Naya Bazar, Kathmandu",
@@ -19997,7 +19997,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "5 Ana Land On Sale In Hattiban , Saatdobato : Land For Sale In Hattiban, Lalitpur",
@@ -20017,7 +20017,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Lekhnath, Pokhara",
@@ -20037,7 +20037,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "4 Ana Land On Sale In BhatekekoPati , Kritipur : Land For Sale In Kirtipur, Kathmandu",
@@ -20057,7 +20057,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dhapasi, Kathmandu",
@@ -20077,7 +20077,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Well', 'Intercom', 'Internet', 'Parking']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Well', 'Intercom', 'Internet', 'Parking'],
  },
  {
    "Title": "Bunglow On Sale At Dhungedhara Near Nursery Chowk : House For Sale In Dhungedhara, Kathmandu",
@@ -20097,7 +20097,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "7 months ago",
-   "Amenities": "['Garden', 'Water Supply']"
+   "Amenities": ['Garden', 'Water Supply'],
  },
  {
    "Title": "House For Sale In Duwakot, Bhaktapur",
@@ -20117,7 +20117,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Naikap, Kathmandu",
@@ -20137,7 +20137,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "7 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Bhangal, Kathmandu",
@@ -20157,7 +20157,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Hattigauda, Kathmandu",
@@ -20177,7 +20177,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Lekhnath, Pokhara",
@@ -20197,7 +20197,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Office Space For Rent In Newroad, Kathmandu",
@@ -20217,7 +20217,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'Water Supply', 'Electricity Backup', 'Lift']"
+   "Amenities": ['Balcony', 'Water Supply', 'Electricity Backup', 'Lift'],
  },
  {
    "Title": "House For Sale In Hattigauda, Kathmandu",
@@ -20237,7 +20237,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Dharan, Dharan",
@@ -20257,7 +20257,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Dakshinkali, Kathmandu",
@@ -20277,7 +20277,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Commercial Building For Rent : Business For Rent In Budhanilkantha, Kathmandu",
@@ -20297,7 +20297,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2000 Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale At Chundevi Kathmandu : Land For Sale In Maharajgunj, Kathmandu",
@@ -20317,7 +20317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Fully Furnished : Flat For Rent In Banasthali, Kathmandu",
@@ -20337,7 +20337,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-4-0-0 Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Balcony', 'Fencing', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Office Space For Rent In Lazimpat, Kathmandu",
@@ -20357,7 +20357,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "2 Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'Frontyard', 'Water Supply', 'Drainage']"
+   "Amenities": ['Balcony', 'Frontyard', 'Water Supply', 'Drainage'],
  },
  {
    "Title": "Land For Sale In Pepsicola, Kathmandu",
@@ -20377,7 +20377,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "4.5 Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Water Supply']"
+   "Amenities": ['Water Supply'],
  },
  {
    "Title": "House At Shankhamul For Sale : House For Sale In Patan, Lalitpur",
@@ -20397,7 +20397,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "962 Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Fencing', 'Drainage', 'Water Supply', 'Water Well', 'Water Tank']"
+   "Amenities": ['Garage', 'Balcony', 'Fencing', 'Drainage', 'Water Supply', 'Water Well', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Kapan, Kathmandu",
@@ -20417,7 +20417,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Bhaisepati, Lalitpur",
@@ -20437,7 +20437,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Parking']"
+   "Amenities": ['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Parking'],
  },
  {
    "Title": "House For Sale In Anamnagar, Kathmandu",
@@ -20457,7 +20457,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "5 Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'Water Supply', 'Store Room', 'Backyard', 'Water Tank']"
+   "Amenities": ['Balcony', 'Water Supply', 'Store Room', 'Backyard', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Pokhara, Pokhara",
@@ -20477,7 +20477,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Balkhu, Kathmandu",
@@ -20497,7 +20497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "4 Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Backyard', 'Balcony']"
+   "Amenities": ['Backyard', 'Balcony'],
  },
  {
    "Title": "House For Sale In Samakhusi, Kathmandu",
@@ -20517,7 +20517,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Tank', 'Parking']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Tank', 'Parking'],
  },
  {
    "Title": "House For Sale In Samakhusi, Kathmandu",
@@ -20537,7 +20537,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking'],
  },
  {
    "Title": "House Sell On Imadol : House For Sale In Imadol, Lalitpur",
@@ -20557,7 +20557,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "3 Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'Water Tank', 'Water Well', 'Wifi', 'Solar Water', 'Garage']"
+   "Amenities": ['Balcony', 'Water Tank', 'Water Well', 'Wifi', 'Solar Water', 'Garage'],
  },
  {
    "Title": "House For Sale In Naikap, Kathmandu",
@@ -20577,7 +20577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kirtipur, Kathmandu",
@@ -20597,7 +20597,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Swayambhu, Kathmandu",
@@ -20617,7 +20617,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Internet', 'Parking']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Internet', 'Parking'],
  },
  {
    "Title": "House For Sale In Balambu, Kathmandu",
@@ -20637,7 +20637,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Madhyapur Thimi, Bhaktapur",
@@ -20657,7 +20657,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Plotted Land For Sale : Land For Sale In Budhanilkantha, Kathmandu",
@@ -20677,7 +20677,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -20697,7 +20697,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dhumbarahi, Kathmandu",
@@ -20717,7 +20717,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Basundhara, Kathmandu",
@@ -20737,7 +20737,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Kalanki, Kathmandu",
@@ -20757,7 +20757,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Water Well']"
+   "Amenities": ['Water Well'],
  },
  {
    "Title": "House For Rent In Gokarneshwor, Kathmandu",
@@ -20777,7 +20777,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "0-4-0-0 Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Balcony']"
+   "Amenities": ['Lawn', 'Garage', 'Balcony'],
  },
  {
    "Title": "Business For Rent In Jawalakhel, Lalitpur",
@@ -20797,7 +20797,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Banepa, Kavre",
@@ -20817,7 +20817,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -20837,7 +20837,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Tathali, Kathmandu",
@@ -20857,7 +20857,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Lubhu, Lalitpur",
@@ -20877,7 +20877,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale : House For Sale In Nakkhu, Lalitpur",
@@ -20897,7 +20897,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "752 Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "['TV Cable', 'Water Well', 'Drainage', 'Modular Kitchen', 'Internet', 'Backyard', 'Garden', 'Store Room', 'Water Tank', 'Electricity Backup', 'Water Supply', 'Balcony', 'Parking']"
+   "Amenities": ['TV Cable', 'Water Well', 'Drainage', 'Modular Kitchen', 'Internet', 'Backyard', 'Garden', 'Store Room', 'Water Tank', 'Electricity Backup', 'Water Supply', 'Balcony', 'Parking'],
  },
  {
    "Title": "House For Rent In Budhanilkantha, Kathmandu",
@@ -20917,7 +20917,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Urgent Sale 8 Aana Land At Gaushala : Land For Sale In Gaushala, Kathmandu",
@@ -20937,7 +20937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Nagarjun, Kathmandu",
@@ -20957,7 +20957,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "1400 Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Damak Houses(Phase II) : House For Sale In Damak, Jhapa",
@@ -20977,7 +20977,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Garage', 'Water Tank', 'Water Well']"
+   "Amenities": ['Garage', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Sale Siddhartha Colony : House For Sale In Budhanilkantha, Kathmandu",
@@ -20997,7 +20997,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2500 Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Mulpani, Kathmandu",
@@ -21017,7 +21017,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Dhobighat, Lalitpur",
@@ -21037,7 +21037,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Basundhara, Kathmandu",
@@ -21057,7 +21057,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Rupakot, Kaski",
@@ -21077,7 +21077,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Ropani",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Dhapasi, Kathmandu",
@@ -21097,7 +21097,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Gym', 'Microwave', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine']"
+   "Amenities": ['Lawn', 'Garage', 'Air Condition', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Gym', 'Microwave', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine'],
  },
  {
    "Title": "House For Sale In Surkhet Bazar, Surkhet",
@@ -21117,7 +21117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Water Well', 'Parking']"
+   "Amenities": ['Balcony', 'TV Cable', 'Water Well', 'Parking'],
  },
  {
    "Title": "Land For Sale In Kageshwari-Manohara, Kathmandu",
@@ -21137,7 +21137,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Duwakot, Bhaktapur",
@@ -21157,7 +21157,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Saraswatikhel, Bhaktapur",
@@ -21177,7 +21177,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kapan, Kathmandu",
@@ -21197,7 +21197,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Chhauni, Kathmandu",
@@ -21217,7 +21217,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -21237,7 +21237,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "4 Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Garden']"
+   "Amenities": ['Garden'],
  },
  {
    "Title": "House For Sale In Kapan, Kathmandu",
@@ -21257,7 +21257,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "KAPURDHARA NEW HOME : House For Sale In Kapurdhara, Kathmandu",
@@ -21277,7 +21277,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Modular Kitchen', 'Water Supply', 'Solar Water', 'TV Cable', 'Drainage', 'Balcony']"
+   "Amenities": ['Modular Kitchen', 'Water Supply', 'Solar Water', 'TV Cable', 'Drainage', 'Balcony'],
  },
  {
    "Title": "House For Sale In Bharatpur, Chitwan",
@@ -21297,7 +21297,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Stay In The Green : Land For Sale In Baghdol, Lalitpur",
@@ -21317,7 +21317,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Imadol, Lalitpur",
@@ -21337,7 +21337,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Pepsicola, Kathmandu",
@@ -21357,7 +21357,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "0-4-1-0 Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Wifi', 'Water Supply', 'Internet', 'Parking']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Wifi', 'Water Supply', 'Internet', 'Parking'],
  },
  {
    "Title": "Flat For Rent In Kirtipur, Kirtipur",
@@ -21377,7 +21377,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dadikot, Bhaktapur",
@@ -21397,7 +21397,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Goldhunga, Kathmandu",
@@ -21417,7 +21417,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Chabahil, Kathmandu",
@@ -21437,7 +21437,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Hotel On Sale : Business For Sale In Devkota Chowk, Bhairahawa",
@@ -21457,7 +21457,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "10000 Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Lawn', 'Air Condition', 'Microwave', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'CCTV', 'Cafeteria', 'Electricity Backup', 'Internet', 'Maintenance']"
+   "Amenities": ['Lawn', 'Air Condition', 'Microwave', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'CCTV', 'Cafeteria', 'Electricity Backup', 'Internet', 'Maintenance'],
  },
  {
    "Title": "Land For Sale In Boudha, Kathmandu",
@@ -21477,7 +21477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Gothatar, Kathmandu",
@@ -21497,7 +21497,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Office Space For Rent In Gyaneshwor, Kathmandu",
@@ -21517,7 +21517,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Bharatpur, Chitwan",
@@ -21537,7 +21537,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Dhur",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Hattiban, Lalitpur",
@@ -21557,7 +21557,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "13 Anna Land On Sale At Balambu : Land For Sale In Balambu, Kathmandu",
@@ -21577,7 +21577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "0-4-2-3 Anna Land On Sale At Baad Bhanjyang : Land For Sale In Chandragiri, Kathmandu",
@@ -21597,7 +21597,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land On Sale At Gairidhara Kathmandu : Land For Sale In Gairidhara, Kathmandu",
@@ -21617,7 +21617,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Pathari, Morang",
@@ -21637,7 +21637,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land On Sale At Manbhawan Lalitpur : Land For Sale In Jawalakhel, Lalitpur",
@@ -21657,7 +21657,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Goldhunga, Kathmandu",
@@ -21677,7 +21677,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dhading, Dhading",
@@ -21697,7 +21697,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House On Sale At Dhobighat : House For Sale In Dhobighat, Lalitpur",
@@ -21717,7 +21717,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kadaghari, Kathmandu",
@@ -21737,7 +21737,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Garage', 'Fencing', 'Water Tank']"
+   "Amenities": ['Garage', 'Fencing', 'Water Tank'],
  },
  {
    "Title": "Flat For Rent In Lokanthali, Bhaktapur",
@@ -21757,7 +21757,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Rent In Pepsicola, Kathmandu",
@@ -21777,7 +21777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Pepsicola, Kathmandu",
@@ -21797,7 +21797,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -21817,7 +21817,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['TV Cable', 'Drainage', 'Water Supply', 'Water Well', 'Internet', 'Parking']"
+   "Amenities": ['TV Cable', 'Drainage', 'Water Supply', 'Water Well', 'Internet', 'Parking'],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -21837,7 +21837,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-3-0-0 Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Store Room', 'Parking', 'Water Well', 'Water Tank']"
+   "Amenities": ['Garage', 'Balcony', 'Store Room', 'Parking', 'Water Well', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Bhaisepati, Lalitpur",
@@ -21857,7 +21857,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Sitapaila, Kathmandu",
@@ -21877,7 +21877,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Naikap, Kathmandu",
@@ -21897,7 +21897,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Naikap, Kathmandu",
@@ -21917,7 +21917,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Sukedhara, Jyotinagar House For Sell : House For Sale In Budhanilkantha, Kathmandu",
@@ -21937,7 +21937,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "3 Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony']"
+   "Amenities": ['Balcony'],
  },
  {
    "Title": "Land For Sale In Sanepa, Lalitpur",
@@ -21957,7 +21957,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Sanepa, Lalitpur",
@@ -21977,7 +21977,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Sanepa, Lalitpur",
@@ -21997,7 +21997,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kadaghari, Kathmandu",
@@ -22017,7 +22017,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Shivam Guest House : Land For Sale In Buddha Bhumi Nagarpalika, Kapilvastu",
@@ -22037,7 +22037,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Gothatar, Kathmandu",
@@ -22057,7 +22057,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kadaghari, Kathmandu",
@@ -22077,7 +22077,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kapan, Kathmandu",
@@ -22097,7 +22097,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Bhaktapur, Bhaktapur",
@@ -22117,7 +22117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sitapaila, Kathmandu",
@@ -22137,7 +22137,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Tahachal, Kathmandu",
@@ -22157,7 +22157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3 Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Sanepa, Lalitpur",
@@ -22177,7 +22177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Balaju, Kathmandu",
@@ -22197,7 +22197,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -22217,7 +22217,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Biratnagar, Morang",
@@ -22237,7 +22237,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Office Space For Rent In Tinkune, Kathmandu",
@@ -22257,7 +22257,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Basundhara, Kathmandu",
@@ -22277,7 +22277,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Dhobighat, Lalitpur",
@@ -22297,7 +22297,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Sankhu, Kathmandu",
@@ -22317,7 +22317,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Boudha, Kathmandu",
@@ -22337,7 +22337,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale : Land For Sale In Chandragiri, Kathmandu",
@@ -22357,7 +22357,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale : Land For Sale In Chandragiri, Kathmandu",
@@ -22377,7 +22377,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Patan, Lalitpur",
@@ -22397,7 +22397,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Ropani",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Koteshwor, Kathmandu",
@@ -22417,7 +22417,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Ropani",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kapan, Kathmandu",
@@ -22437,7 +22437,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kapan, Kathmandu",
@@ -22457,7 +22457,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Naikap, Kathmandu",
@@ -22477,7 +22477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "House For Sale In Sukedhara Ektabasti : House For Sale In Budhanilkantha, Kathmandu",
@@ -22497,7 +22497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "3.5 Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony']"
+   "Amenities": ['Balcony'],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -22517,7 +22517,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -22537,7 +22537,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -22557,7 +22557,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Basantapur, Kathmandu",
@@ -22577,7 +22577,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -22597,7 +22597,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Tank', 'Parking']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Tank', 'Parking'],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -22617,7 +22617,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Parking']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Parking'],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -22637,7 +22637,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Internet', 'Parking']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Internet', 'Parking'],
  },
  {
    "Title": "House For Sale In Itahari, Sunsari",
@@ -22657,7 +22657,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Tokha, Kathmandu",
@@ -22677,7 +22677,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Baneshwor, Kathmandu",
@@ -22697,7 +22697,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "6 Aana Land Sale At Minbhawan : Land For Sale In Minbhawan, Kathmandu",
@@ -22717,7 +22717,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Shankhamul 12 Aana Land Sale : Land For Sale In Baneshwor, Kathmandu",
@@ -22737,7 +22737,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "12 Aana Land Dhobighat : Land For Sale In Dhobighat, Lalitpur",
@@ -22757,7 +22757,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Sanepa, Lalitpur",
@@ -22777,7 +22777,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Damak, Jhapa",
@@ -22797,7 +22797,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Dhur",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "48lak House Cheap : House For Sale In Sanepa, Lalitpur",
@@ -22817,7 +22817,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "540 Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "['Garden', 'Modular Kitchen', 'Wifi', 'Water Tank', 'Water Well', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground']"
+   "Amenities": ['Garden', 'Modular Kitchen', 'Wifi', 'Water Tank', 'Water Well', 'Water Supply', 'Electricity Backup', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Business For Sale In Hattigauda, Kathmandu",
@@ -22837,7 +22837,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Changunarayan, Bhaktapur",
@@ -22857,7 +22857,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dhapakhel, Lalitpur",
@@ -22877,7 +22877,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Pokhara, Pokhara",
@@ -22897,7 +22897,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Haat",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "13 Ropani Land For Sale @ Budhanilkantha : Land For Sale In Budhanilkantha, Kathmandu",
@@ -22917,7 +22917,7 @@ const listings = [
    "Road Type": " Alley",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Tikathali, Lalitpur",
@@ -22937,7 +22937,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Damak, Jhapa",
@@ -22957,7 +22957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House On Sale At Imadol : House For Sale In Baghdol, Lalitpur",
@@ -22977,7 +22977,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "710 Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "['Parking', 'Store Room', 'Frontyard', 'Parking', 'Balcony', 'Water Well', 'Water Tank', 'Store Room', 'Garden', 'Water Tank', 'Drainage', 'Garage', 'Frontyard', 'Modular Kitchen', 'Garden', 'Backyard', 'Water Well']"
+   "Amenities": ['Parking',, 'Store Room', 'Frontyard', 'Parking', 'Balcony', 'Water Well', 'Water Tank', 'Store Room', 'Garden', 'Water Tank', 'Drainage', 'Garage', 'Frontyard', 'Modular Kitchen', 'Garden', 'Backyard', 'Water Well'],
  },
  {
    "Title": "Modern House For Sale At Budhanilkantha : House For Sale In Budhanilkantha, Kathmandu",
@@ -22997,7 +22997,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Lawn', 'Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Parking', 'Store Room', 'Garage']"
+   "Amenities": ['Lawn', 'Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Parking', 'Store Room', 'Garage'],
  },
  {
    "Title": "House On Sale At Nakkhu : House For Sale In Nakkhu, Lalitpur",
@@ -23017,7 +23017,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "820 Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "['Garage', 'Drainage', 'TV Cable', 'Balcony', 'Store Room', 'Water Well', 'Frontyard', 'Parking', 'Internet', 'Water Tank', 'Garden', 'Modular Kitchen']"
+   "Amenities": ['Garage', 'Drainage', 'TV Cable', 'Balcony', 'Store Room', 'Water Well', 'Frontyard', 'Parking', 'Internet', 'Water Tank', 'Garden', 'Modular Kitchen'],
  },
  {
    "Title": "2.5 Stories Beautiful House In Dhobhighat : House For Sale In Dhobighat, Lalitpur",
@@ -23037,7 +23037,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Garden', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Kids Playground']"
+   "Amenities": ['Balcony', 'Fencing', 'Garden', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Kids Playground'],
  },
  {
    "Title": "Land For Sale In Suryabinayak, Bhaktapur",
@@ -23057,7 +23057,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Residential Land : Land For Sale In Hetauda, Makwanpur",
@@ -23077,7 +23077,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Dhur",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Commercial Land On Sale At Deep, Pokhara. : Land For Sale In Birendra Chowk, Pokhara",
@@ -23097,7 +23097,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Residential Land In Hetauda, Karra : Land For Sale In Hetauda, Makwanpur",
@@ -23117,7 +23117,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Dhur",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Residential Land In Swayambhu : Land For Sale In Swayambhu, Kathmandu",
@@ -23137,7 +23137,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "4 Aana, Mulpani, Residential Land, South Facing : Land For Sale In Mulpani, Kathmandu",
@@ -23157,7 +23157,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Sale 6 Katha (120 Dhur) Land Near Bhairahawa Airport : Land For Sale In Bhairahawa, Rupandehi",
@@ -23177,7 +23177,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Kattha",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -23197,7 +23197,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "2.6 Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Lawn', 'Backyard', 'Balcony', 'Garden', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Solar Water', 'Water Supply']"
+   "Amenities": ['Lawn', 'Backyard', 'Balcony', 'Garden', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Solar Water', 'Water Supply'],
  },
  {
    "Title": "House For Sale InKhusibun, Naya Bazar, Kathmandu",
@@ -23217,7 +23217,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House On Sale @ Very Low Price : House For Sale In Mulpani, Kathmandu",
@@ -23237,7 +23237,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "4 Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'Backyard', 'TV Cable', 'Water Supply', 'Solar Water', 'Water Well']"
+   "Amenities": ['Balcony', 'Backyard', 'TV Cable', 'Water Supply', 'Solar Water', 'Water Well'],
  },
  {
    "Title": "Budhanilkantha Hattigauda 20 Ana Bungalow : House For Sale In Hattigauda, Kathmandu",
@@ -23257,7 +23257,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Lawn', 'Backyard', 'Frontyard', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Modular Kitchen', 'Washing Machine', 'Microwave', 'Wifi']"
+   "Amenities": ['Garage', 'Balcony', 'Lawn', 'Backyard', 'Frontyard', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Modular Kitchen', 'Washing Machine', 'Microwave', 'Wifi'],
  },
  {
    "Title": "House For Sale In Manamaiju, Kathmandu",
@@ -23277,7 +23277,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2-1 Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Madhyapur Thimi, Bhaktapur",
@@ -23297,7 +23297,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Shuklagandaki, Tanahu",
@@ -23317,7 +23317,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Baneshwor, Kathmandu",
@@ -23337,7 +23337,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Baneshwor, Kathmandu",
@@ -23357,7 +23357,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Suryabinayak, Bhaktapur",
@@ -23377,7 +23377,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -23397,7 +23397,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Suryabinayak, Bhaktapur",
@@ -23417,7 +23417,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Maharajgunj, Kathmandu",
@@ -23437,7 +23437,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Chabahil, Kathmandu",
@@ -23457,7 +23457,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Pokhara, Pokhara",
@@ -23477,7 +23477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Beautiful Sweet Home Kapan Housing : House For Sale In Bhangal, Kathmandu",
@@ -23497,7 +23497,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "7 Ana Bungalow Bhangal Kapan : House For Sale In Bhangal, Kathmandu",
@@ -23517,7 +23517,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Garden', 'Balcony', 'Microwave', 'Lawn']"
+   "Amenities": ['Garden', 'Balcony', 'Microwave', 'Lawn'],
  },
  {
    "Title": "Flat For Rent In Lazimpat, Kathmandu",
@@ -23537,7 +23537,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "700 Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Beautiful (150m From Main Ringroad) Stunning, Magnificent Views, Prestigious Location : House For Sale In Basundhara, Kathmandu",
@@ -23557,7 +23557,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Backyard', 'Balcony', 'Frontyard', 'Garden', 'Drainage', 'Water Tank', 'Kids Playground', 'Parking', 'Security Staff', 'Store Room']"
+   "Amenities": ['Backyard', 'Balcony', 'Frontyard', 'Garden', 'Drainage', 'Water Tank', 'Kids Playground', 'Parking', 'Security Staff', 'Store Room'],
  },
  {
    "Title": "4 Story House/Building On Ring Road : House For Sale In Koteshwor, Kathmandu",
@@ -23577,7 +23577,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1.5 Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land : Land For Sale In Kalanki, Kathmandu",
@@ -23597,7 +23597,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1700 Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Urgent Restaurant On Sale : Business For Sale In Chabahil, Kathmandu",
@@ -23617,7 +23617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "4 Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Property For Rent : House For Rent In Suryabinayak, Bhaktapur",
@@ -23637,7 +23637,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2.75 Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Garage', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "BUDHANILKANTHA 32 ANA LUXURY HOME : House For Sale In Budhanilkantha, Kathmandu",
@@ -23657,7 +23657,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Garden', 'Frontyard', 'Garage', 'Fencing', 'Water Supply', 'Solar Water', 'TV Cable', 'Water Tank', 'Water Well', 'Washing Machine', 'Balcony', 'Backyard', 'Lawn', 'Microwave', 'Modular Kitchen']"
+   "Amenities": ['Garden', 'Frontyard', 'Garage', 'Fencing', 'Water Supply', 'Solar Water', 'TV Cable', 'Water Tank', 'Water Well', 'Washing Machine', 'Balcony', 'Backyard', 'Lawn', 'Microwave', 'Modular Kitchen'],
  },
  {
    "Title": "Land For Sale In Kausaltar, Bhaktapur",
@@ -23677,7 +23677,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "HATTIGAUDA 4.5 FLOOR HOME : House For Sale In Hattigauda, Kathmandu",
@@ -23697,7 +23697,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Garden', 'Frontyard', 'Wifi', 'Water Tank', 'Solar Water', 'TV Cable']"
+   "Amenities": ['Garden', 'Frontyard', 'Wifi', 'Water Tank', 'Solar Water', 'TV Cable'],
  },
  {
    "Title": "House For Sale In Kirtipur, Kirtipur",
@@ -23717,7 +23717,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Chapali Vangal House In Sell : House For Sale In Bhangal, Kathmandu",
@@ -23737,7 +23737,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "3 Aana",
    "Posted": "8 months ago",
-   "Amenities": "['Modular Kitchen']"
+   "Amenities": ['Modular Kitchen'],
  },
  {
    "Title": "House For Sale In Chabahil, Kathmandu",
@@ -23757,7 +23757,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Jorpati, Kathmandu",
@@ -23777,7 +23777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House At Sale At Panchakumai Marg, Kapan : House For Sale In Kapan, Kathmandu",
@@ -23797,7 +23797,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2 Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Samakhusi, Kathmandu",
@@ -23817,7 +23817,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kapan, Kathmandu",
@@ -23837,7 +23837,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "2.5 Storey House On Sale At Ramkot : House For Sale In Ramkot, Kathmandu",
@@ -23857,7 +23857,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Goldhunga, Kathmandu",
@@ -23877,7 +23877,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Pokhara, Pokhara",
@@ -23897,7 +23897,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land Sale : Land For Sale In Mulpani, Kathmandu",
@@ -23917,7 +23917,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Lekhnath, Pokhara",
@@ -23937,7 +23937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land On Sale : Land For Sale In Manamaiju, Kathmandu",
@@ -23957,7 +23957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "4 Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Goldhunga, Kathmandu",
@@ -23977,7 +23977,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Kalanki, Kathmandu",
@@ -23997,7 +23997,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Lekhnath, Pokhara",
@@ -24017,7 +24017,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "2.5 Storey House On Sale At Pachdhara Gairigau, Swoyambhu : House For Sale In Swayambhu, Kathmandu",
@@ -24037,7 +24037,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -24057,7 +24057,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Goldhunga, Kathmandu",
@@ -24077,7 +24077,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Bharatpur, Chitwan",
@@ -24097,7 +24097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Maharajgunj, Kathmandu",
@@ -24117,7 +24117,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Basundhara, Kathmandu",
@@ -24137,7 +24137,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Namobuddha, Kavre",
@@ -24157,7 +24157,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Tarkeshwor, Kathmandu",
@@ -24177,7 +24177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "A Bungalow For Rent At Comfort Housing, Thaiba : House For Rent In Thaiba, Lalitpur",
@@ -24197,7 +24197,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "1600 + Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "['Backyard', 'Balcony', 'Water Supply', 'Modular Kitchen']"
+   "Amenities": ['Backyard', 'Balcony', 'Water Supply', 'Modular Kitchen'],
  },
  {
    "Title": "Office Space : Office Space For Rent In Sankhamul, Kathmandu",
@@ -24217,7 +24217,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Greenland Home For Sale : House For Sale In Tokha, Kathmandu",
@@ -24237,7 +24237,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Villa 8 Ana : Land For Sale In Budhanilkantha, Kathmandu",
@@ -24257,7 +24257,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Baluwakhani 3.5 Ana Home : House For Sale In Budhanilkantha, Kathmandu",
@@ -24277,7 +24277,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kalopul, Kathmandu",
@@ -24297,7 +24297,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Baluwatar, Kathmandu",
@@ -24317,7 +24317,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Birgunj, Parsa",
@@ -24337,7 +24337,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "16000 Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "['Balcony']"
+   "Amenities": ['Balcony'],
  },
  {
    "Title": "Land For Sale In Kalanki, Kathmandu",
@@ -24357,7 +24357,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Naikap, Kathmandu",
@@ -24377,7 +24377,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "8 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "HOUSE FOR SALE : House For Sale In Basundhara, Kathmandu",
@@ -24397,7 +24397,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "3 Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Drainage', 'Water Supply', 'Water Tank', 'Store Room']"
+   "Amenities": ['Drainage', 'Water Supply', 'Water Tank', 'Store Room'],
  },
  {
    "Title": "House For Sale In Kadaghari, Kathmandu",
@@ -24417,7 +24417,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land On Sale At Brahmakhel : Land For Sale In Kageshwari-Manohara, Kathmandu",
@@ -24437,7 +24437,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Dhapasi House Sale : House For Sale In Dhapasi, Kathmandu",
@@ -24457,7 +24457,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Newroad, Kathmandu",
@@ -24477,7 +24477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Tinkune, Kathmandu",
@@ -24497,7 +24497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking'],
  },
  {
    "Title": "Land On Sale At Maharajgunj : Land For Sale In Maharajgunj, Kathmandu",
@@ -24517,7 +24517,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kadaghari, Kathmandu",
@@ -24537,7 +24537,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kadaghari, Kathmandu",
@@ -24557,7 +24557,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Jorpati, Kathmandu",
@@ -24577,7 +24577,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Itahari, Sunsari",
@@ -24597,7 +24597,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Rent : Office Space For Rent In Damak, Jhapa",
@@ -24617,7 +24617,7 @@ const listings = [
    "Road Type": " Alley",
    "Build Area": "0-0-16-0 Kattha",
    "Posted": "9 months ago",
-   "Amenities": "['TV Cable', 'Wifi']"
+   "Amenities": ['TV Cable', 'Wifi'],
  },
  {
    "Title": "House For Sale In Shantinagar, Kathmandu",
@@ -24637,7 +24637,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking'],
  },
  {
    "Title": "Land For Sale In Bajrabarahi, Makwanpur",
@@ -24657,7 +24657,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Commercial And Residential : Land For Sale In Gaurighat, Kathmandu",
@@ -24677,7 +24677,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "0-5-0-0 Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Greenhill City Jorpati Siva Chok Vitra : Land For Sale In Greenhill City, Mulpani, Kathmandu",
@@ -24697,7 +24697,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0 Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -24717,7 +24717,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Urgent Sale : Land For Sale In Sankhu, Kathmandu",
@@ -24737,7 +24737,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "0 Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kalimati, Kathmandu",
@@ -24757,7 +24757,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Wifi', 'Drainage', 'Water Tank', 'Water Well']"
+   "Amenities": ['Wifi', 'Drainage', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Sale In Balaju, Kathmandu",
@@ -24777,7 +24777,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking'],
  },
  {
    "Title": "Budhanilkantha House Sale : House For Sale In Pasikot, Kathmandu",
@@ -24797,7 +24797,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -24817,7 +24817,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking'],
  },
  {
    "Title": "Office Space For Rent In Naxal, Kathmandu",
@@ -24837,7 +24837,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -24857,7 +24857,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "For Sale : Land For Sale In Jorpati, Kathmandu",
@@ -24877,7 +24877,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0 Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale Near Kumaripati : House For Sale In Kumaripati, Lalitpur",
@@ -24897,7 +24897,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Lubhu, Lalitpur",
@@ -24917,7 +24917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Apartment For Sale : Apartment For Sale In Jhamsikhel, Lalitpur",
@@ -24937,7 +24937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Washing Machine', 'Wifi', 'Microwave', 'Balcony', 'Gym', 'Garden', 'TV Cable', 'Swimming Pool', 'Drainage']"
+   "Amenities": ['Washing Machine', 'Wifi', 'Microwave', 'Balcony', 'Gym', 'Garden', 'TV Cable', 'Swimming Pool', 'Drainage'],
  },
  {
    "Title": "New House : House For Sale In Ranipauwa, Pokhara",
@@ -24957,7 +24957,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "6.5 Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Garage', 'Backyard', 'Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Kids Playground', 'Parking', 'Store Room']"
+   "Amenities": ['Garage', 'Backyard', 'Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well', 'Electricity Backup', 'Kids Playground', 'Parking', 'Store Room'],
  },
  {
    "Title": "Land For Sale In Kirtipur, Kirtipur",
@@ -24977,7 +24977,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Chamati, Kathmandu",
@@ -24997,7 +24997,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Bhaisepati, Lalitpur",
@@ -25017,7 +25017,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Parking', 'Store Room'],
  },
  {
    "Title": "Land For Sale In Mulpani, Kathmandu",
@@ -25037,7 +25037,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Chandragiri, Kathmandu",
@@ -25057,7 +25057,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sukedhara, Kathmandu",
@@ -25077,7 +25077,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Internet', 'Parking', 'Store Room'],
  },
  {
    "Title": "Lubu Mahalaxmi Ko Jagga Bikrima : Land For Sale In Mahalaxmi Nagarpalika, Lalitpur",
@@ -25097,7 +25097,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "0-3-2 Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "जग्गा बिक्री मा : Land For Sale In Godawari, Lalitpur",
@@ -25117,7 +25117,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Thamel, Kathmandu",
@@ -25137,7 +25137,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Madhyapur Thimi, Bhaktapur",
@@ -25157,7 +25157,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Baneshwor, Kathmandu",
@@ -25177,7 +25177,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House On Sale Or For Rent In Kirtipur : House For Sale In Kirtipur, Kirtipur",
@@ -25197,7 +25197,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2548 Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Garden', 'Frontyard']"
+   "Amenities": ['Garden', 'Frontyard'],
  },
  {
    "Title": "House For Sale In Baneshwor, Kathmandu",
@@ -25217,7 +25217,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dharan, Dharan",
@@ -25237,7 +25237,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Patan, Lalitpur",
@@ -25257,7 +25257,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "0-1-0-0 Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Pokhara, Pokhara",
@@ -25277,7 +25277,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Bharatpur, Chitwan",
@@ -25297,7 +25297,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale : Land For Sale In Chabahil, Kathmandu",
@@ -25317,7 +25317,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Hattiban, Lalitpur",
@@ -25337,7 +25337,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Lubhu, Lalitpur",
@@ -25357,7 +25357,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Thali, Kathmandu",
@@ -25377,7 +25377,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Parking', 'Store Room'],
  },
  {
    "Title": "Flat For Rent In Bhaisepati, Lalitpur",
@@ -25397,7 +25397,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Baneshwor, Kathmandu",
@@ -25417,7 +25417,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "2.5 Storey House On Sale At Sano Mandir , Gurjudhara : House For Sale In Gurujudhara, Kathmandu",
@@ -25437,7 +25437,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Biratnagar, Morang",
@@ -25457,7 +25457,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Civil Homes House : House For Sale In Chandragiri, Kathmandu",
@@ -25477,7 +25477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Lawn', 'Balcony', 'Swimming Pool', 'Modular Kitchen']"
+   "Amenities": ['Lawn', 'Balcony', 'Swimming Pool', 'Modular Kitchen'],
  },
  {
    "Title": "Sanepa House Sale : House For Sale In Sanepa, Lalitpur",
@@ -25497,7 +25497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Kamaldi Land Sale : Land For Sale In Kamaladi, Kathmandu",
@@ -25517,7 +25517,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sukedhara, Kathmandu",
@@ -25537,7 +25537,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Parking']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Parking'],
  },
  {
    "Title": "House For Sale In Kirtipur, Kirtipur",
@@ -25557,7 +25557,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Pepsicola, Kathmandu",
@@ -25577,7 +25577,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "12 Anna 3 Paisa Highway Touched Land On Sale At Dhungeadda , Kalanki : Land For Sale In Kalanki, Kathmandu",
@@ -25597,7 +25597,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Kirtipur, Kirtipur",
@@ -25617,7 +25617,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dharan, Dharan",
@@ -25637,7 +25637,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Narayanpur, Chitwan",
@@ -25657,7 +25657,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dharan, Dharan",
@@ -25677,7 +25677,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Ploted Land On Sale At Harisiddi Near Cancer Hospital : Land For Sale In Harisiddhi, Lalitpur",
@@ -25697,7 +25697,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "4 Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Beautiful House On Rent At Sanepa : House For Rent In Sanepa, Lalitpur",
@@ -25717,7 +25717,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "8 Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'Garden', 'Water Supply', 'Parking']"
+   "Amenities": ['Balcony', 'Garden', 'Water Supply', 'Parking'],
  },
  {
    "Title": "Beautiful Square Land On Sale At Sanepa : Land For Sale In Sanepa, Lalitpur",
@@ -25737,7 +25737,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Kirtipur, Kirtipur",
@@ -25757,7 +25757,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Chandragiri, Kathmandu",
@@ -25777,7 +25777,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Chovar, Kathmandu",
@@ -25797,7 +25797,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Banasthali, Kathmandu",
@@ -25817,7 +25817,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Naranthan 2 Ropani Home : House For Sale In Budhanilkantha, Kathmandu",
@@ -25837,7 +25837,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -25857,7 +25857,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Lamatar, Lalitpur",
@@ -25877,7 +25877,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Lamatar, Lalitpur",
@@ -25897,7 +25897,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Pokhara, Pokhara",
@@ -25917,7 +25917,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land At The Heart Of The Ktm City ,2.08 Cr : Land For Sale In Tahachal, Kathmandu",
@@ -25937,7 +25937,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Baluwakhani Chok 4 Ana Home : House For Sale In Bhangal, Kathmandu",
@@ -25957,7 +25957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Baluwakhani Home : House For Sale In Bhangal, Kathmandu",
@@ -25977,7 +25977,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -25997,7 +25997,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1880 Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Drainage', 'Solar Water', 'Water Tank', 'Water Well', 'Parking', 'TV Cable', 'Balcony', 'Internet']"
+   "Amenities": ['Drainage', 'Solar Water', 'Water Tank', 'Water Well', 'Parking', 'TV Cable', 'Balcony', 'Internet'],
  },
  {
    "Title": "Land For Sale In Ekantakuna, Lalitpur",
@@ -26017,7 +26017,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land On Sale On Lagankhel, Lalitpur : Land For Sale In Lagankhel, Lalitpur",
@@ -26037,7 +26037,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Satungal, Kathmandu",
@@ -26057,7 +26057,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Kadaghari, Kathmandu",
@@ -26077,7 +26077,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Harisiddhi, Lalitpur",
@@ -26097,7 +26097,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Narephate, Kathmandu",
@@ -26117,7 +26117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Sanepa, Lalitpur",
@@ -26137,7 +26137,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Tokha, Kathmandu",
@@ -26157,7 +26157,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Parking', 'Store Room']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well', 'Parking', 'Store Room'],
  },
  {
    "Title": "House For Sale In Jorpati, Kathmandu",
@@ -26177,7 +26177,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -26197,7 +26197,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Nepaltar, Kathmandu",
@@ -26217,7 +26217,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Parking']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Tank', 'Water Well', 'Parking'],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -26237,7 +26237,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Harisiddhi, Lalitpur",
@@ -26257,7 +26257,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House On Sale At Dhungedhara : House For Sale In Dhungedhara, Kathmandu",
@@ -26277,7 +26277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Garden']"
+   "Amenities": ['Garden'],
  },
  {
    "Title": "House For Rent In Baneshwor, Kathmandu",
@@ -26297,7 +26297,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Pokhara, Pokhara",
@@ -26317,7 +26317,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Urgent Sale Dhulikhel Land : Land For Sale In Bhaktapur, Bhaktapur",
@@ -26337,7 +26337,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "भैंसेपाटीमा नयाँ घर बिक्रिमा !! 285 Lakh ( Negotiable ) : House For Sale In Bhaisepati, Lalitpur",
@@ -26357,7 +26357,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'Gym', 'Washing Machine', 'TV Cable', 'Modular Kitchen', 'Fencing', 'Frontyard']"
+   "Amenities": ['Balcony', 'Gym', 'Washing Machine', 'TV Cable', 'Modular Kitchen', 'Fencing', 'Frontyard'],
  },
  {
    "Title": "Urgent Sale Dhulikhel Land : Land For Sale In Bhaktapur, Bhaktapur",
@@ -26377,7 +26377,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "BUDHANILKANTHA VILLA LAND : Land For Sale In Budhanilkantha, Kathmandu",
@@ -26397,7 +26397,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "GOLFUTAR HEPLAI CLASSIC BUNGALOW : House For Sale In Budhanilkantha, Kathmandu",
@@ -26417,7 +26417,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Modular Kitchen', 'Microwave', 'TV Cable', 'Garden', 'Backyard', 'Frontyard', 'Balcony']"
+   "Amenities": ['Modular Kitchen', 'Microwave', 'TV Cable', 'Garden', 'Backyard', 'Frontyard', 'Balcony'],
  },
  {
    "Title": "Basundhra Choker 6 Ana Home : House For Sale In Basundhara, Kathmandu",
@@ -26437,7 +26437,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Modular Kitchen', 'TV Cable', 'Balcony']"
+   "Amenities": ['Modular Kitchen', 'TV Cable', 'Balcony'],
  },
  {
    "Title": "Hattigauda Chokaima 4 Ana Home : House For Sale In Hattigauda, Kathmandu",
@@ -26457,7 +26457,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Modular Kitchen', 'TV Cable']"
+   "Amenities": ['Modular Kitchen', 'TV Cable'],
  },
  {
    "Title": "Busundhara 8 Ana Modern Home : House For Sale In Basundhara, Kathmandu",
@@ -26477,7 +26477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Garden', 'TV Cable', 'Modular Kitchen', 'Microwave', 'Balcony', 'Backyard', 'Frontyard']"
+   "Amenities": ['Garden', 'TV Cable', 'Modular Kitchen', 'Microwave', 'Balcony', 'Backyard', 'Frontyard'],
  },
  {
    "Title": "Hattigauda 6.5 Ana Bungalow : House For Sale In Hattigauda, Kathmandu",
@@ -26497,7 +26497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Garden', 'Frontyard', 'Modular Kitchen', 'TV Cable']"
+   "Amenities": ['Garden', 'Frontyard', 'Modular Kitchen', 'TV Cable'],
  },
  {
    "Title": "House For Sale In Gaushala, Kathmandu",
@@ -26517,7 +26517,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Solar Water', 'Water Well', 'Parking', 'Store Room']"
+   "Amenities": ['Garage', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Solar Water', 'Water Well', 'Parking', 'Store Room'],
  },
  {
    "Title": "2.5 Floored House On Sale : House For Sale In Thasikhel, Lalitpur",
@@ -26537,7 +26537,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-4-1-2/139.11 Aana",
    "Posted": "9 months ago",
-   "Amenities": "['TV Cable', 'Balcony', 'Air Condition', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Solar Water']"
+   "Amenities": ['TV Cable', 'Balcony', 'Air Condition', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Solar Water'],
  },
  {
    "Title": "House For Sale In Baluwatar, Kathmandu",
@@ -26557,7 +26557,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking']"
+   "Amenities": ['Garage', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well', 'Parking'],
  },
  {
    "Title": "Business For Sale In Boudha, Kathmandu",
@@ -26577,7 +26577,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Plotting Land : Land For Sale In Nakhipot, Lalitpur",
@@ -26597,7 +26597,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Attractive Commercial Cum Residential Land At Prime Location Near Nirmal Niwas Maharajgunj For Sale : Land For Sale In Maharajgunj, Kathmandu",
@@ -26617,7 +26617,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-4-0-0 Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "MILAN CHOWK Land On Sale!! : Land For Sale In Mid Baneshwor, Kathmandu",
@@ -26637,7 +26637,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "MODERN HOUSE ON SALE!! : House For Sale In Jorpati, Kathmandu",
@@ -26657,7 +26657,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2700 Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Lawn', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Kids Playground']"
+   "Amenities": ['Lawn', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Kids Playground'],
  },
  {
    "Title": "House For Sale In Joranku, Kathmandu",
@@ -26677,7 +26677,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "0-2-4-6 Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Backyard', 'Frontyard', 'Balcony', 'Wifi', 'TV Cable', 'Water Supply']"
+   "Amenities": ['Backyard', 'Frontyard', 'Balcony', 'Wifi', 'TV Cable', 'Water Supply'],
  },
  {
    "Title": "Apartment For Rent : Apartment For Rent In Dhapasi, Kathmandu",
@@ -26697,7 +26697,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'Gym', 'Garden', 'Drainage', 'Water Supply', 'Modular Kitchen', 'Lawn', 'Swimming Pool', 'TV Cable']"
+   "Amenities": ['Balcony', 'Gym', 'Garden', 'Drainage', 'Water Supply', 'Modular Kitchen', 'Lawn', 'Swimming Pool', 'TV Cable'],
  },
  {
    "Title": "House For Rent In Baluwatar, Kathmandu",
@@ -26717,7 +26717,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Attractive Land For Sale : Land For Sale In Ratnanagar, Chitwan",
@@ -26737,7 +26737,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Tokha, Kathmandu",
@@ -26757,7 +26757,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Basundhara, Kathmandu",
@@ -26777,7 +26777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Goldhunga, Kathmandu",
@@ -26797,7 +26797,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sukedhara, Kathmandu",
@@ -26817,7 +26817,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Bhaktapur, Bhaktapur",
@@ -26837,7 +26837,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Boudha, Kathmandu",
@@ -26857,7 +26857,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Putalisadak, Kathmandu",
@@ -26877,7 +26877,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Chabahil, Kathmandu",
@@ -26897,7 +26897,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Sundhara, Kathmandu",
@@ -26917,7 +26917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Satdobato, Lalitpur",
@@ -26937,7 +26937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Jorpati, Kathmandu",
@@ -26957,7 +26957,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Newroad, Kathmandu",
@@ -26977,7 +26977,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Kirtipur, Kirtipur",
@@ -26997,7 +26997,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Gurujudhara, Kathmandu",
@@ -27017,7 +27017,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Dharan, Dharan",
@@ -27037,7 +27037,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Bafal, Kathmandu",
@@ -27057,7 +27057,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Bhalwari Ma Sasto Jagga Tu Bikrima : Land For Sale In Tilottama, Rupandehi",
@@ -27077,7 +27077,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Haat",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Pokhara, Pokhara",
@@ -27097,7 +27097,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Madhyapur Thimi, Bhaktapur",
@@ -27117,7 +27117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Bharatpur, Chitwan",
@@ -27137,7 +27137,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Sanepa, Lalitpur",
@@ -27157,7 +27157,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Sale In Dhapasi, Kathmandu",
@@ -27177,7 +27177,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Nepal Medicity Hospital Agadi 1kilo Mitar Vitra : House For Sale In Nakkhu, Lalitpur",
@@ -27197,7 +27197,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "1900 Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Garage', 'Water Supply', 'Solar Water', 'TV Cable', 'Balcony', 'Modular Kitchen', 'Water Tank']"
+   "Amenities": ['Garage', 'Water Supply', 'Solar Water', 'TV Cable', 'Balcony', 'Modular Kitchen', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Dhapasi, Kathmandu",
@@ -27217,7 +27217,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Jorpati, Kathmandu",
@@ -27237,7 +27237,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Baluwatar, Kathmandu",
@@ -27257,7 +27257,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Nepal Medicity Hospital Agadi 200 Mitar Vitra : House For Sale In Nakkhu, Lalitpur",
@@ -27277,7 +27277,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "2300 Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Garage', 'Water Supply', 'Solar Water']"
+   "Amenities": ['Garage', 'Water Supply', 'Solar Water'],
  },
  {
    "Title": "Land For Sale In Dhobighat, Lalitpur",
@@ -27297,7 +27297,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Kalanki Srijanachowk Jagga Tu Bikrima. : Land For Sale In Chandragiri, Kathmandu",
@@ -27317,7 +27317,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House : House For Sale In Kavresthali, Kathmandu",
@@ -27337,7 +27337,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "792 Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Backyard', 'Balcony', 'Fencing', 'Drainage', 'Water Supply', 'Modular Kitchen', 'Water Well', 'Water Tank', 'Solar Water', 'Washing Machine']"
+   "Amenities": ['Backyard', 'Balcony', 'Fencing', 'Drainage', 'Water Supply', 'Modular Kitchen', 'Water Well', 'Water Tank', 'Solar Water', 'Washing Machine'],
  },
  {
    "Title": "HOUSE FOR RENT : House For Rent In Godawari, Lalitpur",
@@ -27357,7 +27357,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "3300 Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Ghaderi Jagga : Land For Sale In Sipadol, Bhaktapur",
@@ -27377,7 +27377,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "4 Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "BUDANILKANTHA HOMES : House For Sale In Budhanilkantha, Kathmandu",
@@ -27397,7 +27397,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Modular Kitchen', 'Water Supply', 'Drainage', 'Wifi', 'Garage', 'Lawn', 'Balcony', 'Microwave']"
+   "Amenities": ['Modular Kitchen', 'Water Supply', 'Drainage', 'Wifi', 'Garage', 'Lawn', 'Balcony', 'Microwave'],
  },
  {
    "Title": "Land : Land For Sale In Lamatar, Lalitpur",
@@ -27417,7 +27417,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Modern House For Sale In Hetauda : House For Sale In Hetauda, Makwanpur",
@@ -27437,7 +27437,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "4.5 Dhur",
    "Posted": "9 months ago",
-   "Amenities": "['Backyard', 'Balcony']"
+   "Amenities": ['Backyard', 'Balcony'],
  },
  {
    "Title": "House For Sale In Sukedhara, Kathmandu",
@@ -27457,7 +27457,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "90.00 Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'Water Well', 'TV Cable', 'Wifi']"
+   "Amenities": ['Balcony', 'Water Well', 'TV Cable', 'Wifi'],
  },
  {
    "Title": "Land Sale At Lalitpur Kusunti.Ringroad : Land For Sale In Kusunti, Lalitpur",
@@ -27477,7 +27477,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Tikathaliko Ghar Bikrima : House For Sale In Tikathali, Lalitpur",
@@ -27497,7 +27497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2100 Ropani",
    "Posted": "9 months ago",
-   "Amenities": "['Water Supply']"
+   "Amenities": ['Water Supply'],
  },
  {
    "Title": "HOUSE FOR SALE IN CHITWAN : House For Sale In Bharatpur, Chitwan",
@@ -27517,7 +27517,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "10 Dhur",
    "Posted": "9 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Fencing', 'Wifi', 'Water Supply', 'TV Cable', 'Water Tank']"
+   "Amenities": ['Garage', 'Balcony', 'Fencing', 'Wifi', 'Water Supply', 'TV Cable', 'Water Tank'],
  },
  {
    "Title": "BUDHANILKANTHA COLONY : House For Sale In Budhanilkantha, Kathmandu",
@@ -27537,7 +27537,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "18000 Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Garage', 'Lawn', 'Balcony', 'Swimming Pool', 'Gym', 'Garden', 'Frontyard', 'Drainage', 'Wifi', 'Modular Kitchen', 'Water Supply']"
+   "Amenities": ['Garage', 'Lawn', 'Balcony', 'Swimming Pool', 'Gym', 'Garden', 'Frontyard', 'Drainage', 'Wifi', 'Modular Kitchen', 'Water Supply'],
  },
  {
    "Title": "Land For Sale In Butwal, Butwal",
@@ -27557,7 +27557,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Dhur",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Madhyapur Thimi, Bhaktapur",
@@ -27577,7 +27577,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -27597,7 +27597,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Lazimpat, Kathmandu",
@@ -27617,7 +27617,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -27637,7 +27637,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sukedhara, Kathmandu",
@@ -27657,7 +27657,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -27677,7 +27677,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "3 Aana Land At Dhapakhel, Lalitpur : Land For Sale In Dhapakhel, Lalitpur",
@@ -27697,7 +27697,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Kapan House For Sale.. : House For Sale In Kapan, Kathmandu",
@@ -27717,7 +27717,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3 Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Garage', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['Garage', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "Business For Rent In Baneshwor, Kathmandu",
@@ -27737,7 +27737,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "LAND ON RENT : Land For Rent In Pepsicola, Kathmandu",
@@ -27757,7 +27757,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Fikal, Illam",
@@ -27777,7 +27777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land Sale At Nawalparasi : Land For Sale In Kawasoti, Nawalparasi",
@@ -27797,7 +27797,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Kattha",
    "Posted": "9 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "भैंसेपाटी नक्खुमा Modern Bungalow बिक्रिमा !! 190 Lakh (Negotiable ) : House For Sale In Bhaisepati, Lalitpur",
@@ -27817,7 +27817,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "3 Aana",
    "Posted": "9 months ago",
-   "Amenities": "['Garage', 'Drainage', 'Frontyard', 'Balcony', 'Gym', 'Water Supply', 'Modular Kitchen', 'Fencing']"
+   "Amenities": ['Garage', 'Drainage', 'Frontyard', 'Balcony', 'Gym', 'Water Supply', 'Modular Kitchen', 'Fencing'],
  },
  {
    "Title": "Land For Sale In Dhapakhel, Lalitpur",
@@ -27837,7 +27837,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -27857,7 +27857,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Panipokhari, Kathmandu",
@@ -27877,7 +27877,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Durbar Marg, Kathmandu",
@@ -27897,7 +27897,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -27917,7 +27917,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Bhaisepati, Lalitpur",
@@ -27937,7 +27937,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sanepa, Lalitpur",
@@ -27957,7 +27957,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Dharan, Dharan",
@@ -27977,7 +27977,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Duwakot, Bhaktapur",
@@ -27997,7 +27997,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "OFFICE SPACE FOR RENT AT DAI COMPLEX : Office Space For Rent In Guheshwori, Kathmandu",
@@ -28017,7 +28017,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "42000 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Deck', 'Wifi', 'Drainage', 'Fencing', 'Water Supply', 'Air Condition']"
+   "Amenities": ['Deck', 'Wifi', 'Drainage', 'Fencing', 'Water Supply', 'Air Condition'],
  },
  {
    "Title": "House For Sale In Basundhara, Kathmandu",
@@ -28037,7 +28037,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -28057,7 +28057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Tripureshwor, Kathmandu",
@@ -28077,7 +28077,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Apartment For Rent In Lazimpat, Kathmandu",
@@ -28097,7 +28097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Hattigauda, Kathmandu",
@@ -28117,7 +28117,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -28137,7 +28137,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Changunarayan, Bhaktapur",
@@ -28157,7 +28157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Apartment For Rent In Jhamsikhel, Lalitpur",
@@ -28177,7 +28177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Air Condition', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Air Condition', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Dhapakhel House On Rent : House For Rent In Dhapakhel, Lalitpur",
@@ -28197,7 +28197,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Garage', 'Backyard', 'Lawn', 'Frontyard', 'Balcony', 'Garden', 'Microwave', 'Wifi', 'Drainage', 'Water Supply', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Garage', 'Backyard', 'Lawn', 'Frontyard', 'Balcony', 'Garden', 'Microwave', 'Wifi', 'Drainage', 'Water Supply', 'Modular Kitchen', 'TV Cable', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Boudha, Kathmandu",
@@ -28217,7 +28217,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land Sale On Gongabu, Tokha : Land For Sale In Tokha, Kathmandu",
@@ -28237,7 +28237,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Kupondole, Lalitpur",
@@ -28257,7 +28257,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Baluwatar, Kathmandu",
@@ -28277,7 +28277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Bhangal, Kathmandu",
@@ -28297,7 +28297,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Hattigauda, Kathmandu",
@@ -28317,7 +28317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Banasthali, Kathmandu",
@@ -28337,7 +28337,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3700 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Tripureshwor, Kathmandu",
@@ -28357,7 +28357,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "14582 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Land For Sale In Kupondole, Lalitpur",
@@ -28377,7 +28377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Garden', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Panauti, Kavre",
@@ -28397,7 +28397,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "2200 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Gongabu, Kathmandu",
@@ -28417,7 +28417,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "Land On Sell At Sallaghari : Land For Sale In Sallaghari, Bhaktapur",
@@ -28437,7 +28437,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "LAND ON SALE : Land For Sale In Mahankal, Kathmandu",
@@ -28457,7 +28457,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Fully Furnished Apartment : Apartment For Rent In Kuleshwor, Kathmandu",
@@ -28477,7 +28477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "850 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Solar Water', 'TV Cable', 'Drainage', 'Frontyard', 'Garage', 'Garden', 'Water Well', 'Water Supply', 'Balcony', 'Deck', 'Wifi', 'Water Tank', 'Modular Kitchen', 'Fencing', 'Lawn', 'Backyard']"
+   "Amenities": ['Solar Water', 'TV Cable', 'Drainage', 'Frontyard', 'Garage', 'Garden', 'Water Well', 'Water Supply', 'Balcony', 'Deck', 'Wifi', 'Water Tank', 'Modular Kitchen', 'Fencing', 'Lawn', 'Backyard'],
  },
  {
    "Title": "House At Sell : House For Sale In Budhanilkantha, Kathmandu",
@@ -28497,7 +28497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "3420 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Backyard', 'Balcony', 'Deck', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Backyard', 'Balcony', 'Deck', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Land Sale : Land For Sale In Madhyapur Thimi, Bhaktapur",
@@ -28517,7 +28517,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent : House For Rent In Baluwatar, Kathmandu",
@@ -28537,7 +28537,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "3600 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Frontyard', 'Garden', 'Water Supply', 'TV Cable', 'Solar Water', 'Water Well', 'Water Tank', 'Modular Kitchen', 'Drainage']"
+   "Amenities": ['Garage', 'Balcony', 'Frontyard', 'Garden', 'Water Supply', 'TV Cable', 'Solar Water', 'Water Well', 'Water Tank', 'Modular Kitchen', 'Drainage'],
  },
  {
    "Title": "Land For Sale In Baniyatar, Kathmandu",
@@ -28557,7 +28557,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Banasthali Home On Sale : House For Sale In Banasthali, Kathmandu",
@@ -28577,7 +28577,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "2250 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Garage', 'Backyard', 'Balcony', 'Garden', 'Microwave', 'Water Supply', 'Modular Kitchen', 'Water Well', 'Water Tank', 'Solar Water']"
+   "Amenities": ['Garage', 'Backyard', 'Balcony', 'Garden', 'Microwave', 'Water Supply', 'Modular Kitchen', 'Water Well', 'Water Tank', 'Solar Water'],
  },
  {
    "Title": "House For Sale In Tikathali, Lalitpur",
@@ -28597,7 +28597,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "0-2-2-0 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat Vada/ Flat Rent : Apartment For Rent In Kausaltar, Bhaktapur",
@@ -28617,7 +28617,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "12 Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Lawn', 'Frontyard', 'Garden', 'Wifi', 'Water Supply']"
+   "Amenities": ['Lawn', 'Frontyard', 'Garden', 'Wifi', 'Water Supply'],
  },
  {
    "Title": "Ghaderi : Land For Sale In Kalaiya, Bara",
@@ -28637,7 +28637,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "1 Storey House On Sale At Makalbari : House For Sale In Makalbari, Kathmandu",
@@ -28657,7 +28657,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "750 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Garage', 'Backyard', 'Deck', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Well']"
+   "Amenities": ['Garage', 'Backyard', 'Deck', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Well'],
  },
  {
    "Title": "House At Baluwakhani, Kapan : House For Sale In Kapan, Kathmandu",
@@ -28677,7 +28677,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "700 Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Deck', 'Fencing', 'Frontyard', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Well']"
+   "Amenities": ['Balcony', 'Deck', 'Fencing', 'Frontyard', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Well'],
  },
  {
    "Title": "2 Rooms At Kumaripati : Office Space For Rent In Kumaripati, Lalitpur",
@@ -28697,7 +28697,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Bafal Home On Sale. : House For Sale In Bafal, Kathmandu",
@@ -28717,7 +28717,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale : Land For Sale In Godawari, Lalitpur",
@@ -28737,7 +28737,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "0-8-0-0 Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Hattigauda, Kathmandu",
@@ -28757,7 +28757,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -28777,7 +28777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Patandokha, Lalitpur",
@@ -28797,7 +28797,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "2000 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Kuleshwor, Kathmandu",
@@ -28817,7 +28817,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Lawn', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Lawn', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Godawari, Lalitpur",
@@ -28837,7 +28837,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Naxal, Kathmandu",
@@ -28857,7 +28857,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Nakkhu, Lalitpur",
@@ -28877,7 +28877,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Bakhundol, Lalitpur",
@@ -28897,7 +28897,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Duwakot, Bhaktapur",
@@ -28917,7 +28917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Kupondole, Lalitpur",
@@ -28937,7 +28937,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Baluwatar, Kathmandu",
@@ -28957,7 +28957,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Sanepa, Lalitpur",
@@ -28977,7 +28977,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Pasikot, Kathmandu",
@@ -28997,7 +28997,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Bhaisepati, Lalitpur",
@@ -29017,7 +29017,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Chandragiri, Kathmandu",
@@ -29037,7 +29037,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Khumaltar, Lalitpur",
@@ -29057,7 +29057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Bhaisepati, Lalitpur",
@@ -29077,7 +29077,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "4000 Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Frontyard', 'Modular Kitchen', 'Drainage', 'Water Tank']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Frontyard', 'Modular Kitchen', 'Drainage', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Kalanki, Kathmandu",
@@ -29097,7 +29097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3400 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Bhaisepati, Lalitpur",
@@ -29117,7 +29117,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Business For Sale In Dallu, Kathmandu",
@@ -29137,7 +29137,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Sankhamul, Kathmandu",
@@ -29157,7 +29157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Kalanki, Kathmandu",
@@ -29177,7 +29177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Drainage', 'Water Supply']"
+   "Amenities": ['Drainage', 'Water Supply'],
  },
  {
    "Title": "House For Sale In Sitapaila, Kathmandu",
@@ -29197,7 +29197,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Sanepa, Lalitpur",
@@ -29217,7 +29217,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Tokha, Kathmandu",
@@ -29237,7 +29237,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Apartment For Rent In Panipokhari, Kathmandu",
@@ -29257,7 +29257,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "1385 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Flat For Rent In Budhanilkantha, Kathmandu",
@@ -29277,7 +29277,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Imadol, Lalitpur",
@@ -29297,7 +29297,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Hattisar, Kathmandu",
@@ -29317,7 +29317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Drainage', 'Water Supply']"
+   "Amenities": ['Drainage', 'Water Supply'],
  },
  {
    "Title": "Land For Sale In Hattiban, Lalitpur",
@@ -29337,7 +29337,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Jhamsikhel, Lalitpur",
@@ -29357,7 +29357,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "7076 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Jhamsikhel, Lalitpur",
@@ -29377,7 +29377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Boudha, Kathmandu",
@@ -29397,7 +29397,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land Sale In Biratnagar (Lakhantari-Vdc),Morang : Land For Sale In Bhaswar Marg, Biratnagar",
@@ -29417,7 +29417,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Bhaisepati, Lalitpur",
@@ -29437,7 +29437,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale At Civil Homes Phase 3 Sunakothi : House For Sale In Civil Homes, Lalitpur",
@@ -29457,7 +29457,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1785 sqft Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Lawn', 'Backyard', 'Balcony', 'Frontyard', 'Gym', 'Garden', 'Microwave', 'Wifi', 'Drainage', 'Water Supply', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Lawn', 'Backyard', 'Balcony', 'Frontyard', 'Gym', 'Garden', 'Microwave', 'Wifi', 'Drainage', 'Water Supply', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Dhumbarahi Bangalow : House For Sale In Dhumbarahi, Kathmandu",
@@ -29477,7 +29477,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "0-4-0-0 Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dadikot, Bhaktapur",
@@ -29497,7 +29497,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "2610 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Naghdaha, Lalitpur",
@@ -29517,7 +29517,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Thamel, Kathmandu",
@@ -29537,7 +29537,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Bhaisepati, Lalitpur",
@@ -29557,7 +29557,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Business For Sale In Mangal Bazar, Lalitpur",
@@ -29577,7 +29577,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Imadol, Lalitpur",
@@ -29597,7 +29597,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sitapaila, Kathmandu",
@@ -29617,7 +29617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Sukedhara, Kathmandu",
@@ -29637,7 +29637,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Basundhara, Kathmandu",
@@ -29657,7 +29657,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Tokha, Kathmandu",
@@ -29677,7 +29677,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['TV Cable', 'Water Supply', 'Water Tank']"
+   "Amenities": ['TV Cable', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Lazimpat, Kathmandu",
@@ -29697,7 +29697,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land Rent On Koteshwor : Land For Rent In Koteshwor, Kathmandu",
@@ -29717,7 +29717,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land Sale On Koteshwor : Land For Sale In Koteshwor, Kathmandu",
@@ -29737,7 +29737,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Biratnagar (Jhorahat)Commercial : Land For Sale In Bhaswar Marg, Biratnagar",
@@ -29757,7 +29757,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Chandol Bangalow : House For Sale In Chandol, Kathmandu",
@@ -29777,7 +29777,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "0-4-0-0 Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "House For Sale In Sukedhara, Kathmandu",
@@ -29797,7 +29797,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "2 Ropani Land For Sale At Dhulikhel : Land For Sale In Dhulikhel, Kavre",
@@ -29817,7 +29817,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In New Baneshwor : House For Sale In Baneshwor, Kathmandu",
@@ -29837,7 +29837,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "0-4-0-0 Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Frontyard', 'Fencing', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']"
+   "Amenities": ['Frontyard', 'Fencing', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "Land On Lease : Land For Lease In Kapan, Kathmandu",
@@ -29857,7 +29857,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "20 Haat Land On Sale Near Royal Palm Resort (Pokhara) : Land For Sale In Chauthe, Pokhara",
@@ -29877,7 +29877,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Haat",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "9.5 Aana Residential Land At Budhanilkantha : Land For Sale In Budhanilkantha, Kathmandu",
@@ -29897,7 +29897,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Maharajgunj, Kathmandu",
@@ -29917,7 +29917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Basundhara, Kathmandu",
@@ -29937,7 +29937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -29957,7 +29957,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Bhangal, Kathmandu",
@@ -29977,7 +29977,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "2856 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Water Tank', 'Solar Water', 'Washing Machine', 'TV Cable', 'Garage', 'Wifi', 'Water Supply', 'Modular Kitchen']"
+   "Amenities": ['Water Tank', 'Solar Water', 'Washing Machine', 'TV Cable', 'Garage', 'Wifi', 'Water Supply', 'Modular Kitchen'],
  },
  {
    "Title": "Semi Commercial : Office Space For Rent In Basundhara, Kathmandu",
@@ -29997,7 +29997,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-4-0 Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank']"
+   "Amenities": ['Garage', 'Balcony', 'Water Supply', 'Solar Water', 'Water Well', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Biratnagar (Kanchanbari) Ghaderi : Land For Sale In Bhaswar Marg, Biratnagar",
@@ -30017,7 +30017,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land Sale At Budhanilkantha : Land For Sale In Budhanilkantha, Kathmandu",
@@ -30037,7 +30037,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Residential Land : Land For Sale In Nagarjun, Kathmandu",
@@ -30057,7 +30057,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Jharuwarasi Santaneshwor : Land For Sale In Godawari, Lalitpur",
@@ -30077,7 +30077,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Sallaghari, Bhaktapur",
@@ -30097,7 +30097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Devdaha Municipality : Land For Sale In Tilottama, Rupandehi",
@@ -30117,7 +30117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Pasikot, Kathmandu",
@@ -30137,7 +30137,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Hattigauda, Kathmandu",
@@ -30157,7 +30157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Dharan, Dharan",
@@ -30177,7 +30177,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Dharan, Dharan",
@@ -30197,7 +30197,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Tarahara, Sunsari",
@@ -30217,7 +30217,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Dhur",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Kalanki, Kathmandu",
@@ -30237,7 +30237,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Lagankhel, Lalitpur",
@@ -30257,7 +30257,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Chovar, Kathmandu",
@@ -30277,7 +30277,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "घर र जग्गा बिक्रिमा : Land For Sale In Balkot, Bhaktapur",
@@ -30297,7 +30297,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Hattigauda, Kathmandu",
@@ -30317,7 +30317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "A Brand New 2.5 Storied Residential House For Rent : House For Rent In Chovar, Kathmandu",
@@ -30337,7 +30337,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "2100 Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Frontyard', 'Drainage', 'Water Supply']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Frontyard', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Land For Sale In Sallaghari, Bhaktapur",
@@ -30357,7 +30357,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Office Space For Rent In Kapan, Kathmandu",
@@ -30377,7 +30377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Office Space For Rent In Machha Pokhari, Kathmandu",
@@ -30397,7 +30397,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Garage', 'Balcony']"
+   "Amenities": ['Garage', 'Balcony'],
  },
  {
    "Title": "Land For Sale In Nawalparasi, Nawalparasi",
@@ -30417,7 +30417,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Satdobato, Lalitpur",
@@ -30437,7 +30437,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "Flat For Rent In Ranibari, Kathmandu",
@@ -30457,7 +30457,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "Land For Sale In Sanobharyang, Kathmandu",
@@ -30477,7 +30477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Nijghadh, Bara",
@@ -30497,7 +30497,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Kattha",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dhulikhel, Kavre",
@@ -30517,7 +30517,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "0-4-0-2 Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Water Well', 'TV Cable', 'Water Supply', 'Wifi', 'Garage', 'Balcony', 'Fencing', 'Garden']"
+   "Amenities": ['Water Well', 'TV Cable', 'Water Supply', 'Wifi', 'Garage', 'Balcony', 'Fencing', 'Garden'],
  },
  {
    "Title": "House For Sale In Pasikot, Kathmandu",
@@ -30537,7 +30537,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Garage', 'Wifi', 'Drainage', 'Water Well', 'Water Supply', 'Modular Kitchen', 'TV Cable']"
+   "Amenities": ['Garage', 'Wifi', 'Drainage', 'Water Well', 'Water Supply', 'Modular Kitchen', 'TV Cable'],
  },
  {
    "Title": "A Newly House Built In A Nice And Quiet Residential Area On Sale : House For Sale In Basbari, Kathmandu",
@@ -30557,7 +30557,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Lawn', 'Backyard', 'Balcony', 'Frontyard', 'Fencing', 'Garden', 'Drainage', 'Water Supply', 'Modular Kitchen', 'Air Condition', 'TV Cable', 'Washing Machine', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Lawn', 'Backyard', 'Balcony', 'Frontyard', 'Fencing', 'Garden', 'Drainage', 'Water Supply', 'Modular Kitchen', 'Air Condition', 'TV Cable', 'Washing Machine', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -30577,7 +30577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Business For Sale In Gwarko, Lalitpur",
@@ -30597,7 +30597,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Baluwatar, Kathmandu",
@@ -30617,7 +30617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Business For Sale In Kupondole, Lalitpur",
@@ -30637,7 +30637,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Wifi', 'Water Supply', 'Modular Kitchen']"
+   "Amenities": ['Wifi', 'Water Supply', 'Modular Kitchen'],
  },
  {
    "Title": "Land For Sale In Kavresthali, Kathmandu",
@@ -30657,7 +30657,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dallu : House For Sale In Dallu, Kathmandu",
@@ -30677,7 +30677,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Water Well', 'Water Tank', 'Solar Water']"
+   "Amenities": ['Balcony', 'Water Well', 'Water Tank', 'Solar Water'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -30697,7 +30697,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Golfutar, Kathmandu",
@@ -30717,7 +30717,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Chapali, Kathmandu",
@@ -30737,7 +30737,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Chapali, Kathmandu",
@@ -30757,7 +30757,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "DT : Office Space For Rent In Jawalakhel, Lalitpur",
@@ -30777,7 +30777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "5 Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kalanki, Kathmandu",
@@ -30797,7 +30797,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Ropani",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Bungmati : Land For Sale In Bhaisepati, Lalitpur",
@@ -30817,7 +30817,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House At Lazimpat : House For Rent In Lazimpat, Kathmandu",
@@ -30837,7 +30837,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "About 4000 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Garden', 'Water Supply', 'TV Cable', 'Water Well', 'Lawn', 'Frontyard', 'Fencing', 'Wifi', 'Backyard', 'Modular Kitchen', 'Solar Water', 'Deck', 'Drainage', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Water Supply', 'TV Cable', 'Water Well', 'Lawn', 'Frontyard', 'Fencing', 'Wifi', 'Backyard', 'Modular Kitchen', 'Solar Water', 'Deck', 'Drainage', 'Water Tank'],
  },
  {
    "Title": "Near Kohinoor Housing : Land For Sale In Bafal, Kathmandu",
@@ -30857,7 +30857,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "373 Pachali Marg : Land For Sale In Teku, Kathmandu",
@@ -30877,7 +30877,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0-4-2-3 Ropani",
    "Posted": "10 months ago",
-   "Amenities": "['Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Business For Sale In Baneshwor, Kathmandu",
@@ -30897,7 +30897,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -30917,7 +30917,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Mandikatar, Kathmandu",
@@ -30937,7 +30937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Dhangadhi, Kailali",
@@ -30957,7 +30957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Balaju Tenpepale : Land For Sale In Balaju, Kathmandu",
@@ -30977,7 +30977,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "5-0-0-0 Ropani",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Under Construction Bungalow : House For Sale In Budhanilkantha, Kathmandu",
@@ -30997,7 +30997,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Modular Kitchen', 'Solar Water', 'TV Cable', 'Water Tank', 'Frontyard', 'Fencing', 'Water Supply', 'Balcony']"
+   "Amenities": ['Modular Kitchen', 'Solar Water', 'TV Cable', 'Water Tank', 'Frontyard', 'Fencing', 'Water Supply', 'Balcony'],
  },
  {
    "Title": "Land For Sale In Dhapasi, Kathmandu",
@@ -31017,7 +31017,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Balkot 4 Anna 2 Paisa 1 Daam : Land For Sale In Balkot, Bhaktapur",
@@ -31037,7 +31037,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "0-4-2-1 Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Commercial Building : House For Sale In Gatthaghar, Bhaktapur",
@@ -31057,7 +31057,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "7500 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Solar Water', 'Water Well', 'Wifi', 'Water Tank', 'Modular Kitchen', 'Water Supply', 'TV Cable', 'Drainage']"
+   "Amenities": ['Garage', 'Balcony', 'Solar Water', 'Water Well', 'Wifi', 'Water Tank', 'Modular Kitchen', 'Water Supply', 'TV Cable', 'Drainage'],
  },
  {
    "Title": "House For Sale In Basundhara, Kathmandu",
@@ -31077,7 +31077,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "New House : House For Sale In Mahendrapul, Pokhara",
@@ -31097,7 +31097,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "6.5 Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Garage', 'Garden', 'Wifi', 'Water Supply', 'TV Cable', 'Solar Water', 'Water Well', 'Water Tank', 'Washing Machine', 'Balcony', 'Fencing', 'Backyard', 'Gym', 'Frontyard', 'Modular Kitchen']"
+   "Amenities": ['Garage', 'Garden', 'Wifi', 'Water Supply', 'TV Cable', 'Solar Water', 'Water Well', 'Water Tank', 'Washing Machine', 'Balcony', 'Fencing', 'Backyard', 'Gym', 'Frontyard', 'Modular Kitchen'],
  },
  {
    "Title": "Swarsati Kunj : House For Sale In Balkhu, Kathmandu",
@@ -31117,7 +31117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "750 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Wifi', 'Fencing', 'Drainage', 'Solar Water', 'Washing Machine', 'Garden', 'Water Supply', 'TV Cable', 'Water Tank']"
+   "Amenities": ['Balcony', 'Wifi', 'Fencing', 'Drainage', 'Solar Water', 'Washing Machine', 'Garden', 'Water Supply', 'TV Cable', 'Water Tank'],
  },
  {
    "Title": "Badhikhel Lalitpurma 6 Roppani 8 Aana Jagga Bikrima Total Price 4 Crore : Land For Sale In Godawari, Lalitpur",
@@ -31137,7 +31137,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Pokhara, Pokhara",
@@ -31157,7 +31157,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "8-2-0-0 Ropani",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "PD1-101, A Apartments : Flat For Rent In Patandokha, Lalitpur",
@@ -31177,7 +31177,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Water Supply', 'Microwave', 'Washing Machine', 'Wifi', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Water Supply', 'Microwave', 'Washing Machine', 'Wifi', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Basundhara, Kathmandu",
@@ -31197,7 +31197,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Tokha, Kathmandu",
@@ -31217,7 +31217,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Samakhusi, Kathmandu",
@@ -31237,7 +31237,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Jagati, Bhaktapur",
@@ -31257,7 +31257,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "BaSu Home : Office Space For Rent In Jhamsikhel, Lalitpur",
@@ -31277,7 +31277,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "1735 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Fencing', 'Backyard', 'Deck', 'Drainage', 'Water Supply', 'Water Well', 'Water Tank']"
+   "Amenities": ['Fencing', 'Backyard', 'Deck', 'Drainage', 'Water Supply', 'Water Well', 'Water Tank'],
  },
  {
    "Title": "Business For Sale In Pulchowk, Lalitpur",
@@ -31297,7 +31297,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dhapasi, Kathmandu",
@@ -31317,7 +31317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Lekhnath, Pokhara",
@@ -31337,7 +31337,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Frontyard', 'Fencing', 'Garden']"
+   "Amenities": ['Frontyard', 'Fencing', 'Garden'],
  },
  {
    "Title": "House For Sale In Hadigaun, Kathmandu",
@@ -31357,7 +31357,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Chundevi, Kathmandu",
@@ -31377,7 +31377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Baluwatar, Kathmandu",
@@ -31397,7 +31397,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Radha Bhawan : Office Space For Sale In Tripureshwor, Kathmandu",
@@ -31417,7 +31417,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "1850 Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Water Supply', 'Parking', 'Drainage', 'Solar Water', 'Water Well', 'CCTV', 'Lift', 'Electricity Backup']"
+   "Amenities": ['Water Supply', 'Parking', 'Drainage', 'Solar Water', 'Water Well', 'CCTV', 'Lift', 'Electricity Backup'],
  },
  {
    "Title": "Thapa Niwas : House For Sale In Goldhunga, Kathmandu",
@@ -31437,7 +31437,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "1018 Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Gongabu, Kathmandu",
@@ -31457,7 +31457,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kapan, Kathmandu",
@@ -31477,7 +31477,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Chhauni, Kathmandu",
@@ -31497,7 +31497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Maharajgunj, Kathmandu",
@@ -31517,7 +31517,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Baniyatar, Kathmandu",
@@ -31537,7 +31537,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Tokha, Kathmandu",
@@ -31557,7 +31557,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -31577,7 +31577,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Khusibu, Kathmandu",
@@ -31597,7 +31597,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Hattigauda, Kathmandu",
@@ -31617,7 +31617,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Hattigauda, Kathmandu",
@@ -31637,7 +31637,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Dadikot, Bhaktapur",
@@ -31657,7 +31657,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Mulpani, Kathmandu",
@@ -31677,7 +31677,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Tokha, Kathmandu",
@@ -31697,7 +31697,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "5 Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Garage', 'Backyard', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Swimming Pool', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Garage', 'Backyard', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Swimming Pool', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale : House For Sale In Bhaktapur, Bhaktapur",
@@ -31717,7 +31717,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "0-3-0-0 Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "Durbarmarg Next To Annapurna Cake Shop : House For Sale In Durbar Marg, Kathmandu",
@@ -31737,7 +31737,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "4 Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Itahari, Sunsari",
@@ -31757,7 +31757,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "10 months ago",
-   "Amenities": "['TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Chandol Kanchan Housing : Land For Sale In Chandol, Kathmandu",
@@ -31777,7 +31777,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1-4-0-0 Aana",
    "Posted": "10 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Chandol House : House For Sale In Chandol, Kathmandu",
@@ -31797,7 +31797,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "0-3-2-0 Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Garage', 'Garden', 'Water Supply', 'TV Cable', 'Solar Water', 'Water Tank', 'Modular Kitchen']"
+   "Amenities": ['Garage', 'Garden', 'Water Supply', 'TV Cable', 'Solar Water', 'Water Tank', 'Modular Kitchen'],
  },
  {
    "Title": "Bansbari Mainroad : House For Sale In Maharajgunj, Kathmandu",
@@ -31817,7 +31817,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "0-8-0-0 Aana",
    "Posted": "10 months ago",
-   "Amenities": "['Water Supply']"
+   "Amenities": ['Water Supply'],
  },
  {
    "Title": "Land : Land For Sale In Bhaisepati, Lalitpur",
@@ -31837,7 +31837,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Chitwanma Sasto Ghaderi : Land For Sale In Chitrawan, Chitwan",
@@ -31857,7 +31857,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Dhur",
    "Posted": "11 months ago",
-   "Amenities": "['Wifi', 'Water Supply', 'TV Cable']"
+   "Amenities": ['Wifi', 'Water Supply', 'TV Cable'],
  },
  {
    "Title": "Land For Sale In Baluwatar, Kathmandu",
@@ -31877,7 +31877,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale : Land For Sale In Taadi, Chitwan",
@@ -31897,7 +31897,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Bharatpur, Chitwan",
@@ -31917,7 +31917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "10 Dhur",
    "Posted": "11 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Fencing', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Garage', 'Balcony', 'Fencing', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Baluwatar, Kathmandu",
@@ -31937,7 +31937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Baniyatar, Kathmandu",
@@ -31957,7 +31957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Jorpati, Kathmandu",
@@ -31977,7 +31977,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Baniyatar, Kathmandu",
@@ -31997,7 +31997,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Nakkhu, Lalitpur",
@@ -32017,7 +32017,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Thasikhel, Lalitpur",
@@ -32037,7 +32037,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "4 Aana",
    "Posted": "11 months ago",
-   "Amenities": "['Water Supply', 'Balcony', 'Water Well', 'Fencing', 'TV Cable', 'Wifi', 'Drainage']"
+   "Amenities": ['Water Supply', 'Balcony', 'Water Well', 'Fencing', 'TV Cable', 'Wifi', 'Drainage'],
  },
  {
    "Title": "Land : Land For Sale In Lekhnath, Pokhara",
@@ -32057,7 +32057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "5.2.2 Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dhapasi, Kathmandu",
@@ -32077,7 +32077,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "0-3-0-0 Aana",
    "Posted": "11 months ago",
-   "Amenities": "['Backyard', 'Water Supply', 'Drainage', 'Garden', 'Fencing', 'Water Well']"
+   "Amenities": ['Backyard', 'Water Supply', 'Drainage', 'Garden', 'Fencing', 'Water Well'],
  },
  {
    "Title": "Flat For Rent In Sankhamul, Kathmandu",
@@ -32097,7 +32097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Attractive Land In Kirtipur : Land For Sale In Kirtipur, Kirtipur",
@@ -32117,7 +32117,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "28 Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -32137,7 +32137,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Prachanda Chitrakar : Hostel For Rent In Ason, Kathmandu",
@@ -32157,7 +32157,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "5500 Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Drainage', 'Water Supply']"
+   "Amenities": ['Drainage', 'Water Supply'],
  },
  {
    "Title": "Land For Sale In Gokarneshwor, Kathmandu",
@@ -32177,7 +32177,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Lubhu, Lalitpur",
@@ -32197,7 +32197,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Hadigaun, Kathmandu",
@@ -32217,7 +32217,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Sukedhara, Kathmandu",
@@ -32237,7 +32237,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Hattigauda, Kathmandu",
@@ -32257,7 +32257,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sukedhara, Kathmandu",
@@ -32277,7 +32277,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land : Land For Sale In Joranku, Kathmandu",
@@ -32297,7 +32297,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "6 Aana 4 Kune Plating Jagga : Land For Sale In Lalitpur, Lalitpur",
@@ -32317,7 +32317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "0-6-0-0 Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Tokha, Kathmandu",
@@ -32337,7 +32337,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Business For Sale In Pepsicola, Kathmandu",
@@ -32357,7 +32357,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Satungal, Kathmandu",
@@ -32377,7 +32377,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Kapan, Kathmandu",
@@ -32397,7 +32397,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Budhanilkantha, Kathmandu",
@@ -32417,7 +32417,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "2 Commerical House Sale In Naxal : House For Sale In Naxal, Kathmandu",
@@ -32437,7 +32437,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "4000 Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Garage', 'Garden', 'Water Supply', 'TV Cable', 'Water Well', 'Drainage', 'Water Tank']"
+   "Amenities": ['Garage', 'Garden', 'Water Supply', 'TV Cable', 'Water Well', 'Drainage', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -32457,7 +32457,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Flat For Rent In Hattiban, Lalitpur",
@@ -32477,7 +32477,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Suryabinayak, Bhaktapur",
@@ -32497,7 +32497,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Kalimati, Kathmandu",
@@ -32517,7 +32517,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Tokha, Kathmandu",
@@ -32537,7 +32537,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Tahachal, Kathmandu",
@@ -32557,7 +32557,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "3.5 Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Bafal Kohinoor Housing Colony : House For Sale In Kalimati, Kathmandu",
@@ -32577,7 +32577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sukedhara, Kathmandu",
@@ -32597,7 +32597,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Thapathali, Kathmandu",
@@ -32617,7 +32617,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Basundhara, Kathmandu",
@@ -32637,7 +32637,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Bhaisepati, Lalitpur",
@@ -32657,7 +32657,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Hattigauda, Kathmandu",
@@ -32677,7 +32677,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Golfutar, Kathmandu",
@@ -32697,7 +32697,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Basundhara, Kathmandu",
@@ -32717,7 +32717,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Hattigauda, Kathmandu",
@@ -32737,7 +32737,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Nagdhunga, Kathmandu",
@@ -32757,7 +32757,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Dakshinkali, Kathmandu",
@@ -32777,7 +32777,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sitapaila, Kathmandu",
@@ -32797,7 +32797,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Thankot, Kathmandu",
@@ -32817,7 +32817,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Chabahil, Kathmandu",
@@ -32837,7 +32837,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3.5 Aana",
    "Posted": "11 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Fencing', 'Garden', 'Drainage', 'Water Supply', 'TV Cable', 'Water Tank']"
+   "Amenities": ['Garage', 'Balcony', 'Fencing', 'Garden', 'Drainage', 'Water Supply', 'TV Cable', 'Water Tank'],
  },
  {
    "Title": "Flat For Rent In Sanepa, Lalitpur",
@@ -32857,7 +32857,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "11 months ago",
-   "Amenities": "['Water Supply']"
+   "Amenities": ['Water Supply'],
  },
  {
    "Title": "Darkroom : Business For Sale In Kupondole, Lalitpur",
@@ -32877,7 +32877,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "1000 Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Syuchatar, Kathmandu",
@@ -32897,7 +32897,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Business For Sale In Machha Pokhari, Kathmandu",
@@ -32917,7 +32917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Goldhunga, Kathmandu",
@@ -32937,7 +32937,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Swayambhu, Kathmandu",
@@ -32957,7 +32957,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land : Land For Sale In Dakshinkali, Kathmandu",
@@ -32977,7 +32977,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "11 months ago",
-   "Amenities": "['Water Supply']"
+   "Amenities": ['Water Supply'],
  },
  {
    "Title": "House : House For Sale In Kadaghari, Kathmandu",
@@ -32997,7 +32997,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "3 Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "2BHK Flat : Flat For Rent In Mulpani, Kathmandu",
@@ -33017,7 +33017,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Devi Bhandari : House For Sale In Samakhusi, Kathmandu",
@@ -33037,7 +33037,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "0-2-0-2 Aana",
    "Posted": "11 months ago",
-   "Amenities": "['Water Well', 'Water Tank', 'Water Supply', 'Drainage']"
+   "Amenities": ['Water Well', 'Water Tank', 'Water Supply', 'Drainage'],
  },
  {
    "Title": "Land For Sale In Sankhamul, Kathmandu",
@@ -33057,7 +33057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House On Sale : House For Sale In Maharajgunj, Kathmandu",
@@ -33077,7 +33077,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "6 Aana",
    "Posted": "11 months ago",
-   "Amenities": "['Lawn', 'Backyard', 'Balcony', 'Garden', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Lawn', 'Backyard', 'Balcony', 'Garden', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Chitwan Ghaderi : Land For Sale In Bharatpur, Chitwan",
@@ -33097,7 +33097,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "1 Kattha",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Gatthaghar, Bhaktapur",
@@ -33117,7 +33117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -33137,7 +33137,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Jorpati, Kathmandu",
@@ -33157,7 +33157,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Koteshwor, Kathmandu",
@@ -33177,7 +33177,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land On Sale At Budhanilkantha : Land For Sale In Budhanilkantha, Kathmandu",
@@ -33197,7 +33197,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land At Jyotinagar : Land For Sale In Budhanilkantha, Kathmandu",
@@ -33217,7 +33217,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Italian/Coffee Shop/Fire Wooden Pizza/Barista Academy : Business For Sale In Kumaripati, Lalitpur",
@@ -33237,7 +33237,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "11 months ago",
-   "Amenities": "['Water Supply', 'Balcony', 'TV Cable', 'Frontyard', 'Wifi', 'Gym', 'Water Tank', 'Modular Kitchen']"
+   "Amenities": ['Water Supply', 'Balcony', 'TV Cable', 'Frontyard', 'Wifi', 'Gym', 'Water Tank', 'Modular Kitchen'],
  },
  {
    "Title": "Land For Sale In Thecho, Lalitpur",
@@ -33257,7 +33257,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Samakhusi, Kathmandu",
@@ -33277,7 +33277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Sitapila : Land For Sale In Sitapaila, Kathmandu",
@@ -33297,7 +33297,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "2738 Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Lazimpat, Kathmandu",
@@ -33317,7 +33317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "New Ghar Bikarima Kapan Ekatabasti : House For Sale In Budhanilkantha, Kathmandu",
@@ -33337,7 +33337,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "3.1 Aana",
    "Posted": "11 months ago",
-   "Amenities": "['Water Supply', 'Garden', 'Modular Kitchen', 'TV Cable', 'Water Tank']"
+   "Amenities": ['Water Supply', 'Garden', 'Modular Kitchen', 'TV Cable', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Manamaiju, Kathmandu",
@@ -33357,7 +33357,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Gongabu, Kathmandu",
@@ -33377,7 +33377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Gongabu, Kathmandu",
@@ -33397,7 +33397,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dhungedhara, Kathmandu",
@@ -33417,7 +33417,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Chandol, Kathmandu",
@@ -33437,7 +33437,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Drainage', 'Water Tank']"
+   "Amenities": ['Drainage', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Kapan, Kathmandu",
@@ -33457,7 +33457,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -33477,7 +33477,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Fulbari, Pokhara",
@@ -33497,7 +33497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Hotel Rupa Begnas Lake Inn : House For Sale In Lekhnath, Pokhara",
@@ -33517,7 +33517,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "0-2-3-0 Aana",
    "Posted": "11 months ago",
-   "Amenities": "['Garage', 'Backyard', 'Balcony', 'Frontyard', 'Garden', 'Microwave', 'TV Cable', 'Washing Machine', 'Wifi', 'Water Supply', 'Solar Water']"
+   "Amenities": ['Garage', 'Backyard', 'Balcony', 'Frontyard', 'Garden', 'Microwave', 'TV Cable', 'Washing Machine', 'Wifi', 'Water Supply', 'Solar Water'],
  },
  {
    "Title": "Land For Sale In Balaju, Kathmandu",
@@ -33537,7 +33537,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Jorpati, Kathmandu",
@@ -33557,7 +33557,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['Balcony', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "Beautiful Land Sale On Radhe Radhe Bhaktapur : Land For Sale In Bhaktapur, Bhaktapur",
@@ -33577,7 +33577,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Bharatpur, Chitwan",
@@ -33597,7 +33597,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Kattha",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Gokarneshwor, Kathmandu",
@@ -33617,7 +33617,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Gokarneshwor, Kathmandu",
@@ -33637,7 +33637,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Nakhipot, Lalitpur",
@@ -33657,7 +33657,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Jorpati, Kathmandu",
@@ -33677,7 +33677,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Jorpati, Kathmandu",
@@ -33697,7 +33697,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Under Construction House On Sale : House For Sale In Budhanilkantha, Kathmandu",
@@ -33717,7 +33717,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Garage', 'Backyard', 'Fencing', 'Frontyard', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply']"
+   "Amenities": ['Garage', 'Backyard', 'Fencing', 'Frontyard', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Land For Sale In Thali, Kathmandu",
@@ -33737,7 +33737,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Balkhu, Kathmandu",
@@ -33757,7 +33757,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "1650 Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Jorpati, Kathmandu",
@@ -33777,7 +33777,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -33797,7 +33797,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Tokha, Kathmandu",
@@ -33817,7 +33817,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Lele, Lalitpur",
@@ -33837,7 +33837,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Newly Constructed House : House For Sale In Budhanilkantha, Kathmandu",
@@ -33857,7 +33857,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well']"
+   "Amenities": ['Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well'],
  },
  {
    "Title": "Mountain Property : Land For Sale In Kamalpokhari, Pokhara",
@@ -33877,7 +33877,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Pragati Nagar : Land For Sale In Chauthe, Pokhara",
@@ -33897,7 +33897,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land Near Prithivi Highway : Land For Sale In Chauthe, Pokhara",
@@ -33917,7 +33917,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "22 Aana Land For Sale Near Iceland Hotel Pokhara : Land For Sale In Dhampus, Kaski",
@@ -33937,7 +33937,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Aana",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "DeepLila Sadan : House For Sale In Dhapakhel, Lalitpur",
@@ -33957,7 +33957,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Aana",
    "Posted": "11 months ago",
-   "Amenities": "['Garage', 'Balcony', 'Garden', 'Water Supply', 'Water Well', 'Microwave', 'Water Tank', 'Solar Water', 'Fencing', 'Backyard', 'Frontyard', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage']"
+   "Amenities": ['Garage', 'Balcony', 'Garden', 'Water Supply', 'Water Well', 'Microwave', 'Water Tank', 'Solar Water', 'Fencing', 'Backyard', 'Frontyard', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage'],
  },
  {
    "Title": "Office Space For Rent In Kupondole, Lalitpur",
@@ -33977,7 +33977,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "650 Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Drainage', 'Water Supply']"
+   "Amenities": ['Drainage', 'Water Supply'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -33997,7 +33997,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Thaiba, Lalitpur",
@@ -34017,7 +34017,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Hetauda, Makwanpur",
@@ -34037,7 +34037,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Dhur",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Chandragiri, Kathmandu",
@@ -34057,7 +34057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dhapasi, Kathmandu",
@@ -34077,7 +34077,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -34097,7 +34097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -34117,7 +34117,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "11 months ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Nagarkot, Bhaktapur",
@@ -34137,7 +34137,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Budhanilkantha, Kathmandu",
@@ -34157,7 +34157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Mandikatar, Kathmandu",
@@ -34177,7 +34177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Madhyapur Thimi, Bhaktapur",
@@ -34197,7 +34197,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kausaltar, Bhaktapur",
@@ -34217,7 +34217,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Jorpati, Kathmandu",
@@ -34237,7 +34237,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Balaju, Kathmandu",
@@ -34257,7 +34257,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Gokarneshwor, Kathmandu",
@@ -34277,7 +34277,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Bhaktapur, Bhaktapur",
@@ -34297,7 +34297,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Chandragiri, Kathmandu",
@@ -34317,7 +34317,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kamalpokhari, Kathmandu",
@@ -34337,7 +34337,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3400 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Mahalaxmi Nagarpalika, Lalitpur",
@@ -34357,7 +34357,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Apartment For Sale In Chandol, Kathmandu",
@@ -34377,7 +34377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "1780 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Balcony', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Apartment For Sale In Panipokhari, Kathmandu",
@@ -34397,7 +34397,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "1380 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Gym', 'Swimming Pool', 'TV Cable', 'Drainage', 'Water Supply']"
+   "Amenities": ['Balcony', 'Gym', 'Swimming Pool', 'TV Cable', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Apartment For Sale In Swayambhu, Kathmandu",
@@ -34417,7 +34417,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Land For Sale In Minbhawan, Kathmandu",
@@ -34437,7 +34437,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Naya Bazar, Kathmandu",
@@ -34457,7 +34457,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Gokarneshwor, Kathmandu",
@@ -34477,7 +34477,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Pasikot, Kathmandu",
@@ -34497,7 +34497,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Mahalaxmisthan, Lalitpur",
@@ -34517,7 +34517,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Lele, Lalitpur",
@@ -34537,7 +34537,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Bhaisepati, Lalitpur",
@@ -34557,7 +34557,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Chovar, Kathmandu",
@@ -34577,7 +34577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Godawari, Lalitpur",
@@ -34597,7 +34597,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Maligaon, Kathmandu",
@@ -34617,7 +34617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Makalbari, Kathmandu",
@@ -34637,7 +34637,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Chabahil, Kathmandu",
@@ -34657,7 +34657,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sitapaila, Kathmandu",
@@ -34677,7 +34677,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Jhamsikhel, Lalitpur",
@@ -34697,7 +34697,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Modern House For Sale At Bhaisepati! : House For Sale In Bhaisepati, Lalitpur",
@@ -34717,7 +34717,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3000 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Garage', 'Lawn', 'Fencing', 'Jacuzzi', 'Air Condition', 'Washing Machine', 'Frontyard', 'Garden', 'Microwave', 'Internet', 'Water Well', 'Intercom', 'Solar Water', 'Modular Kitchen', 'Deck', 'Electricity Backup']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Garage', 'Lawn', 'Fencing', 'Jacuzzi', 'Air Condition', 'Washing Machine', 'Frontyard', 'Garden', 'Microwave', 'Internet', 'Water Well', 'Intercom', 'Solar Water', 'Modular Kitchen', 'Deck', 'Electricity Backup'],
  },
  {
    "Title": "House For Sale In Dhapasi, Kathmandu",
@@ -34737,7 +34737,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -34757,7 +34757,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "5320 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -34777,7 +34777,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Khumaltar, Lalitpur",
@@ -34797,7 +34797,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Pokhara, Pokhara",
@@ -34817,7 +34817,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "6000 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Business For Sale In Thamel, Kathmandu",
@@ -34837,7 +34837,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Thulo Bharyang, Kathmandu",
@@ -34857,7 +34857,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Basundhara, Kathmandu",
@@ -34877,7 +34877,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Raniban, Kathmandu",
@@ -34897,7 +34897,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Business For Sale In Kapan, Kathmandu",
@@ -34917,7 +34917,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Sankhamul, Kathmandu",
@@ -34937,7 +34937,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Baneshwor, Kathmandu",
@@ -34957,7 +34957,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Business For Sale In Dhungedhara, Kathmandu",
@@ -34977,7 +34977,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Nakhipot, Lalitpur",
@@ -34997,7 +34997,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -35017,7 +35017,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Sitapaila, Kathmandu",
@@ -35037,7 +35037,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Business For Sale In Imadol, Lalitpur",
@@ -35057,7 +35057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Jorpati, Kathmandu",
@@ -35077,7 +35077,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Samakhusi, Kathmandu",
@@ -35097,7 +35097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Business For Sale In Taukhel, Lalitpur",
@@ -35117,7 +35117,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Gongabu, Kathmandu",
@@ -35137,7 +35137,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Samakhusi, Kathmandu",
@@ -35157,7 +35157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Business For Sale In Gaushala, Kathmandu",
@@ -35177,7 +35177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Gokarneshwor, Kathmandu",
@@ -35197,7 +35197,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn']"
+   "Amenities": ['Lawn'],
  },
  {
    "Title": "Business For Sale In Naya Bazar, Kathmandu",
@@ -35217,7 +35217,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Samakhusi, Kathmandu",
@@ -35237,7 +35237,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Water Supply']"
+   "Amenities": ['Water Supply'],
  },
  {
    "Title": "Land For Sale In Basundhara, Kathmandu",
@@ -35257,7 +35257,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Kirtipur, Kathmandu",
@@ -35277,7 +35277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Office Space For Rent In Jamal, Kathmandu",
@@ -35297,7 +35297,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Bode, Bhaktapur",
@@ -35317,7 +35317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Kalanki, Kathmandu",
@@ -35337,7 +35337,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Khairahani, Chitwan",
@@ -35357,7 +35357,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "11:10 Kattha",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Kapan, Kathmandu",
@@ -35377,7 +35377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Jorpati, Kathmandu",
@@ -35397,7 +35397,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Nepaltar, Kathmandu",
@@ -35417,7 +35417,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Maitidevi, Kathmandu",
@@ -35437,7 +35437,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Water Supply']"
+   "Amenities": ['Water Supply'],
  },
  {
    "Title": "House For Rent In Sanobharyang, Kathmandu",
@@ -35457,7 +35457,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Business For Sale In Balaju, Kathmandu",
@@ -35477,7 +35477,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Kumaripati, Lalitpur",
@@ -35497,7 +35497,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Water Supply']"
+   "Amenities": ['Water Supply'],
  },
  {
    "Title": "Business For Sale In Koteshwor, Kathmandu",
@@ -35517,7 +35517,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Water Supply']"
+   "Amenities": ['Water Supply'],
  },
  {
    "Title": "Business For Sale In Chandragiri, Kathmandu",
@@ -35537,7 +35537,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Ekantakuna, Lalitpur",
@@ -35557,7 +35557,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Samakhusi, Kathmandu",
@@ -35577,7 +35577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Lease In Koteshwor, Kathmandu",
@@ -35597,7 +35597,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Water Supply']"
+   "Amenities": ['Water Supply'],
  },
  {
    "Title": "Business For Sale In Kalanki, Kathmandu",
@@ -35617,7 +35617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Kalopul, Kathmandu",
@@ -35637,7 +35637,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Pepsicola, Kathmandu",
@@ -35657,7 +35657,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sukedhara, Kathmandu",
@@ -35677,7 +35677,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Godawari, Lalitpur",
@@ -35697,7 +35697,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Kadaghari, Kathmandu",
@@ -35717,7 +35717,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Old Baneshwor, Kathmandu",
@@ -35737,7 +35737,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Drainage', 'Water Supply']"
+   "Amenities": ['Drainage', 'Water Supply'],
  },
  {
    "Title": "Land For Sale In Lubhu, Lalitpur",
@@ -35757,7 +35757,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Aana",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Mahendrapul, Pokhara",
@@ -35777,7 +35777,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Sukedhara, Kathmandu",
@@ -35797,7 +35797,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Thamel, Kathmandu",
@@ -35817,7 +35817,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "House For Rent In Sinamangal, Kathmandu",
@@ -35837,7 +35837,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Lawn', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Flat For Rent In Dhobighat, Lalitpur",
@@ -35857,7 +35857,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Flat For Rent In Lazimpat, Kathmandu",
@@ -35877,7 +35877,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Narephate, Kathmandu",
@@ -35897,7 +35897,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Best Price For The Property : Land For Sale In Bharatpur, Chitwan",
@@ -35917,7 +35917,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Dhur",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Balambu, Kathmandu",
@@ -35937,7 +35937,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Chandol, Kathmandu",
@@ -35957,7 +35957,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "BRIHAT HOUSING : House For Sale In Bhaisepati, Lalitpur",
@@ -35977,7 +35977,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "2300 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Fencing', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Fencing', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Khumaltar, Lalitpur",
@@ -35997,7 +35997,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Flat For Rent In Pulchowk, Lalitpur",
@@ -36017,7 +36017,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Water Supply']"
+   "Amenities": ['Balcony', 'TV Cable', 'Water Supply'],
  },
  {
    "Title": "House For Sale In Chundevi, Kathmandu",
@@ -36037,7 +36037,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Ekantakuna, Lalitpur",
@@ -36057,7 +36057,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Flat For Rent In Satdobato, Lalitpur",
@@ -36077,7 +36077,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['TV Cable', 'Water Supply']"
+   "Amenities": ['TV Cable', 'Water Supply'],
  },
  {
    "Title": "House For Sale In Dhapakhel, Lalitpur",
@@ -36097,7 +36097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Lokanthali, Bhaktapur",
@@ -36117,7 +36117,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Mulpani, Kathmandu",
@@ -36137,7 +36137,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Old Baneshwor, Kathmandu",
@@ -36157,7 +36157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Dhobighat, Lalitpur",
@@ -36177,7 +36177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Garage', 'Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Baluwatar, Kathmandu",
@@ -36197,7 +36197,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Jhamsikhel, Lalitpur",
@@ -36217,7 +36217,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Sitapaila, Kathmandu",
@@ -36237,7 +36237,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Budhanilkantha, Kathmandu",
@@ -36257,7 +36257,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Bhaisepati, Lalitpur",
@@ -36277,7 +36277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -36297,7 +36297,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dhobighat, Lalitpur",
@@ -36317,7 +36317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Samakhusi, Kathmandu",
@@ -36337,7 +36337,7 @@ const listings = [
    "Road Type": " Concrete",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kapan, Kathmandu",
@@ -36357,7 +36357,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Dhobighat, Lalitpur",
@@ -36377,7 +36377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Tokha, Kathmandu",
@@ -36397,7 +36397,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Maharajgunj, Kathmandu",
@@ -36417,7 +36417,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Nakkhu, Lalitpur",
@@ -36437,7 +36437,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Swimming Pool', 'TV Cable', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['Balcony', 'Swimming Pool', 'TV Cable', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -36457,7 +36457,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Nakhipot, Lalitpur",
@@ -36477,7 +36477,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -36497,7 +36497,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -36517,7 +36517,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Kumaripati, Lalitpur",
@@ -36537,7 +36537,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -36557,7 +36557,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Sanepa, Lalitpur",
@@ -36577,7 +36577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Jhapa, Jhapa",
@@ -36597,7 +36597,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Bhaisepati, Lalitpur",
@@ -36617,7 +36617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Maharajgunj, Kathmandu",
@@ -36637,7 +36637,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Baluwatar, Kathmandu",
@@ -36657,7 +36657,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Godawari, Lalitpur",
@@ -36677,7 +36677,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Teku, Kathmandu",
@@ -36697,7 +36697,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Bhaisepati, Lalitpur",
@@ -36717,7 +36717,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -36737,7 +36737,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Patan, Lalitpur",
@@ -36757,7 +36757,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Kupondole, Lalitpur",
@@ -36777,7 +36777,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'Gym', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Gym', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Bhaisepati, Lalitpur",
@@ -36797,7 +36797,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Dhobighat, Lalitpur",
@@ -36817,7 +36817,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Rent In Nakhipot, Lalitpur",
@@ -36837,7 +36837,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Rent In Baluwatar, Kathmandu",
@@ -36857,7 +36857,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Miyapatan Land 20×40 : Land For Sale In Bajha Patan, Pokhara",
@@ -36877,7 +36877,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "159 Sq. Meter",
    "Posted": "1 year ago",
-   "Amenities": "['Fencing', 'Water Supply']"
+   "Amenities": ['Fencing', 'Water Supply'],
  },
  {
    "Title": "Apartment For Sale In Baluwatar, Kathmandu",
@@ -36897,7 +36897,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Air Condition', 'Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Air Condition', 'Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Apartment For Sale In Bishal Nagar, Kathmandu",
@@ -36917,7 +36917,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Air Condition', 'Gym', 'Wifi', 'Water Supply']"
+   "Amenities": ['Air Condition', 'Gym', 'Wifi', 'Water Supply'],
  },
  {
    "Title": "Apartment For Sale In Bishal Nagar, Kathmandu",
@@ -36937,7 +36937,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Air Condition', 'Gym', 'Wifi', 'Water Supply']"
+   "Amenities": ['Air Condition', 'Gym', 'Wifi', 'Water Supply'],
  },
  {
    "Title": "Apartment For Sale In Kamalpokhari, Kathmandu",
@@ -36957,7 +36957,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Gym', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Balcony', 'Gym', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Land For Sale In Sankhu, Kathmandu",
@@ -36977,7 +36977,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Chandol, Kathmandu",
@@ -36997,7 +36997,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Jorpati, Kathmandu",
@@ -37017,7 +37017,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Chabahil, Kathmandu",
@@ -37037,7 +37037,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Chandol, Kathmandu",
@@ -37057,7 +37057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Kapan, Kathmandu",
@@ -37077,7 +37077,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Baluwatar, Kathmandu",
@@ -37097,7 +37097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Jorpati, Kathmandu",
@@ -37117,7 +37117,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Changunarayan, Bhaktapur",
@@ -37137,7 +37137,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Maharajgunj, Kathmandu",
@@ -37157,7 +37157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Ropani",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Garage', 'Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Chovar, Kathmandu",
@@ -37177,7 +37177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -37197,7 +37197,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Bhaktapur, Bhaktapur",
@@ -37217,7 +37217,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Tikathali, Lalitpur",
@@ -37237,7 +37237,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Maharajgunj, Kathmandu",
@@ -37257,7 +37257,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Air Condition', 'Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Air Condition', 'Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Apartment For Rent In Lazimpat, Kathmandu",
@@ -37277,7 +37277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Air Condition', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply']"
+   "Amenities": ['Air Condition', 'Balcony', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Land For Sale In Kapan, Kathmandu",
@@ -37297,7 +37297,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Bhangal, Kathmandu",
@@ -37317,7 +37317,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Sankhu, Kathmandu",
@@ -37337,7 +37337,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Ram Bazar, Pokhara",
@@ -37357,7 +37357,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kapan, Kathmandu",
@@ -37377,7 +37377,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Chauthe, Pokhara",
@@ -37397,7 +37397,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kapan, Kathmandu",
@@ -37417,7 +37417,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Pokhara, Pokhara",
@@ -37437,7 +37437,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Ram Bazar, Pokhara",
@@ -37457,7 +37457,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Pokhara, Pokhara",
@@ -37477,7 +37477,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Fulbari, Pokhara",
@@ -37497,7 +37497,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Pokhara, Pokhara",
@@ -37517,7 +37517,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Pokhara, Pokhara",
@@ -37537,7 +37537,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Pokhara, Pokhara",
@@ -37557,7 +37557,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Ram Bazar, Pokhara",
@@ -37577,7 +37577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Kapan, Kathmandu",
@@ -37597,7 +37597,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Sunakothi, Lalitpur",
@@ -37617,7 +37617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "R&S Real Estate : Land For Sale In Shantinagar, Kathmandu",
@@ -37637,7 +37637,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Lele, Lalitpur",
@@ -37657,7 +37657,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Kapan, Kathmandu",
@@ -37677,7 +37677,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Mulpani, Kathmandu",
@@ -37697,7 +37697,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Kapan, Kathmandu",
@@ -37717,7 +37717,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Tikathali, Lalitpur",
@@ -37737,7 +37737,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Water Supply', 'Water Tank']"
+   "Amenities": ['Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Tokha, Kathmandu",
@@ -37757,7 +37757,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['TV Cable', 'Wifi', 'Water Supply', 'Water Tank']"
+   "Amenities": ['TV Cable', 'Wifi', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Tarkeshwor, Kathmandu",
@@ -37777,7 +37777,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Dhampus, Kaski",
@@ -37797,7 +37797,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Tarkeshwor, Kathmandu",
@@ -37817,7 +37817,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Ram Bazar, Pokhara",
@@ -37837,7 +37837,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Bafal, Kathmandu",
@@ -37857,7 +37857,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "1348 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Dadikot, Bhaktapur",
@@ -37877,7 +37877,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale Inside Ringroad : House For Sale In Basundhara, Kathmandu",
@@ -37897,7 +37897,7 @@ const listings = [
    "Road Type": " Paved",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Balcony', 'Deck', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Wifi']"
+   "Amenities": ['Garage', 'Balcony', 'Deck', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Wifi'],
  },
  {
    "Title": "House For Sale In Kapan, Kathmandu",
@@ -37917,7 +37917,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Kusunti, Lalitpur",
@@ -37937,7 +37937,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Sanepa, Lalitpur",
@@ -37957,7 +37957,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "30 Aana",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Rent In Balaju, Kathmandu",
@@ -37977,7 +37977,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3014 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['Balcony', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Rent In Sanobharyang, Kathmandu",
@@ -37997,7 +37997,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Sinamangal, Kathmandu",
@@ -38017,7 +38017,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Dhumbarahi, Kathmandu",
@@ -38037,7 +38037,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Bhaisepati, Lalitpur",
@@ -38057,7 +38057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Dholahiti, Lalitpur",
@@ -38077,7 +38077,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Garage', 'Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Sukedhara, Kathmandu",
@@ -38097,7 +38097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Dholahiti, Lalitpur",
@@ -38117,7 +38117,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Teku, Kathmandu",
@@ -38137,7 +38137,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 year ago",
-   "Amenities": "['Garage']"
+   "Amenities": ['Garage'],
  },
  {
    "Title": "House For Rent In Thapathali, Kathmandu",
@@ -38157,7 +38157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Garden', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Garden', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Kapan, Kathmandu",
@@ -38177,7 +38177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "0-3-2-0 Aana",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Balcony', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Water Well', 'Backyard']"
+   "Amenities": ['Garage', 'Balcony', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Water Well', 'Backyard'],
  },
  {
    "Title": "House No. 134 : House For Sale In Harisiddhi, Lalitpur",
@@ -38197,7 +38197,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Fencing', 'Frontyard', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Fencing', 'Frontyard', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Bhaisepati, Lalitpur",
@@ -38217,7 +38217,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Dhading, Dhading",
@@ -38237,7 +38237,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Ropani",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Nawalparasi, Nawalparasi",
@@ -38257,7 +38257,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Nawalparasi, Nawalparasi",
@@ -38277,7 +38277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Bhaisepati, Lalitpur",
@@ -38297,7 +38297,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Baluwatar, Kathmandu",
@@ -38317,7 +38317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Nawalparasi, Nawalparasi",
@@ -38337,7 +38337,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Bakhundol, Lalitpur",
@@ -38357,7 +38357,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Nawalparasi, Nawalparasi",
@@ -38377,7 +38377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Nawalparasi, Nawalparasi",
@@ -38397,7 +38397,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Nawalparasi, Nawalparasi",
@@ -38417,7 +38417,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Nawalparasi, Nawalparasi",
@@ -38437,7 +38437,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Tinkune, Kathmandu",
@@ -38457,7 +38457,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "7 Aana",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Butwal, Butwal",
@@ -38477,7 +38477,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Sanepa, Lalitpur",
@@ -38497,7 +38497,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Drainage', 'Water Supply', 'Solar Water'],
  },
  {
    "Title": "Land For Sale In Nawalparasi, Nawalparasi",
@@ -38517,7 +38517,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Nawalparasi, Nawalparasi",
@@ -38537,7 +38537,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Nawalparasi, Nawalparasi",
@@ -38557,7 +38557,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Hattiban, Lalitpur",
@@ -38577,7 +38577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "2085 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Hadigaun, Kathmandu",
@@ -38597,7 +38597,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Drainage', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['Drainage', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Rent In Naxal, Kathmandu",
@@ -38617,7 +38617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Khumaltar, Lalitpur",
@@ -38637,7 +38637,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Air Condition', 'Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['Garage', 'Air Condition', 'Balcony', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Rent In Sanepa, Lalitpur",
@@ -38657,7 +38657,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Baneshwor, Kathmandu",
@@ -38677,7 +38677,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Pasikot, Kathmandu",
@@ -38697,7 +38697,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Samakhusi, Kathmandu",
@@ -38717,7 +38717,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Bhangal, Kathmandu",
@@ -38737,7 +38737,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Golfutar, Kathmandu",
@@ -38757,7 +38757,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Backyard', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Backyard', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -38777,7 +38777,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "13 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Dhumbarahi, Kathmandu",
@@ -38797,7 +38797,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Baneshwor, Kathmandu",
@@ -38817,7 +38817,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Bafal, Kathmandu",
@@ -38837,7 +38837,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Dhumbarahi, Kathmandu",
@@ -38857,7 +38857,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Samakhusi, Kathmandu",
@@ -38877,7 +38877,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Baluwatar, Kathmandu",
@@ -38897,7 +38897,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Makalbari, Kathmandu",
@@ -38917,7 +38917,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Lazimpat, Kathmandu",
@@ -38937,7 +38937,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Lazimpat, Kathmandu",
@@ -38957,7 +38957,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -38977,7 +38977,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Mhepi, Kathmandu",
@@ -38997,7 +38997,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -39017,7 +39017,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dhapasi, Kathmandu",
@@ -39037,7 +39037,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -39057,7 +39057,7 @@ const listings = [
    "Road Type": " Soil Stabilized",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -39077,7 +39077,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dallu, Kathmandu",
@@ -39097,7 +39097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['TV Cable', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "Land For Sale In Basundhara, Kathmandu",
@@ -39117,7 +39117,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Samakhusi, Kathmandu",
@@ -39137,7 +39137,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Basundhara, Kathmandu",
@@ -39157,7 +39157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Tokha, Kathmandu",
@@ -39177,7 +39177,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Samakhusi, Kathmandu",
@@ -39197,7 +39197,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Samakhusi, Kathmandu",
@@ -39217,7 +39217,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Samakhusi, Kathmandu",
@@ -39237,7 +39237,7 @@ const listings = [
    "Road Type": " Gravelled",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Gongabu, Kathmandu",
@@ -39257,7 +39257,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -39277,7 +39277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Kalanki, Kathmandu",
@@ -39297,7 +39297,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -39317,7 +39317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Basundhara, Kathmandu",
@@ -39337,7 +39337,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Samakhusi, Kathmandu",
@@ -39357,7 +39357,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sukedhara, Kathmandu",
@@ -39377,7 +39377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Mandikatar, Kathmandu",
@@ -39397,7 +39397,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Budhanilkantha, Kathmandu",
@@ -39417,7 +39417,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Ropani",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Garage', 'Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Kalanki, Kathmandu",
@@ -39437,7 +39437,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Hattigauda, Kathmandu",
@@ -39457,7 +39457,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "2900 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Baluwatar, Kathmandu",
@@ -39477,7 +39477,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Sitapaila, Kathmandu",
@@ -39497,7 +39497,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Basundhara, Kathmandu",
@@ -39517,7 +39517,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Sukedhara, Kathmandu",
@@ -39537,7 +39537,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Dhumbarahi, Kathmandu",
@@ -39557,7 +39557,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Bhangal, Kathmandu",
@@ -39577,7 +39577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -39597,7 +39597,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -39617,7 +39617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Kapan, Kathmandu",
@@ -39637,7 +39637,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -39657,7 +39657,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -39677,7 +39677,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -39697,7 +39697,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Kageshwari-Manohara, Kathmandu",
@@ -39717,7 +39717,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Chandol, Kathmandu",
@@ -39737,7 +39737,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -39757,7 +39757,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Basundhara, Kathmandu",
@@ -39777,7 +39777,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -39797,7 +39797,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Budhanilkantha, Kathmandu",
@@ -39817,7 +39817,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Garage', 'Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Flat For Rent In Bharatpur, Chitwan",
@@ -39837,7 +39837,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Meter",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn', 'Backyard', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Lawn', 'Backyard', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Basbari, Kathmandu",
@@ -39857,7 +39857,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Office Space For Sale In Thamel, Kathmandu",
@@ -39877,7 +39877,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Wifi', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Wifi', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Dhapakhel, Lalitpur",
@@ -39897,7 +39897,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Balaju, Kathmandu",
@@ -39917,7 +39917,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Satdobato, Lalitpur",
@@ -39937,7 +39937,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Sunderbasti, Kathmandu",
@@ -39957,7 +39957,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Swayambhu, Kathmandu",
@@ -39977,7 +39977,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Kalikasthan, Kathmandu",
@@ -39997,7 +39997,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Samakhusi, Kathmandu",
@@ -40017,7 +40017,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Chabahil, Kathmandu",
@@ -40037,7 +40037,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Ramkot, Kathmandu",
@@ -40057,7 +40057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Sitapaila, Kathmandu",
@@ -40077,7 +40077,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Tarkeshwor, Kathmandu",
@@ -40097,7 +40097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Sukedhara, Kathmandu",
@@ -40117,7 +40117,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Gongabu, Kathmandu",
@@ -40137,7 +40137,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Balkhu, Kathmandu",
@@ -40157,7 +40157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Naxal, Kathmandu",
@@ -40177,7 +40177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Kadaghari, Kathmandu",
@@ -40197,7 +40197,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Pepsicola, Kathmandu",
@@ -40217,7 +40217,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Kadaghari, Kathmandu",
@@ -40237,7 +40237,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Balaju, Kathmandu",
@@ -40257,7 +40257,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Balaju, Kathmandu",
@@ -40277,7 +40277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Joranku, Kathmandu",
@@ -40297,7 +40297,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Tarkeshwor, Kathmandu",
@@ -40317,7 +40317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Office Space For Sale In Samakhusi, Kathmandu",
@@ -40337,7 +40337,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sitapaila, Kathmandu",
@@ -40357,7 +40357,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Imadol, Lalitpur",
@@ -40377,7 +40377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Fencing', 'Modular Kitchen', 'Water Tank', 'Water Well']"
+   "Amenities": ['Balcony', 'Fencing', 'Modular Kitchen', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Sale In Thamel, Kathmandu",
@@ -40397,7 +40397,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Gym', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Gym', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Thamel, Kathmandu",
@@ -40417,7 +40417,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Gongabu, Kathmandu",
@@ -40437,7 +40437,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Apartment For Sale In Samakhusi, Kathmandu",
@@ -40457,7 +40457,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Sano Bharyang, Kathmandu",
@@ -40477,7 +40477,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Apartment For Rent In Naxal, Kathmandu",
@@ -40497,7 +40497,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Apartment For Sale In Bhaisepati, Lalitpur",
@@ -40517,7 +40517,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Apartment For Rent In Panipokhari, Kathmandu",
@@ -40537,7 +40537,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Apartment For Sale In Lazimpat, Kathmandu",
@@ -40557,7 +40557,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land At Gausala, Battisputali : Land For Sale In Old Baneshwor, Kathmandu",
@@ -40577,7 +40577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Apartment For Rent In Durbar Marg, Kathmandu",
@@ -40597,7 +40597,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Swimming Pool', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Scenic : House For Sale In Dhapakhel, Lalitpur",
@@ -40617,7 +40617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "800 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House At New Colony : House For Sale In Budhanilkantha, Kathmandu",
@@ -40637,7 +40637,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply']"
+   "Amenities": ['Garage', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply'],
  },
  {
    "Title": "Apartment For Rent In Lazimpat, Kathmandu",
@@ -40657,7 +40657,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Apartment For Rent In Lazimpat, Kathmandu",
@@ -40677,7 +40677,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Dhobhighat : Land For Rent In Dhobighat, Lalitpur",
@@ -40697,7 +40697,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "2 Ropani",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Water Supply']"
+   "Amenities": ['Garage', 'Water Supply'],
  },
  {
    "Title": "Business For Sale In Naxal, Kathmandu",
@@ -40717,7 +40717,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Air Condition', 'TV Cable']"
+   "Amenities": ['Air Condition', 'TV Cable'],
  },
  {
    "Title": "Land For Sale In Bhaisepati, Lalitpur",
@@ -40737,7 +40737,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Banasthali, Kathmandu",
@@ -40757,7 +40757,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Lubhu, Lalitpur",
@@ -40777,7 +40777,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Backyard', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']"
+   "Amenities": ['Backyard', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Sale In Sunderbasti, Kathmandu",
@@ -40797,7 +40797,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Backyard', 'Balcony', 'Frontyard', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']"
+   "Amenities": ['Backyard', 'Balcony', 'Frontyard', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "Land For Sale In Sitapaila, Kathmandu",
@@ -40817,7 +40817,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Lamas Residence : House For Rent In Lubhu, Lalitpur",
@@ -40837,7 +40837,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "8 Aana",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Balcony', 'Garden', 'Water Supply', 'Lawn', 'Frontyard', 'Backyard']"
+   "Amenities": ['Garage', 'Balcony', 'Garden', 'Water Supply', 'Lawn', 'Frontyard', 'Backyard'],
  },
  {
    "Title": "Apartment For Rent In Bishal Nagar, Kathmandu",
@@ -40857,7 +40857,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Apartment For Rent In Swayambhu, Kathmandu",
@@ -40877,7 +40877,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Apartment For Sale In Kamalpokhari, Kathmandu",
@@ -40897,7 +40897,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'Gym', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'Garden', 'Gym', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Apartment For Rent In Jhamsikhel, Lalitpur",
@@ -40917,7 +40917,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Apartment For Sale In Dhobighat, Lalitpur",
@@ -40937,7 +40937,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Best For Commercial Use : House For Sale In Kamalpokhari, Kathmandu",
@@ -40957,7 +40957,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Newly Built : House For Rent In Baneshwor, Kathmandu",
@@ -40977,7 +40977,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn', 'Garage', 'Balcony', 'Deck', 'Water Supply']"
+   "Amenities": ['Lawn', 'Garage', 'Balcony', 'Deck', 'Water Supply'],
  },
  {
    "Title": "House For Rent In Bhaisepati, Lalitpur",
@@ -40997,7 +40997,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "4 Aana",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Backyard', 'Balcony', 'Frontyard', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']"
+   "Amenities": ['Garage', 'Backyard', 'Balcony', 'Frontyard', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Sale In Maligaon, Kathmandu",
@@ -41017,7 +41017,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn', 'Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Lawn', 'Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Bhatbhateni, Kathmandu",
@@ -41037,7 +41037,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Air Condition', 'Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Air Condition', 'Balcony', 'Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Kalanki, Kathmandu",
@@ -41057,7 +41057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Maharajgunj, Kathmandu",
@@ -41077,7 +41077,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Godawari, Lalitpur",
@@ -41097,7 +41097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Chabahil, Kathmandu",
@@ -41117,7 +41117,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Tikathali, Lalitpur",
@@ -41137,7 +41137,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Satungal, Kathmandu",
@@ -41157,7 +41157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Sanepa, Lalitpur",
@@ -41177,7 +41177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "4000 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Rent In Dhapasi, Kathmandu",
@@ -41197,7 +41197,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Bhaisepati, Lalitpur",
@@ -41217,7 +41217,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "1300 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Apartment For Rent In Hattiban, Lalitpur",
@@ -41237,7 +41237,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Syuchatar, Kathmandu",
@@ -41257,7 +41257,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Apartment For Sale In Tripureshwor, Kathmandu",
@@ -41277,7 +41277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Balkhu, Kathmandu",
@@ -41297,7 +41297,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Godawari, Lalitpur",
@@ -41317,7 +41317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kirtipur, Kirtipur",
@@ -41337,7 +41337,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "2045 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Lawn', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Baneshwor, Kathmandu",
@@ -41357,7 +41357,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Bhaisepati, Lalitpur",
@@ -41377,7 +41377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Hattisar, Kathmandu",
@@ -41397,7 +41397,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Lokanthali, Bhaktapur",
@@ -41417,7 +41417,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Ravi Bhawan, Kathmandu",
@@ -41437,7 +41437,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Sankhamul, Kathmandu",
@@ -41457,7 +41457,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Swayambhu, Kathmandu",
@@ -41477,7 +41477,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Kalanki, Kathmandu",
@@ -41497,7 +41497,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Kirtipur, Kirtipur",
@@ -41517,7 +41517,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kalanki, Kathmandu",
@@ -41537,7 +41537,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Tahachal, Kathmandu",
@@ -41557,7 +41557,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Hattiban, Lalitpur",
@@ -41577,7 +41577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Thulo Bharyang, Kathmandu",
@@ -41597,7 +41597,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['TV Cable', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['TV Cable', 'Wifi', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Business For Sale In Godawari, Lalitpur",
@@ -41617,7 +41617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Kalanki, Kathmandu",
@@ -41637,7 +41637,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3300 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dadikot, Bhaktapur",
@@ -41657,7 +41657,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "2610 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Hattigauda, Kathmandu",
@@ -41677,7 +41677,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Thapathali, Kathmandu",
@@ -41697,7 +41697,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Hattigauda, Kathmandu",
@@ -41717,7 +41717,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Office Space For Rent In Chabahil, Kathmandu",
@@ -41737,7 +41737,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Thamel, Kathmandu",
@@ -41757,7 +41757,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Durbar Marg, Kathmandu",
@@ -41777,7 +41777,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Tripureshwor, Kathmandu",
@@ -41797,7 +41797,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Durbar Marg, Kathmandu",
@@ -41817,7 +41817,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Mandikatar, Kathmandu",
@@ -41837,7 +41837,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'TV Cable', 'Wifi', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Hattigauda, Kathmandu",
@@ -41857,7 +41857,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "MULPANI : House For Sale In Mulpani, Kathmandu",
@@ -41877,7 +41877,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "650 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Balcony', 'Fencing', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Water Well']"
+   "Amenities": ['Garage', 'Balcony', 'Fencing', 'Modular Kitchen', 'Drainage', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "Land For Sale In Basbari, Kathmandu",
@@ -41897,7 +41897,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Baluwatar, Kathmandu",
@@ -41917,7 +41917,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Chapali, Kathmandu",
@@ -41937,7 +41937,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Sanepa, Lalitpur",
@@ -41957,7 +41957,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Apartment For Rent In Bishal Nagar, Kathmandu",
@@ -41977,7 +41977,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Thankot, Kathmandu",
@@ -41997,7 +41997,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dhumbarahi, Kathmandu",
@@ -42017,7 +42017,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Chundevi, Kathmandu",
@@ -42037,7 +42037,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Office Space For Rent In Nag Pokhari, Kathmandu",
@@ -42057,7 +42057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Bhangal, Kathmandu",
@@ -42077,7 +42077,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -42097,7 +42097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -42117,7 +42117,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Dakshinkali, Kathmandu",
@@ -42137,7 +42137,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -42157,7 +42157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dhapasi, Kathmandu",
@@ -42177,7 +42177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Garden', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Land For Sale In Putalisadak, Kathmandu",
@@ -42197,7 +42197,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Naxal, Kathmandu",
@@ -42217,7 +42217,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Frontyard', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Frontyard', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "Office Space For Rent In Hadigaun, Kathmandu",
@@ -42237,7 +42237,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Frontyard', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Frontyard', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Harisiddhi, Lalitpur",
@@ -42257,7 +42257,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3400 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Backyard', 'Fencing', 'Frontyard', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well']"
+   "Amenities": ['Garage', 'Backyard', 'Fencing', 'Frontyard', 'Garden', 'TV Cable', 'Drainage', 'Water Supply', 'Solar Water', 'Water Well'],
  },
  {
    "Title": "House For Rent In Grande Villa, Kathmandu",
@@ -42277,7 +42277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Frontyard', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Frontyard', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Naxal, Kathmandu",
@@ -42297,7 +42297,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Frontyard', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Frontyard', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Baluwatar, Kathmandu",
@@ -42317,7 +42317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Hattigauda, Kathmandu",
@@ -42337,7 +42337,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Frontyard', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Frontyard', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Rent In Lazimpat, Kathmandu",
@@ -42357,7 +42357,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Frontyard', 'Drainage', 'Water Supply', 'Water Tank']"
+   "Amenities": ['Balcony', 'Frontyard', 'Drainage', 'Water Supply', 'Water Tank'],
  },
  {
    "Title": "House For Sale In Hattigauda, Kathmandu",
@@ -42377,7 +42377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Backyard', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']"
+   "Amenities": ['Backyard', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "Land For Rent In Chabahil, Kathmandu",
@@ -42397,7 +42397,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Backyard', 'Fencing', 'Frontyard', 'Water Supply']"
+   "Amenities": ['Garage', 'Backyard', 'Fencing', 'Frontyard', 'Water Supply'],
  },
  {
    "Title": "Business For Sale In Pokhara, Pokhara",
@@ -42417,7 +42417,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Frontyard', 'Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Frontyard', 'Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Land For Sale In Ravi Bhawan, Kathmandu",
@@ -42437,7 +42437,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Chandol, Kathmandu",
@@ -42457,7 +42457,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "CIVIL HOMES PHASE III : House For Rent In Kalanki, Kathmandu",
@@ -42477,7 +42477,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "1900 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Gym', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water'],
  },
  {
    "Title": "Business For Sale In Lakeside, Pokhara",
@@ -42497,7 +42497,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Dhading, Dhading",
@@ -42517,7 +42517,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Sarankot, Pokhara",
@@ -42537,7 +42537,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Thamel, Kathmandu",
@@ -42557,7 +42557,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Kakarbhitta, Jhapa",
@@ -42577,7 +42577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "COMMERCIAL BUILDING : House For Sale In Pepsicola, Kathmandu",
@@ -42597,7 +42597,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "11000 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Drainage', 'Water Supply']"
+   "Amenities": ['Drainage', 'Water Supply'],
  },
  {
    "Title": "Business For Sale In Lakeside, Pokhara",
@@ -42617,7 +42617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Mahalaxmi Nagarpalika, Lalitpur",
@@ -42637,7 +42637,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Rent In Hattiban, Lalitpur",
@@ -42657,7 +42657,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Lazimpat, Kathmandu",
@@ -42677,7 +42677,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Residential Land At Innovative Colony : Land For Sale In Hattiban, Lalitpur",
@@ -42697,7 +42697,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "2890 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "54 Aana Commercial Land : Land For Sale In Maharajgunj, Kathmandu",
@@ -42717,7 +42717,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Residential Cum Commercial House : House For Rent In Sanepa, Lalitpur",
@@ -42737,7 +42737,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn', 'Garage', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply']"
+   "Amenities": ['Lawn', 'Garage', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "2 Room For Office Purpose : Flat For Rent In Pulchowk, Lalitpur",
@@ -42757,7 +42757,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Fencing', 'Frontyard', 'Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Fencing', 'Frontyard', 'Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -42777,7 +42777,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Semi Furnished House : House For Rent In Khumaltar, Lalitpur",
@@ -42797,7 +42797,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'Drainage', 'Water Supply']"
+   "Amenities": ['Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Residential, Good For Investment : Land For Sale In Mulpani, Kathmandu",
@@ -42817,7 +42817,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Mulpani, Kathmandu",
@@ -42837,7 +42837,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Apartment For Sale In Jhamsikhel, Lalitpur",
@@ -42857,7 +42857,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Garden', 'Gym', 'Microwave', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine', 'Wifi', 'Water Supply', 'Solar Water']"
+   "Amenities": ['Balcony', 'Garden', 'Gym', 'Microwave', 'Modular Kitchen', 'Swimming Pool', 'TV Cable', 'Washing Machine', 'Wifi', 'Water Supply', 'Solar Water'],
  },
  {
    "Title": "Land For Sale In Gothatar, Kathmandu",
@@ -42877,7 +42877,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Gothatar, Kathmandu",
@@ -42897,7 +42897,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Pepsicola, Kathmandu",
@@ -42917,7 +42917,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Luxurious Bungalow : House For Sale In Budhanilkantha, Kathmandu",
@@ -42937,7 +42937,7 @@ const listings = [
    "Road Type": " Blacktopped",
    "Build Area": "0.4.1.1 Aana",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Frontyard', 'Garden', 'Gym', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Frontyard', 'Garden', 'Gym', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "Bungalow At Mandikatar : House For Sale In Budhanilkantha, Kathmandu",
@@ -42957,7 +42957,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "4000 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "13 Aana : Land For Sale In Baneshwor, Kathmandu",
@@ -42977,7 +42977,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Drainage', 'Water Supply']"
+   "Amenities": ['Drainage', 'Water Supply'],
  },
  {
    "Title": "22 Aana Land : Land For Sale In Tikathali, Lalitpur",
@@ -42997,7 +42997,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "22 Aana",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Apartment At 4th Floor : Apartment For Sale In Bhaisepati, Lalitpur",
@@ -43017,7 +43017,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "1350 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Modular Kitchen', 'Wifi', 'Water Supply']"
+   "Amenities": ['Garage', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Modular Kitchen', 'Wifi', 'Water Supply'],
  },
  {
    "Title": "Apartment For Sale : Apartment For Sale In Bhaisepati, Lalitpur",
@@ -43037,7 +43037,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "1350 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply']"
+   "Amenities": ['Garage', 'Balcony', 'Fencing', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Water Supply'],
  },
  {
    "Title": "2.5 Storey House : House For Sale In Lokanthali, Bhaktapur",
@@ -43057,7 +43057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "2.5 Storey House : House For Sale In Budhanilkantha, Kathmandu",
@@ -43077,7 +43077,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "2698 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'Wifi', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'Wifi', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -43097,7 +43097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']"
+   "Amenities": ['Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -43117,7 +43117,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Frontyard', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['Frontyard', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Sale In Manamaiju, Kathmandu",
@@ -43137,7 +43137,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Drainage', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['Drainage', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -43157,7 +43157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Backyard', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['Backyard', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "House For Sale In Baniyatar, Kathmandu",
@@ -43177,7 +43177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Frontyard', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['Balcony', 'Frontyard', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "Land For Sale In Thamel, Kathmandu",
@@ -43197,7 +43197,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Pasikot, Kathmandu",
@@ -43217,7 +43217,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "2464.12 Aana",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn', 'Balcony', 'Fencing', 'Frontyard', 'Water Supply', 'Water Tank', 'Water Well']"
+   "Amenities": ['Lawn', 'Balcony', 'Fencing', 'Frontyard', 'Water Supply', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "Land For Sale In Chapali, Kathmandu",
@@ -43237,7 +43237,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -43257,7 +43257,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land At Bhaisepati : Land For Sale In Bhaisepati, Lalitpur",
@@ -43277,7 +43277,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land At Baneshwor : Land For Sale In Baneshwor, Kathmandu",
@@ -43297,7 +43297,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "PERFECT HOMES : House For Sale In Bhaisepati, Lalitpur",
@@ -43317,7 +43317,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "890 Aana",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn', 'Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well']"
+   "Amenities": ['Lawn', 'Balcony', 'Fencing', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply', 'Solar Water', 'Water Tank', 'Water Well'],
  },
  {
    "Title": "Land At Bhaisepati : Land For Sale In Bhaisepati, Lalitpur",
@@ -43337,7 +43337,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land At Bhaisepati : Land For Sale In Bhaisepati, Lalitpur",
@@ -43357,7 +43357,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land At Bhaisepati : Land For Sale In Bhaisepati, Lalitpur",
@@ -43377,7 +43377,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land At Bhaisepati : Land For Sale In Bhaisepati, Lalitpur",
@@ -43397,7 +43397,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land At Bhaisepati : Land For Sale In Bhaisepati, Lalitpur",
@@ -43417,7 +43417,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Water Supply']"
+   "Amenities": ['Water Supply'],
  },
  {
    "Title": "House For Sale In Dhapakhel, Lalitpur",
@@ -43437,7 +43437,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "0-4-0-0 Aana",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Water Supply']"
+   "Amenities": ['Balcony', 'Water Supply'],
  },
  {
    "Title": "House For Sale In Godawari, Lalitpur",
@@ -43457,7 +43457,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "0-6-0-0 Aana",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Drainage', 'Water Supply']"
+   "Amenities": ['Lawn', 'Balcony', 'Fencing', 'Frontyard', 'Garden', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Land For Sale In Panchkhal, Kavre",
@@ -43477,7 +43477,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Koteshwor, Kathmandu",
@@ -43497,7 +43497,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Ghari Patan, Pokhara",
@@ -43517,7 +43517,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Kavresthali, Kathmandu",
@@ -43537,7 +43537,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Ghari Patan, Pokhara",
@@ -43557,7 +43557,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Fencing', 'Frontyard']"
+   "Amenities": ['Balcony', 'Fencing', 'Frontyard'],
  },
  {
    "Title": "House For Sale In Shrijana Chowk, Pokhara",
@@ -43577,7 +43577,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Chauthe, Pokhara",
@@ -43597,7 +43597,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Kaji Pokhari, Pokhara",
@@ -43617,7 +43617,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Raam Bazar, Pokhara",
@@ -43637,7 +43637,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Bajha Patan, Pokhara",
@@ -43657,7 +43657,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Chauthe, Pokhara",
@@ -43677,7 +43677,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sitapaila, Kathmandu",
@@ -43697,7 +43697,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Water Supply']"
+   "Amenities": ['Water Supply'],
  },
  {
    "Title": "House For Sale In Hattiban, Lalitpur",
@@ -43717,7 +43717,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Dhapasi, Kathmandu",
@@ -43737,7 +43737,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn', 'Frontyard', 'Garden', 'Water Supply']"
+   "Amenities": ['Lawn', 'Frontyard', 'Garden', 'Water Supply'],
  },
  {
    "Title": "House For Sale In Baluwatar, Kathmandu",
@@ -43757,7 +43757,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Aana",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Business For Sale In Baneshwor, Kathmandu",
@@ -43777,7 +43777,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "5472 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sitapaila, Kathmandu",
@@ -43797,7 +43797,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Garden', 'Water Supply']"
+   "Amenities": ['Garden', 'Water Supply'],
  },
  {
    "Title": "House For Sale In Bhaisepati, Lalitpur",
@@ -43817,7 +43817,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Water Supply']"
+   "Amenities": ['Water Supply'],
  },
  {
    "Title": "House For Sale In Bhaisepati, Lalitpur",
@@ -43837,7 +43837,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Water Supply']"
+   "Amenities": ['Water Supply'],
  },
  {
    "Title": "Apartment At LP Tower : Apartment For Rent In Lazimpat, Kathmandu",
@@ -43857,7 +43857,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "3600 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn', 'Garage', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Gym', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Lawn', 'Garage', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Gym', 'Modular Kitchen', 'TV Cable', 'Washing Machine', 'Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Business For Sale In Jamal, Kathmandu",
@@ -43877,7 +43877,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "2000 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Chabahil, Kathmandu",
@@ -43897,7 +43897,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Sitapaila, Kathmandu",
@@ -43917,7 +43917,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Pepsicola, Kathmandu",
@@ -43937,7 +43937,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Land For Sale In Pepsicola, Kathmandu",
@@ -43957,7 +43957,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "Sun City : Apartment For Sale In Pepsicola, Kathmandu",
@@ -43977,7 +43977,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Backyard', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Swimming Pool', 'Drainage', 'Water Supply']"
+   "Amenities": ['Backyard', 'Balcony', 'Frontyard', 'Garden', 'Modular Kitchen', 'Swimming Pool', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Land For Sale In Gothatar, Kathmandu",
@@ -43997,7 +43997,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "[]"
+   "Amenities": [],
  },
  {
    "Title": "House For Sale In Maitidevi, Kathmandu",
@@ -44017,7 +44017,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Backyard', 'Balcony', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Garage', 'Backyard', 'Balcony', 'Garden', 'Microwave', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "House For Sale In Nakhipot, Lalitpur",
@@ -44037,7 +44037,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Lawn', 'Backyard', 'Deck', 'Fencing', 'Frontyard', 'Balcony', 'Garden', 'Wifi', 'Drainage', 'Modular Kitchen', 'TV Cable', 'Water Supply']"
+   "Amenities": ['Garage', 'Lawn', 'Backyard', 'Deck', 'Fencing', 'Frontyard', 'Balcony', 'Garden', 'Wifi', 'Drainage', 'Modular Kitchen', 'TV Cable', 'Water Supply'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -44057,7 +44057,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "4080.12 Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "House For Sale In Machhegaun, Kirtipur",
@@ -44077,7 +44077,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "House For Sale In Kupondole, Lalitpur",
@@ -44097,7 +44097,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Lawn', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply']"
+   "Amenities": ['Lawn', 'Garage', 'Backyard', 'Balcony', 'Deck', 'Fencing', 'Frontyard', 'Garden', 'Modular Kitchen', 'TV Cable', 'Wifi', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "Land For Sale In Budhanilkantha, Kathmandu",
@@ -44117,7 +44117,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Drainage', 'Water Supply']"
+   "Amenities": ['Drainage', 'Water Supply'],
  },
  {
    "Title": "House For Rent In Chapali, Kathmandu",
@@ -44137,7 +44137,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Frontyard', 'Garden', 'Drainage', 'Water Supply']"
+   "Amenities": ['Balcony', 'Frontyard', 'Garden', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "House For Sale In Sitapaila, Kathmandu",
@@ -44157,7 +44157,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Frontyard', 'Drainage', 'Water Supply']"
+   "Amenities": ['Balcony', 'Frontyard', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "House For Sale In Budhanilkantha, Kathmandu",
@@ -44177,7 +44177,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Balcony', 'Frontyard', 'Drainage', 'Water Supply']"
+   "Amenities": ['Balcony', 'Frontyard', 'Drainage', 'Water Supply'],
  },
  {
    "Title": "House For Rent In Baneshwor, Kathmandu",
@@ -44197,7 +44197,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "N/A Sq. Feet",
    "Posted": "1 year ago",
-   "Amenities": "['Drainage', 'Water Supply', 'Garden', 'Frontyard', 'Backyard', 'Lawn']"
+   "Amenities": ['Drainage', 'Water Supply', 'Garden', 'Frontyard', 'Backyard', 'Lawn'],
  },
  {
    "Title": "House For Sale In Baluwatar, Kathmandu",
@@ -44217,7 +44217,7 @@ const listings = [
    "Road Type": "NA",
    "Build Area": "13 Aana",
    "Posted": "1 year ago",
-   "Amenities": "['Garage', 'Balcony', 'Frontyard', 'Drainage', 'Water Supply']"
+   "Amenities": ['Garage', 'Balcony', 'Frontyard', 'Drainage', 'Water Supply'],
  }
 ]
 

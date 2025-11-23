@@ -39,8 +39,9 @@ const saleRange = {
 
 // Random type
 const randomType = () =>
-  ["studio", "apartment", "house", "villa"][Math.floor(Math.random() * 4)];
+  ["Studio", "Apartment", "House", "Villa"][Math.floor(Math.random() * 4)];
 
+const randomListingType =() =>["Sale","Rent","Lease"][Math.floor(Math.random() * 3)]
 // Random rent period
 const randomPeriod = () =>
   Math.random() < 0.7 ? "mo" : "year"; // 70% monthly, 30% yearly
@@ -73,30 +74,30 @@ export const properties = listings.splice(0,50).map((_, i) => {
 
   let rawPrice, priceText, rentPeriod = null;
 
-  if (listingType === "rent") {
-    rentPeriod = randomPeriod(); // "mo" or "year"
+  // if (listingType === "rent") {
+  //   rentPeriod = randomPeriod(); // "mo" or "year"
 
-    const [min, max] = rentRange[type];
-    rawPrice = Math.floor(Math.random() * (max - min) + min);
+  //   const [min, max] = rentRange[type];
+  //   rawPrice = Math.floor(Math.random() * (max - min) + min);
 
-    // If yearly rent → multiply monthly by 12
-    if (rentPeriod === "year") {
-      rawPrice *= 12;
-    }
+  //   // If yearly rent → multiply monthly by 12
+  //   if (rentPeriod === "year") {
+  //     rawPrice *= 12;
+  //   }
 
-    priceText = formatRent(rawPrice, rentPeriod);
-  } else {
-    // SALE pricing
-    const [min, max] = saleRange[type];
-    rawPrice = Math.floor(Math.random() * (max - min) + min);
-    priceText = formatSale(rawPrice);
-  }
+  //   priceText = formatRent(rawPrice, rentPeriod);
+  // } else {
+  //   // SALE pricing
+  //   const [min, max] = saleRange[type];
+  //   rawPrice = Math.floor(Math.random() * (max - min) + min);
+  //   priceText = formatSale(rawPrice);
+  // }
 
   return {
     id: i + 1,
     title:_.Title,
     type : randomType(),
-    listingType,  
+    listingType:randomListingType(),
     rentPeriod,   
     rawPrice: _.Price,
     price: priceText,
@@ -107,6 +108,8 @@ export const properties = listings.splice(0,50).map((_, i) => {
     images:[randomImage(),randomImage(),randomImage(),randomImage()],
     lat: 27.65 + Math.random() * 0.16,
     lng: 85.28 + Math.random() * 0.12,
+    amenities : _.Amenities,
+    address:_.Address
   };
 });
 

@@ -71,6 +71,21 @@ export function PropertyModal({ property, onClose }) {
 
           <p className="text-gray-600 mt-2">{property.address}</p>
 
+          <div>
+            <h2 className="text-2xl font-bold">Amenities</h2>
+            <div className="flex flex-wrap gap-2 mt-2">
+  {property.amenities.map((item) => (
+    <span
+      key={item}
+      className="px-3 py-1 text-sm bg-gray-100 text-gray-700 rounded-full border"
+    >
+      {item}
+    </span>
+  ))}
+</div>
+           
+          </div>
+
           <button
             className="mt-4 bg-blue-500 text-white px-4 py-2 rounded"
             onClick={onClose}

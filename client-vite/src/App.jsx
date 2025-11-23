@@ -8,6 +8,7 @@ import { properties } from "./data/properties";
 import {PropertyModal} from './components/PropertyCard'
 
 import { useState, useMemo , useEffect } from "react";
+import { Home } from "./pages/Home";
 
 export default function App() {
 
@@ -74,10 +75,11 @@ function closeModal(){
 }
 
   return (
-    <div className="bg-[#fafafa] min-h-screen">
-      <Navbar />
+    <div className="bg-[#FFFFFF] min-h-screen max-w-7xl mx-auto px-6">
+    
+      <Home/>
 
-      <div className="max-w-7xl mx-auto px-6">
+      <div className="">
         <SearchBar setFilters={setFilters} />
 
         <FilterBar

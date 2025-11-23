@@ -10,7 +10,7 @@ export default function PropertyGrid({ properties,  onClick }) {
   }
 
   return (
-    <div className="grid grid-cols-1 gap-5">
+    <div className="flex flex-wrap gap-2 justify-between items-baseline mt-3">
       {properties.map((p) => (
         <div key={p.id}>
           <PropertyCard p={p} onClick={onClick}/>
